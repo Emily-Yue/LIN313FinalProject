@@ -1,0 +1,254 @@
+{
+  "puzzle_id": 21196,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-06-10",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-06-10",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "First word for many babies, to a parent's delight",
+          "clueEnd": 4,
+          "formatted": "First word for many babies, to a parent&#39;s delight"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Affix with heat, as a shirt patch",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 14,
+          "value": "___ Trench, deepest location on Earth",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Prefix with Pen and genetics",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 25,
+          "value": "Diamond, e.g.",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "What 1-Down is, to 13-Across",
+          "clueEnd": 34,
+          "related": {
+            "down": [
+              1
+            ],
+            "across": [
+              13
+            ]
+          }
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 36,
+          "value": "Settled a debt",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 44,
+          "value": "\"Me, too!\"",
+          "clueEnd": 47,
+          "formatted": "&#34;Me, too!&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Baby's undergarment",
+          "clueEnd": 36,
+          "formatted": "Baby&#39;s undergarment"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Opposite of departs",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "\"___ make myself clear?\"",
+          "clueEnd": 17,
+          "formatted": "&#34;___ make myself clear?&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "What 1-Down is, to 13-Across",
+          "clueEnd": 46,
+          "related": {
+            "down": [
+              1
+            ],
+            "across": [
+              13
+            ]
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 12,
+          "value": "Baby's overgarment",
+          "clueEnd": 47,
+          "formatted": "Baby&#39;s overgarment"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 13,
+          "value": "Identified",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 14,
+          "value": "French for \"sea\"",
+          "clueEnd": 28,
+          "formatted": "French for &#34;sea&#34;"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 31,
+          "value": "Govt. org. that monitors our air and water",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "D",
+      "A",
+      "D",
+      "A",
+      null,
+      null,
+      null,
+      "I",
+      "R",
+      "O",
+      "N",
+      "O",
+      "N",
+      "M",
+      "A",
+      "R",
+      "I",
+      "A",
+      "N",
+      "A",
+      "E",
+      "P",
+      "I",
+      null,
+      "G",
+      "E",
+      "M",
+      "R",
+      "E",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      null,
+      "R",
+      "E",
+      "P",
+      "A",
+      "I",
+      "D",
+      null,
+      null,
+      "S",
+      "A",
+      "M",
+      "E",
+      null
+    ]
+  }
+}

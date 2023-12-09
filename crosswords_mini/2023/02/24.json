@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 20970,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-24",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-24",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "\"What'd you say?\"",
+          "clueEnd": 3,
+          "formatted": "&#34;What&#39;d you say?&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Many a Twitch streamer",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Neighbor of Montana",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Round before the finals",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Quick haircuts",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Bill who played Stefon on \"S.N.L.\"",
+          "clueEnd": 21,
+          "formatted": "Bill who played Stefon on \"S.N.L.\""
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Savory taste",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Pronoun pairing",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "General sense",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Bob who painted \"happy little clouds\"",
+          "clueEnd": 24,
+          "formatted": "Bob who painted &#34;happy little clouds&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      "H",
+      "U",
+      "H",
+      null,
+      "G",
+      "A",
+      "M",
+      "E",
+      "R",
+      "I",
+      "D",
+      "A",
+      "H",
+      "O",
+      "S",
+      "E",
+      "M",
+      "I",
+      "S",
+      "T",
+      "R",
+      "I",
+      "M",
+      "S"
+    ]
+  }
+}

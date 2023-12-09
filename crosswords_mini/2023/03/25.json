@@ -1,0 +1,239 @@
+{
+  "puzzle_id": 21038,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-25",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-25",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Spider's home",
+          "clueEnd": 4,
+          "formatted": "Spider&#39;s home"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Head of a company's board",
+          "clueEnd": 12,
+          "formatted": "Head of a company&#39;s board"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Annoying thing to forget to pack for a trip",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Peach's center",
+          "clueEnd": 23,
+          "formatted": "Peach&#39;s center"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 25,
+          "value": "Covert U.S. org.",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 28,
+          "value": "Not yet a homeowner",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 36,
+          "value": "Covers, as the bill",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 44,
+          "value": "Mess around (with)",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "All the other various things",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Body part that, after an \"H\" is added, becomes what you can do with it ",
+          "clueEnd": 17,
+          "formatted": "Body part that, after an &#34;H&#34; is added, becomes what you can do with it "
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Metropolis",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "The \"C\" of C.E.O.",
+          "clueEnd": 36,
+          "formatted": "The &#34;C&#34; of C.E.O."
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "Horse rider's straps",
+          "clueEnd": 40,
+          "formatted": "Horse rider&#39;s straps"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Lifeguard's skill, for short",
+          "clueEnd": 28,
+          "formatted": "Lifeguard&#39;s skill, for short"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Cleaning cloth",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 31,
+          "value": "___ cool for school",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "W",
+      "E",
+      "B",
+      null,
+      null,
+      null,
+      "C",
+      "H",
+      "A",
+      "I",
+      "R",
+      null,
+      "C",
+      "H",
+      "A",
+      "R",
+      "G",
+      "E",
+      "R",
+      "P",
+      "I",
+      "T",
+      null,
+      "C",
+      "I",
+      "A",
+      "R",
+      "E",
+      "N",
+      "T",
+      "I",
+      "N",
+      "G",
+      null,
+      "F",
+      "O",
+      "O",
+      "T",
+      "S",
+      null,
+      null,
+      null,
+      "T",
+      "O",
+      "Y",
+      null,
+      null
+    ]
+  }
+}

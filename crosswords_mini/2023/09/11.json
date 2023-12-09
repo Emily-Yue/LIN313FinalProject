@@ -1,0 +1,153 @@
+{
+  "puzzle_id": 21410,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-11",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-11",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Traffic tie-up",
+          "clueEnd": 2
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Distant and unfriendly",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Roald Dahl character who sports a purple coat and green trousers",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Having a serious expression",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 22,
+          "value": "Chasing game",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "1975 hit movie filmed largely at sea",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Tons and tons",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "\"Impression, Sunrise\" painter",
+          "clueEnd": 22,
+          "formatted": "&#34;Impression, Sunrise&#34; painter"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Vegetable that becomes gooey when cooked",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "Sharp canine",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "J",
+      "A",
+      "M",
+      null,
+      null,
+      "A",
+      "L",
+      "O",
+      "O",
+      "F",
+      "W",
+      "O",
+      "N",
+      "K",
+      "A",
+      "S",
+      "T",
+      "E",
+      "R",
+      "N",
+      null,
+      null,
+      "T",
+      "A",
+      "G"
+    ]
+  }
+}

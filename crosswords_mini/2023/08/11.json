@@ -1,0 +1,166 @@
+{
+  "puzzle_id": 21335,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-08-11",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-08-11",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Letters that move around",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "School function with a D.J.",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Liver or lungs",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Area of study",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "See 2-Down",
+          "clueEnd": 24,
+          "related": {
+            "down": [
+              2
+            ],
+            "across": []
+          }
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Tennis's Sharapova",
+          "clueEnd": 21,
+          "formatted": "Tennis&#39;s Sharapova"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "With 8-Across, Venezuelan landmark whose water drops 3,200+ feet",
+          "clueEnd": 22,
+          "related": {
+            "down": [],
+            "across": [
+              8
+            ]
+          }
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "\"Your bet doesn't scare me,\" in poker",
+          "clueEnd": 23,
+          "formatted": "&#34;Your bet doesn&#39;t scare me,&#34; in poker"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Gives temporarily",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Remove, as a hat",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      "M",
+      "A",
+      "I",
+      "L",
+      "D",
+      "A",
+      "N",
+      "C",
+      "E",
+      "O",
+      "R",
+      "G",
+      "A",
+      "N",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "F",
+      "A",
+      "L",
+      "L",
+      "S"
+    ]
+  }
+}

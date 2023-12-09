@@ -1,0 +1,1016 @@
+{
+  "puzzle_id": 20855,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-02-15",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Sean Ziebarth",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/02/14/crosswords/daily-puzzle-2023-02-15.html"
+    }
+  },
+  "print_date": "2023-02-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Sean Ziebarth"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Kit Kat component",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Heal (over)",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "\"Ruler,\" in Quechua",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Words before \"darned\"",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "What ice cream and hearts may do",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Transport up a bunny hill",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Investigative journalist and civil rights pioneer who co-founded the N.A.A.C.P.",
+          "clueEnd": 39,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "Some bunts, in brief",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Exhaust",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 50,
+          "value": "Boiling sensation",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "California's \"Eureka,\" for one",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 62,
+          "value": "Novelist and civil rights activist who wrote \"Go Tell It on the Mountain\"",
+          "clueEnd": 74,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "Language in which \"eleven\" is \"once\"",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 83,
+          "value": "One way to crack",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "Holiday pie flavor",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 97,
+          "value": "Automated tweeter",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 101,
+          "value": "Ribs serving",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "\"___ away!\"",
+          "clueEnd": 107
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 109,
+          "value": "W.W. II-era campaign that helped usher in the civil rights movement \u2026 and a hint to four answers in this puzzle",
+          "clueEnd": 115,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              23,
+              52,
+              62
+            ]
+          }
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 117,
+          "value": "Letter after phi",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 120,
+          "value": "Make a pit stop at a punk show?",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 125,
+          "value": "Bodybuilding supplement co.",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 130,
+          "value": "Interrupt, as at a dance",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 138,
+          "value": "Rank above a viscount",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 143,
+          "value": "Road flare, e.g.",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 150,
+          "value": "African American who received a posthumous Medal of Honor for valorous service in W.W. II",
+          "clueEnd": 162,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 165,
+          "value": "\"Star Wars\" beeper, informally",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 172,
+          "value": "Nest egg inits.",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 177,
+          "value": "Transcript stat",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 180,
+          "value": "When repeated, a sport fish",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 185,
+          "value": "Historian, essayist and civil rights leader who was the first African American to receive a doctorate at Harvard",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 195,
+          "value": "Manipulates",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 200,
+          "value": "Whimper",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 205,
+          "value": "Waze way",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 210,
+          "value": "Trimester, e.g.",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 215,
+          "value": "___-bitsy",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 220,
+          "value": "Many, informally",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Consoles whose controllers have wrist straps",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Hawkeye's player on \"M*A*S*H\"",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Griddle goodies",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Beach retreat?",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Give juice to",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Enemy org. in Bond novels",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Big name",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "\"That's ___ she wrote\"",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "K-pop megastars",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "\"We're through!\"",
+          "clueEnd": 101
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Where to see Timberwolves battle Grizzlies",
+          "clueEnd": 72
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Mojave flora",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Crime of combustion",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Competes (for)",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "G.P.s, e.g.",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 63,
+          "value": "Actress de Armas",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 64,
+          "value": "Yours might be made up",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 68,
+          "value": "Off-base, in a way",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 69,
+          "value": "Lo-cal, perhaps",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "___ folder",
+          "clueEnd": 120
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 76,
+          "value": "Durango dough",
+          "clueEnd": 121
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 97,
+          "value": "Original \"Fleabag\" airer",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 102,
+          "value": "Throwing a tantrum, say",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 103,
+          "value": "Facial feature that many characters on \"The Simpsons\" lack",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 104,
+          "value": "\"___ me!\" (checkers cry)",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 110,
+          "value": "Fairy tale baddie",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 111,
+          "value": "Silver State sch.",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 115,
+          "value": "Bygone home theater components ",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 123,
+          "value": "Selfless courage",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 131,
+          "value": "Popular card game",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 139,
+          "value": "In the past",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 143,
+          "value": "Like a songbird",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 144,
+          "value": "Hardly any",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 150,
+          "value": "Full spectrum",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 151,
+          "value": "Clear the board",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 152,
+          "value": "___ half (partner)",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 157,
+          "value": "Peak perks",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 178,
+          "value": "The stones in stone fruits",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 179,
+          "value": "On the briny",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 185,
+          "value": "Keydets' sch.",
+          "clueEnd": 215,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 186,
+          "value": "Screen, as a candidate",
+          "clueEnd": 216,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 190,
+          "value": "\"www\" address",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 191,
+          "value": "Cry that might make you jump",
+          "clueEnd": 221
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "W",
+      "A",
+      "F",
+      "E",
+      "R",
+      null,
+      "S",
+      "C",
+      "A",
+      "B",
+      null,
+      "I",
+      "N",
+      "C",
+      "A",
+      "I",
+      "L",
+      "L",
+      "B",
+      "E",
+      null,
+      "M",
+      "E",
+      "L",
+      "T",
+      null,
+      "T",
+      "B",
+      "A",
+      "R",
+      "I",
+      "D",
+      "A",
+      "B",
+      "V",
+      "V",
+      "E",
+      "L",
+      "L",
+      "S",
+      null,
+      "S",
+      "A",
+      "C",
+      "S",
+      "S",
+      "A",
+      "P",
+      null,
+      null,
+      "I",
+      "R",
+      "E",
+      null,
+      null,
+      "M",
+      "O",
+      "T",
+      "T",
+      "O",
+      null,
+      null,
+      "J",
+      "A",
+      "M",
+      "E",
+      "S",
+      "B",
+      "A",
+      "L",
+      "D",
+      "V",
+      "V",
+      "I",
+      "N",
+      "S",
+      "P",
+      "A",
+      "N",
+      "I",
+      "S",
+      "H",
+      null,
+      "W",
+      "I",
+      "S",
+      "E",
+      null,
+      null,
+      null,
+      "P",
+      "E",
+      "C",
+      "A",
+      "N",
+      null,
+      null,
+      "B",
+      "O",
+      "T",
+      null,
+      "R",
+      "A",
+      "C",
+      "K",
+      "A",
+      "S",
+      "K",
+      null,
+      "D",
+      "O",
+      "U",
+      "B",
+      "L",
+      "E",
+      "V",
+      null,
+      "C",
+      "H",
+      "I",
+      "M",
+      "O",
+      "S",
+      "H",
+      null,
+      "G",
+      "N",
+      "C",
+      null,
+      null,
+      "C",
+      "U",
+      "T",
+      "I",
+      "N",
+      null,
+      null,
+      null,
+      "E",
+      "A",
+      "R",
+      "L",
+      null,
+      "W",
+      "A",
+      "R",
+      "N",
+      "I",
+      "N",
+      "G",
+      "G",
+      "E",
+      "O",
+      "R",
+      "G",
+      "E",
+      "V",
+      "V",
+      "A",
+      "T",
+      "S",
+      "O",
+      "N",
+      null,
+      null,
+      "A",
+      "R",
+      "T",
+      "O",
+      "O",
+      null,
+      null,
+      "I",
+      "R",
+      "A",
+      null,
+      null,
+      "G",
+      "P",
+      "A",
+      "M",
+      "A",
+      "H",
+      "I",
+      null,
+      "V",
+      "V",
+      "E",
+      "B",
+      "D",
+      "U",
+      "B",
+      "O",
+      "I",
+      "S",
+      "U",
+      "S",
+      "E",
+      "S",
+      null,
+      "M",
+      "E",
+      "W",
+      "L",
+      null,
+      "R",
+      "O",
+      "U",
+      "T",
+      "E",
+      "T",
+      "E",
+      "R",
+      "M",
+      null,
+      "I",
+      "T",
+      "S",
+      "Y",
+      null,
+      "L",
+      "O",
+      "T",
+      "S",
+      "A"
+    ]
+  }
+}

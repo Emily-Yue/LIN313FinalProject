@@ -1,0 +1,986 @@
+{
+  "puzzle_id": 21328,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-09-19",
+    "printDotw": 2,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 16,
+    "width": 14,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Gia Bosko",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/09/18/crosswords/daily-puzzle-2023-09-19.html"
+    }
+  },
+  "print_date": "2023-09-19",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Gia Bosko"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Egyptian reptile that's a symbol of royalty",
+          "clueEnd": 2
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "\"In that case \u2026\"",
+          "clueEnd": 7
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 10,
+          "value": "Doofus",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 14,
+          "value": "Pasture",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 18,
+          "value": "It's really something!",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 23,
+          "value": "Actress Christine of \"The Blacklist\"",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 28,
+          "value": "Having many syllables, like this answer, 18-Across and especially 53-/57-Across",
+          "clueEnd": 41,
+          "related": {
+            "down": [],
+            "across": [
+              18,
+              18,
+              53,
+              57
+            ]
+          }
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 42,
+          "value": "In a noisy and unruly manner",
+          "clueEnd": 55,
+          "related": {
+            "down": [],
+            "across": [
+              15
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 57,
+          "value": "Actress Falco of \"Nurse Jackie\"",
+          "clueEnd": 60
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 62,
+          "value": "\"Listen up!,\" in Lima",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 66,
+          "value": "Production at theater camp, maybe",
+          "clueEnd": 69
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 70,
+          "value": "Fails totally",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 76,
+          "value": "Wraps (up)",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 81,
+          "value": "Prefix with system",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 84,
+          "value": "Wall Street index, with \"the\"",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 89,
+          "value": "Club ___",
+          "clueEnd": 91
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 93,
+          "value": "Plot element in \"Romeo and Juliet\"",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 98,
+          "value": "Some overhangs",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 106,
+          "value": "Chinese steamed bun",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 115,
+          "value": "Frequent URL ending",
+          "clueEnd": 117
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 119,
+          "value": "\"You won't believe it, but \u2026\"",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 126,
+          "value": "Chopped to bits",
+          "clueEnd": 130
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 132,
+          "value": "Irate",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 137,
+          "value": "Increase the power of, with \"up\"",
+          "clueEnd": 139
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 140,
+          "value": "Director DuVernay",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 144,
+          "value": "Whack, as a fly",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 149,
+          "value": "March 14 observance that might be celebrated with dessert in math class",
+          "clueEnd": 153
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 154,
+          "value": "Gothic novelist Shelley",
+          "clueEnd": 157
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 159,
+          "value": "Wood for a baseball bat",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 163,
+          "value": "Spoken",
+          "clueEnd": 166
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 168,
+          "value": "Opposition to the removal of \u2026",
+          "clueEnd": 181,
+          "related": {
+            "down": [],
+            "across": [
+              15
+            ]
+          }
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 182,
+          "value": "\u2026 state support from the church",
+          "clueEnd": 195,
+          "related": {
+            "down": [],
+            "across": [
+              15
+            ]
+          }
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 196,
+          "value": "Marsupial that sleeps 18-22 hours a day",
+          "clueEnd": 200
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 202,
+          "value": "Bloke",
+          "clueEnd": 205
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 207,
+          "value": "Coffee alternative",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 210,
+          "value": "Elate",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 216,
+          "value": "Thus",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 221,
+          "value": "Abbr. sometimes repeated several times in a row",
+          "clueEnd": 223
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "In addition",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Phrase that would be appropriate at the end of 53-Across",
+          "clueEnd": 99,
+          "related": {
+            "down": [],
+            "across": [
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Give to someone from a younger generation",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Hardens (to)",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "___ gras (French delicacy)",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Imagines",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Like a Cyclops",
+          "clueEnd": 91
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 10,
+          "value": "Anklebone",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 11,
+          "value": "Johnnie Walker or Jim Beam",
+          "clueEnd": 95,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 12,
+          "value": "Type that leans right",
+          "clueEnd": 96
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 13,
+          "value": "Wee one",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 23,
+          "value": "Language of Vientiane",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 31,
+          "value": "Big name in swabs",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 36,
+          "value": "Picked a card",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 70,
+          "value": "Vaccine-regulating org.",
+          "clueEnd": 98
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 79,
+          "value": "Field goal percentage, e.g.",
+          "clueEnd": 121
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 89,
+          "value": "Studio with \"Ars gratia artis\" in its logo",
+          "clueEnd": 117
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 94,
+          "value": "Hogwash",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 101,
+          "value": "Word before pop or T",
+          "clueEnd": 129,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 102,
+          "value": "Signals at an auction, maybe",
+          "clueEnd": 144
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 106,
+          "value": "Resting place",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 119,
+          "value": "Word often paired with hunter",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 123,
+          "value": "Ate something",
+          "clueEnd": 221,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 124,
+          "value": "\"Ready!\"",
+          "clueEnd": 222,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 125,
+          "value": "Wiretapper, e.g.",
+          "clueEnd": 153
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 126,
+          "value": "Reversible woven fabrics",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 127,
+          "value": "Sir Walter Scott novel set in the Middle Ages",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 128,
+          "value": "\"South Park\" kid with a blue-and-yellow beanie",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 132,
+          "value": "Tension-reducing spa treatment",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 145,
+          "value": "\"Hold on!\"",
+          "clueEnd": 187
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 149,
+          "value": "Latke ingredient",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 150,
+          "value": "Country whose name looks like something a marathoner might say",
+          "clueEnd": 192
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 157,
+          "value": "Stock market calculation",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 172,
+          "value": "Double-helix molecule",
+          "clueEnd": 200
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 176,
+          "value": "When said three times, classic Benny Goodman tune",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 181,
+          "value": "Apple desktop",
+          "clueEnd": 223
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "S",
+      "P",
+      null,
+      "I",
+      "F",
+      "S",
+      "O",
+      null,
+      null,
+      "T",
+      "W",
+      "I",
+      "T",
+      "L",
+      "E",
+      "A",
+      null,
+      "N",
+      "O",
+      "U",
+      "N",
+      null,
+      "L",
+      "A",
+      "H",
+      "T",
+      "I",
+      "S",
+      "E",
+      "S",
+      "Q",
+      "U",
+      "I",
+      "P",
+      "E",
+      "D",
+      "A",
+      "L",
+      "I",
+      "A",
+      "N",
+      "O",
+      "B",
+      "S",
+      "T",
+      "R",
+      "E",
+      "P",
+      "E",
+      "R",
+      "O",
+      "U",
+      "S",
+      "L",
+      "Y",
+      null,
+      "E",
+      "D",
+      "I",
+      "E",
+      null,
+      "O",
+      "Y",
+      "E",
+      null,
+      "S",
+      "K",
+      "I",
+      "T",
+      "F",
+      "L",
+      "O",
+      "P",
+      "S",
+      null,
+      "S",
+      "E",
+      "W",
+      "S",
+      null,
+      "E",
+      "C",
+      "O",
+      "D",
+      "O",
+      "W",
+      null,
+      null,
+      "M",
+      "E",
+      "D",
+      null,
+      "T",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "W",
+      "N",
+      "I",
+      "N",
+      "G",
+      "S",
+      null,
+      "B",
+      "A",
+      "O",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "C",
+      "O",
+      "M",
+      null,
+      "G",
+      "E",
+      "T",
+      "T",
+      "H",
+      "I",
+      "S",
+      "D",
+      "I",
+      "C",
+      "E",
+      "D",
+      null,
+      "M",
+      "A",
+      "D",
+      null,
+      null,
+      "A",
+      "M",
+      "P",
+      "A",
+      "V",
+      "A",
+      null,
+      "S",
+      "W",
+      "A",
+      "T",
+      null,
+      "P",
+      "I",
+      "D",
+      "A",
+      "Y",
+      "M",
+      "A",
+      "R",
+      "Y",
+      null,
+      "A",
+      "S",
+      "H",
+      null,
+      "O",
+      "R",
+      "A",
+      "L",
+      null,
+      "A",
+      "N",
+      "T",
+      "I",
+      "D",
+      "I",
+      "S",
+      "E",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "I",
+      "S",
+      "H",
+      "M",
+      "E",
+      "N",
+      "T",
+      "A",
+      "R",
+      "I",
+      "A",
+      "N",
+      "I",
+      "S",
+      "M",
+      "K",
+      "O",
+      "A",
+      "L",
+      "A",
+      null,
+      "G",
+      "E",
+      "N",
+      "T",
+      null,
+      "T",
+      "E",
+      "A",
+      "S",
+      "E",
+      "N",
+      "D",
+      null,
+      null,
+      "E",
+      "R",
+      "G",
+      "O",
+      null,
+      "E",
+      "T",
+      "C"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21062,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-04-09",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-04-09",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"Mind blown!\"",
+          "clueEnd": 3,
+          "formatted": "&#34;Mind blown!&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Word that can fit \"Wishing ___\" or \"___-wishing\"",
+          "clueEnd": 8,
+          "formatted": "Word that can fit &#34;Wishing ___&#34; or &#34;___-wishing&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Part of the United Kingdom",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "Dramatic sort",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Edible part of a sunflower",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "U.R.L. letters",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Tails counterpart",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Skateboarding jump",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Tylenol alternative",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Feeling blue",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "W",
+      "H",
+      "O",
+      "A",
+      null,
+      "W",
+      "E",
+      "L",
+      "L",
+      null,
+      "W",
+      "A",
+      "L",
+      "E",
+      "S",
+      null,
+      "D",
+      "I",
+      "V",
+      "A",
+      null,
+      "S",
+      "E",
+      "E",
+      "D"
+    ]
+  }
+}

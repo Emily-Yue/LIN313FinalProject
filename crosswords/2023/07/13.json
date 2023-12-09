@@ -1,0 +1,991 @@
+{
+  "puzzle_id": 21159,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-07-13",
+    "printDotw": 4,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Hanh Huynh",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/07/12/crosswords/daily-puzzle-2023-07-13.html"
+    }
+  },
+  "print_date": "2023-07-13",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Hanh Huynh"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Pataky of the \"Fast & Furious\" franchise",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "Scot's \"not\"",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 11,
+          "value": "Sound from a note passer",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 15,
+          "value": "Agua fresca fruit",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 21,
+          "value": "Ctrl+F action",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 26,
+          "value": "Mayberry boy of classic TV",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 30,
+          "value": "1995 Coolio song featured in the film \"Dangerous Minds\"",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 41,
+          "value": "Offenses",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 45,
+          "value": "Upstaged",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 54,
+          "value": "Group of computers commandeered in a cyberattack",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 60,
+          "value": "Org. protecting U.S. information systems",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 64,
+          "value": "\"This statement is false,\" for one",
+          "clueEnd": 72,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 78,
+          "value": "Some bills",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 83,
+          "value": "Summer mo.",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 87,
+          "value": "Shirt or blouse",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 90,
+          "value": "A \"full\" one can be very revealing",
+          "clueEnd": 94,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 97,
+          "value": "Enjoyed a dinner date with oneself, perhaps",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 105,
+          "value": "Heed",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 110,
+          "value": "Like Canadian provinces vis-\u00e0-vis U.S. states",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 116,
+          "value": "Squid predator",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 120,
+          "value": "End-of-season sports event ",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 130,
+          "value": "School lineup",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 135,
+          "value": "What a nod usually means",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 139,
+          "value": "Genetic messenger",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 143,
+          "value": "\"Mmm-hmm. If you say so\"",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 152,
+          "value": "\"The Good Samaritan\" and \"The Prodigal Son,\" for example",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 162,
+          "value": "\"___ Poetica\"",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 165,
+          "value": "Promise",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 172,
+          "value": "\"What's in a name?\" name",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 180,
+          "value": "Self-",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 185,
+          "value": "Effecting fundamental changes to perceptions",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 195,
+          "value": "Pre-calc course",
+          "clueEnd": 198,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 200,
+          "value": "Territory",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 205,
+          "value": "Comedic actor Wilson who wrote the 2023 best-seller \"Soul Boom\"",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 210,
+          "value": "Brooding sorts",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 215,
+          "value": "Canal and Mott, in N.Y.C.",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 221,
+          "value": "Dweller on the Baltic Sea",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Incite",
+          "clueEnd": 60
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Feasts where kalua pua\u2018a might be served",
+          "clueEnd": 61
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Noted coal provider",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Batting stats: Abbr.",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "American-born Japanese",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 8,
+          "value": "Actress MacDowell",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 9,
+          "value": "J.Crew competitor",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 11,
+          "value": "Fellowship recipient at a research lab, perhaps",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 12,
+          "value": "Pros at redirecting the narrative",
+          "clueEnd": 132
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 13,
+          "value": "0, for 180 degrees",
+          "clueEnd": 58,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 14,
+          "value": "Word with run or drive",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 19,
+          "value": "Scarlett's first love in \"Gone With the Wind\"",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 21,
+          "value": "Part of a vampire costume",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 35,
+          "value": "Drawn-out character",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 55,
+          "value": "Korbut of gymnastics",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 68,
+          "value": "Oscar-winning Blanchett",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 78,
+          "value": "Texter's \"Bye for now\"",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 88,
+          "value": "\"Back in my day \u2026\"",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 89,
+          "value": "Pod set",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 90,
+          "value": "Name before Dick",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 91,
+          "value": "A woodwind",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 92,
+          "value": "Program interrupter, perhaps",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 97,
+          "value": "Leave thunderstruck",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 101,
+          "value": "Boor",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 110,
+          "value": "New York Comic Con and Treklanta, for two",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 111,
+          "value": "Key of Rossini's \"William Tell\" Overture: Abbr.",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 124,
+          "value": "Diluted rum",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 130,
+          "value": "Rouse to action",
+          "clueEnd": 205
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 143,
+          "value": "Seems suspect",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 144,
+          "value": "Hit without swinging",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 153,
+          "value": "University of Georgia athletes",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 157,
+          "value": "Mideast leaders",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 162,
+          "value": "Texas A&M athlete",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 163,
+          "value": "Basic principle",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 164,
+          "value": "River deposit",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 165,
+          "value": "Track",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 166,
+          "value": "There may be a catch to this",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 176,
+          "value": "Like many a fussbudget",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 186,
+          "value": "Unpretentious home",
+          "clueEnd": 216
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "E",
+      "L",
+      "S",
+      "A",
+      null,
+      null,
+      null,
+      "N",
+      "A",
+      "E",
+      null,
+      "P",
+      "S",
+      "S",
+      "T",
+      "G",
+      "U",
+      "A",
+      "V",
+      "A",
+      null,
+      "F",
+      "I",
+      "N",
+      "D",
+      null,
+      "O",
+      "P",
+      "I",
+      "E",
+      "G",
+      "A",
+      "N",
+      "G",
+      "S",
+      "T",
+      "A",
+      "S",
+      [
+        "DIE",
+        "D"
+      ],
+      [
+        "DIE",
+        "D"
+      ],
+      null,
+      "S",
+      "I",
+      "N",
+      "S",
+      "O",
+      "U",
+      "T",
+      "S",
+      "H",
+      "O",
+      "N",
+      "E",
+      null,
+      "B",
+      "O",
+      "T",
+      "N",
+      "E",
+      "T",
+      "N",
+      "S",
+      "A",
+      null,
+      "L",
+      "O",
+      "G",
+      "I",
+      "C",
+      "A",
+      "L",
+      [
+        "DOC",
+        "D"
+      ],
+      [
+        "DOC",
+        "D"
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      "T",
+      "E",
+      "N",
+      "S",
+      null,
+      "A",
+      "U",
+      "G",
+      null,
+      "T",
+      "O",
+      "P",
+      "M",
+      "O",
+      "N",
+      "T",
+      "Y",
+      null,
+      null,
+      "A",
+      "T",
+      "E",
+      "A",
+      "L",
+      "O",
+      "N",
+      "E",
+      "O",
+      "B",
+      "E",
+      "Y",
+      null,
+      "F",
+      "E",
+      "W",
+      "E",
+      "R",
+      null,
+      "O",
+      "R",
+      "C",
+      "A",
+      "B",
+      "O",
+      "W",
+      "L",
+      "G",
+      "A",
+      "M",
+      "E",
+      null,
+      null,
+      "B",
+      "U",
+      "S",
+      "E",
+      "S",
+      "Y",
+      "E",
+      "S",
+      null,
+      "R",
+      "N",
+      "A",
+      null,
+      "I",
+      "B",
+      "E",
+      "T",
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        "BULL",
+        "B"
+      ],
+      [
+        "BULL",
+        "B"
+      ],
+      "O",
+      "F",
+      "J",
+      "E",
+      "S",
+      "U",
+      "S",
+      null,
+      "A",
+      "R",
+      "S",
+      "P",
+      "L",
+      "E",
+      "D",
+      "G",
+      "E",
+      null,
+      "M",
+      "O",
+      "N",
+      "T",
+      "A",
+      "G",
+      "U",
+      "E",
+      "A",
+      "U",
+      "T",
+      "O",
+      null,
+      "S",
+      "H",
+      "I",
+      "F",
+      "T",
+      "I",
+      "N",
+      "G",
+      [
+        "DIME",
+        "D"
+      ],
+      [
+        "DIME",
+        "D"
+      ],
+      "T",
+      "R",
+      "I",
+      "G",
+      null,
+      "T",
+      "U",
+      "R",
+      "F",
+      null,
+      "R",
+      "A",
+      "I",
+      "N",
+      "N",
+      "H",
+      "E",
+      "N",
+      "S",
+      null,
+      "S",
+      "T",
+      "S",
+      null,
+      null,
+      null,
+      "L",
+      "E",
+      "T",
+      "T"
+    ]
+  }
+}

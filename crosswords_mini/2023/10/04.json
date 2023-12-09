@@ -1,0 +1,166 @@
+{
+  "puzzle_id": 21470,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-04",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-04",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "What \"X\" might mark",
+          "clueEnd": 4,
+          "formatted": "What &#34;X&#34; might mark"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Root vegetable that can be made into chips",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "With 2-Down, nickname for an overly swanky person",
+          "clueEnd": 14,
+          "related": {
+            "down": [
+              2
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "\"___ boy!\"",
+          "clueEnd": 18,
+          "formatted": "&#34;___ boy!&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Something to clean up",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Any member of a dropdown list that starts AL, AK, AZ",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "See 6-Across",
+          "clueEnd": 22,
+          "related": {
+            "down": [],
+            "across": [
+              6
+            ]
+          }
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Only known predators of great white sharks",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Squeaky mouse, for a cat",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Close relatives, informally",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "P",
+      "O",
+      "T",
+      null,
+      "T",
+      "A",
+      "R",
+      "O",
+      "F",
+      "A",
+      "N",
+      "C",
+      "Y",
+      "A",
+      "T",
+      "T",
+      "A",
+      null,
+      "M",
+      "E",
+      "S",
+      "S",
+      null
+    ]
+  }
+}

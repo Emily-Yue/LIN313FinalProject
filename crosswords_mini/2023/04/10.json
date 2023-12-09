@@ -1,0 +1,149 @@
+{
+  "puzzle_id": 21066,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-04-10",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-04-10",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Floor-washing tool",
+          "clueEnd": 2
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Food Network personalities",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Airplane seating choice",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Bottom figure on a receipt",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 22,
+          "value": "Who goes \"Whoo ... whoo ...\"",
+          "clueEnd": 24,
+          "formatted": "Who goes &#34;Whoo ... whoo ...&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Exam for a future doctor: Abbr.",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Neighbor of Pennsylvania",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Green pasta sauce",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Deficiency",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "Put on the market",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "M",
+      "O",
+      "P",
+      null,
+      null,
+      "C",
+      "H",
+      "E",
+      "F",
+      "S",
+      "A",
+      "I",
+      "S",
+      "L",
+      "E",
+      "T",
+      "O",
+      "T",
+      "A",
+      "L",
+      null,
+      null,
+      "O",
+      "W",
+      "L"
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "puzzle_id": 21145,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-20",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-20",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Baby's bed",
+          "clueEnd": 6,
+          "formatted": "Baby's bed"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "To-do around the house",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "It shares a 1,538-mile border with Canada",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 21,
+          "value": "Very much in love",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 28,
+          "value": "Tidied, as hair",
+          "clueEnd": 33,
+          "formatted": "Tidied, as hair"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 35,
+          "value": "Ann ___, Mich.",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 42,
+          "value": "Word before \"in show\" or \"in class\"",
+          "clueEnd": 45,
+          "formatted": "Word before &#34;in show&#34; or &#34;in class&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "A.I. conversation partner",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 4,
+          "value": "Team listing",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 5,
+          "value": "Annoyed",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "The ___, nickname for Chicago's Cloud Gate sculpture",
+          "clueEnd": 27,
+          "formatted": "The ___, nickname for Chicago&#39;s Cloud Gate sculpture"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Mountaineer's undertakings",
+          "clueEnd": 44,
+          "formatted": "Mountaineer&#39;s undertakings"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Love, in Italian",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 21,
+          "value": "Sign of a wound's healing",
+          "clueEnd": 42,
+          "formatted": "Sign of a wound&#39;s healing"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      null,
+      "C",
+      "R",
+      "I",
+      "B",
+      null,
+      null,
+      "C",
+      "H",
+      "O",
+      "R",
+      "E",
+      null,
+      "A",
+      "L",
+      "A",
+      "S",
+      "K",
+      "A",
+      "S",
+      "M",
+      "I",
+      "T",
+      "T",
+      "E",
+      "N",
+      "C",
+      "O",
+      "M",
+      "B",
+      "E",
+      "D",
+      null,
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      null,
+      null,
+      "B",
+      "E",
+      "S",
+      "T",
+      null,
+      null,
+      null
+    ]
+  }
+}

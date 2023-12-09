@@ -1,0 +1,149 @@
+{
+  "puzzle_id": 21586,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-22",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-22",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Punctuation for a pause",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Labor group",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "1943 Bronze Lincoln ___, coin that has sold for more than $200,000",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "Pretend (like)",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "\"It's ... just okay\"",
+          "clueEnd": 23,
+          "formatted": "&#34;It&#39;s ... just okay&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Beer pong target",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Late bedtime",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Chop into small pieces",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Its days are numbered",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Whichever",
+          "clueEnd": 14
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      "C",
+      "O",
+      "M",
+      "M",
+      "A",
+      "U",
+      "N",
+      "I",
+      "O",
+      "N",
+      "P",
+      "E",
+      "N",
+      "N",
+      "Y",
+      null,
+      "A",
+      "C",
+      "T",
+      null,
+      null,
+      "M",
+      "E",
+      "H",
+      null
+    ]
+  }
+}

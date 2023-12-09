@@ -1,0 +1,150 @@
+{
+  "puzzle_id": 21370,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-08-21",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-08-21",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Ice cream holder",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Musical instrument in Guinness's logo",
+          "clueEnd": 9,
+          "formatted": "Musical instrument in Guinness&#39;s logo"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Ice cream topping",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Away from the wind, to a sailor",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Ice cream topping",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "West Point student",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Goads on",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "N95 masks and the like: Abbr.",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Streaming service with \"Only Murders in the Building\"",
+          "clueEnd": 21,
+          "formatted": "Streaming service with &#34;Only Murders in the Building&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Ceiling spinner",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "C",
+      "U",
+      "P",
+      null,
+      "H",
+      "A",
+      "R",
+      "P",
+      "F",
+      "U",
+      "D",
+      "G",
+      "E",
+      "A",
+      "L",
+      "E",
+      "E",
+      null,
+      "N",
+      "U",
+      "T",
+      "S",
+      null
+    ]
+  }
+}

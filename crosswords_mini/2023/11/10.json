@@ -1,0 +1,167 @@
+{
+  "puzzle_id": 21534,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-10",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-10",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Double-helix molecule",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Home to the Louvre",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "See 7-Across",
+          "clueEnd": 14,
+          "related": {
+            "down": [],
+            "across": [
+              7
+            ]
+          }
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Is completely unaware of the modern world (when read in relation to 6-Across)",
+          "clueEnd": 19,
+          "related": {
+            "down": [],
+            "across": [
+              6
+            ]
+          },
+          "formatted": "Is completely unaware of the modern world (when read in relation to 6-Across)"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Common middle name that sounds like a month",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Took the car",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "\"Good one!\"",
+          "clueEnd": 18,
+          "formatted": "&#34;Good one!&#34;"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Inquires",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "What fits in the Venn diagram of \"Trees\" and \"Body Parts\"",
+          "clueEnd": 20,
+          "formatted": "What fits in the Venn diagram of &#34;Trees&#34; and &#34;Body Parts&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Opera solo",
+          "clueEnd": 21
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "D",
+      "N",
+      "A",
+      "P",
+      "A",
+      "R",
+      "I",
+      "S",
+      "A",
+      "R",
+      "O",
+      "C",
+      "K",
+      "L",
+      "I",
+      "V",
+      "E",
+      "S",
+      "M",
+      "A",
+      "E",
+      null,
+      null
+    ]
+  }
+}

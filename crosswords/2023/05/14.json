@@ -1,0 +1,1924 @@
+{
+  "puzzle_id": 21041,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "Alternate Endings",
+    "printDate": "2023-05-14",
+    "printDotw": 0,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 21,
+    "width": 21,
+    "notes": [
+      {
+        "txt": "Note: The puzzle contains elements that this printable format cannot reproduce. We recommend solving digitally, or via the newspaper PDF.",
+        "spoiler": false,
+        "platforms": {
+          "pdf": true,
+          "web": false,
+          "al": false,
+          "iOS": false,
+          "windows": false,
+          "android": false
+        }
+      }
+    ],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Sid Sivakumar",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/05/13/crosswords/daily-puzzle-2023-05-14.html"
+    }
+  },
+  "print_date": "2023-05-14",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Sid Sivakumar"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Greek letter that's a symbol for torque",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Done without foresight",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 11,
+          "value": "Small samples",
+          "clueEnd": 14,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 16,
+          "value": "Chocolatier's unit",
+          "clueEnd": 18,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "Holding areas in Capture the Flag",
+          "clueEnd": 25,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 27,
+          "value": "Thoughtless mode",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 37,
+          "value": "Declares confidently",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 42,
+          "value": "Novelist/short-story writer ___ Bender",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 48,
+          "value": "\"The Rise of ___\" (2019 film subtitle)",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 58,
+          "value": "Coat with small droplets",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 63,
+          "value": "Mrs. or Sra. equivalent",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 67,
+          "value": "Prepares to deal, perhaps",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 72,
+          "value": "Western ___ (coll. course)",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 76,
+          "value": "Name repeated in a nursery rhyme",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 81,
+          "value": "Item sometimes made with wiliwili seeds",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 84,
+          "value": "Flaky, syrupy pastry",
+          "clueEnd": 90
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 92,
+          "value": "Divisions represented by the highlighted answers in this puzzle",
+          "clueEnd": 96
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 98,
+          "value": "Livestream, e.g.",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 105,
+          "value": "Worry-free",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "French for \"between\"",
+          "clueEnd": 117
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 120,
+          "value": "Small fox with unusually large ears",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 129,
+          "value": "University of Cincinnati athlete",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 137,
+          "value": "___ Command (Atari game of the 1980s)",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 148,
+          "value": "Abbr. in a birth announcement",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 153,
+          "value": "Longtime",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 159,
+          "value": "Invitation in a therapist's office",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 164,
+          "value": "Minecraft block with a fuse",
+          "clueEnd": 166
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 168,
+          "value": "Designer of Doha's Museum of Islamic Art",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 172,
+          "value": "Analogy words",
+          "clueEnd": 175
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 177,
+          "value": "\"Yes, that spot right there ...\"",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 181,
+          "value": "Added streaks to, say",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 186,
+          "value": "Honey ___! (ring-shaped cereal)",
+          "clueEnd": 188
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 189,
+          "value": "Young bloke",
+          "clueEnd": 191
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 193,
+          "value": "Ruin",
+          "clueEnd": 196
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 198,
+          "value": "Last word in \"America the Beautiful\"",
+          "clueEnd": 200
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 202,
+          "value": "Anna of Arendelle's elder sister",
+          "clueEnd": 205
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 207,
+          "value": "Festival with lion dances",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 210,
+          "value": "Mobile ___",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 214,
+          "value": "Ultimatum word",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 72,
+          "clueStart": 219,
+          "value": "Pitch",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 73,
+          "clueStart": 223,
+          "value": "Part of a gas mileage rating",
+          "clueEnd": 226
+        },
+        {
+          "clueNum": 74,
+          "clueStart": 228,
+          "value": "Start-up loan agcy.",
+          "clueEnd": 230
+        },
+        {
+          "clueNum": 75,
+          "clueStart": 231,
+          "value": "Damascene's country",
+          "clueEnd": 235
+        },
+        {
+          "clueNum": 77,
+          "clueStart": 237,
+          "value": "What \"gladiator\" literally translates to",
+          "clueEnd": 245
+        },
+        {
+          "clueNum": 80,
+          "clueStart": 247,
+          "value": "Beer brand with mountains in its logo",
+          "clueEnd": 251
+        },
+        {
+          "clueNum": 82,
+          "clueStart": 252,
+          "value": "Jessica ___, astronaut who participated in the first all-female spacewalk",
+          "clueEnd": 255
+        },
+        {
+          "clueNum": 83,
+          "clueStart": 259,
+          "value": "Not the same",
+          "clueEnd": 265
+        },
+        {
+          "clueNum": 84,
+          "clueStart": 269,
+          "value": "It \"sounds like a clarinet with a cold,\" per Victor Borge",
+          "clueEnd": 272
+        },
+        {
+          "clueNum": 85,
+          "clueStart": 273,
+          "value": "Battery in a Wii Remote",
+          "clueEnd": 278
+        },
+        {
+          "clueNum": 88,
+          "clueStart": 280,
+          "value": "Stinging pests",
+          "clueEnd": 286
+        },
+        {
+          "clueNum": 89,
+          "clueStart": 288,
+          "value": "Some residents of the eastern Mediterranean",
+          "clueEnd": 293
+        },
+        {
+          "clueNum": 91,
+          "clueStart": 295,
+          "value": "Banks",
+          "clueEnd": 300
+        },
+        {
+          "clueNum": 93,
+          "clueStart": 302,
+          "value": "Lung or brain segments",
+          "clueEnd": 306
+        },
+        {
+          "clueNum": 94,
+          "clueStart": 308,
+          "value": "Like a dirty film",
+          "clueEnd": 313
+        },
+        {
+          "clueNum": 95,
+          "clueStart": 318,
+          "value": "Chlorophyte, e.g.",
+          "clueEnd": 321
+        },
+        {
+          "clueNum": 96,
+          "clueStart": 324,
+          "value": "Org. for D.C. United and the L.A. Galaxy",
+          "clueEnd": 326
+        },
+        {
+          "clueNum": 97,
+          "clueStart": 329,
+          "value": "Impediments to team productivity",
+          "clueEnd": 332
+        },
+        {
+          "clueNum": 98,
+          "clueStart": 336,
+          "value": "Get in a knot",
+          "clueEnd": 342
+        },
+        {
+          "clueNum": 101,
+          "clueStart": 344,
+          "value": "\"Thou God ___ me\" (Genesis quote)",
+          "clueEnd": 348
+        },
+        {
+          "clueNum": 103,
+          "clueStart": 350,
+          "value": "Fred who co-created \"Portlandia\"",
+          "clueEnd": 356
+        },
+        {
+          "clueNum": 107,
+          "clueStart": 357,
+          "value": "Campus part",
+          "clueEnd": 360
+        },
+        {
+          "clueNum": 108,
+          "clueStart": 362,
+          "value": "In a scuffle",
+          "clueEnd": 365
+        },
+        {
+          "clueNum": 110,
+          "clueStart": 369,
+          "value": "Hopping herbivore",
+          "clueEnd": 372
+        },
+        {
+          "clueNum": 112,
+          "clueStart": 374,
+          "value": "Captain of fiction",
+          "clueEnd": 377
+        },
+        {
+          "clueNum": 113,
+          "clueStart": 378,
+          "value": "Address that's often shown in blue letters",
+          "clueEnd": 380
+        },
+        {
+          "clueNum": 114,
+          "clueStart": 382,
+          "value": "With 116-Across, procedures in which drivers take turns joining a single stream, as demonstrated five times in this puzzle",
+          "clueEnd": 387,
+          "related": {
+            "down": [],
+            "across": [
+              116
+            ]
+          }
+        },
+        {
+          "clueNum": 116,
+          "clueStart": 389,
+          "value": "See 114-Across",
+          "clueEnd": 394,
+          "related": {
+            "down": [],
+            "across": [
+              114
+            ]
+          }
+        },
+        {
+          "clueNum": 118,
+          "clueStart": 396,
+          "value": "Crow's cry",
+          "clueEnd": 398
+        },
+        {
+          "clueNum": 119,
+          "clueStart": 399,
+          "value": "Backside",
+          "clueEnd": 401
+        },
+        {
+          "clueNum": 120,
+          "clueStart": 403,
+          "value": "Air Seoul's parent airline",
+          "clueEnd": 408
+        },
+        {
+          "clueNum": 121,
+          "clueStart": 410,
+          "value": "Hubbub",
+          "clueEnd": 415
+        },
+        {
+          "clueNum": 122,
+          "clueStart": 417,
+          "value": "Actress Mowry of \"Sister, Sister\"",
+          "clueEnd": 419
+        },
+        {
+          "clueNum": 123,
+          "clueStart": 420,
+          "value": "Green expanse",
+          "clueEnd": 422
+        },
+        {
+          "clueNum": 124,
+          "clueStart": 424,
+          "value": "Commander for Joe Biden, e.g.",
+          "clueEnd": 429
+        },
+        {
+          "clueNum": 125,
+          "clueStart": 431,
+          "value": "Pass judgment on",
+          "clueEnd": 436
+        },
+        {
+          "clueNum": 126,
+          "clueStart": 438,
+          "value": "Tricksy",
+          "clueEnd": 440
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Person with a stopwatch",
+          "clueEnd": 107,
+          "related": {
+            "down": [
+              15,
+              47
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Drink that may be spiced",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Potential scenario in which a piece of software might be helpful",
+          "clueEnd": 130
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Person who worships Jah",
+          "clueEnd": 90
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "Puffins, e.g.",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 8,
+          "value": "Total dump",
+          "clueEnd": 50
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 9,
+          "value": "\"Is it even possible?!\"",
+          "clueEnd": 135,
+          "related": {
+            "down": [
+              58,
+              8
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 11,
+          "value": "It'll take a second to get it",
+          "clueEnd": 137,
+          "related": {
+            "down": [
+              58,
+              7
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 12,
+          "value": "Similar group",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 13,
+          "value": "\"A ___ begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness\": Robert Frost",
+          "clueEnd": 76
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 14,
+          "value": "Boba tea is often served with a wide one",
+          "clueEnd": 98
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 16,
+          "value": "Miniature cheese wheel brand",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 17,
+          "value": "\"___ Maria\"",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 18,
+          "value": "Chinese New Year decoration",
+          "clueEnd": 123,
+          "related": {
+            "down": [
+              53,
+              21
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "Meat-and-vegetables dish with Creole and Cajun varieties",
+          "clueEnd": 105,
+          "related": {
+            "down": [
+              1,
+              47
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 22,
+          "value": "Target",
+          "clueEnd": 106
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 31,
+          "value": "Coat that may take awhile to put on",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 40,
+          "value": "Witherspoon of Hollywood",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 41,
+          "value": "Electrical wiring nexus",
+          "clueEnd": 125,
+          "related": {
+            "down": [
+              53,
+              14
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 68,
+          "value": "Pigmented eye layer",
+          "clueEnd": 131
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 78,
+          "value": "Lower-interest deal, for short",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 87,
+          "value": "Blood work, colloquially",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 92,
+          "value": "Start of a detective's trail",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 96,
+          "value": "Uno + dos + tres",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 101,
+          "value": "Site with gadget reviews",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 132,
+          "value": "Revolutionary cooking device?",
+          "clueEnd": 237,
+          "related": {
+            "down": [
+              55,
+              87
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 133,
+          "value": "Conflict over seceding from the Galactic Republic, in sci-fi",
+          "clueEnd": 280
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 139,
+          "value": "Cocktails named after motorcycle attachments",
+          "clueEnd": 286
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 140,
+          "value": "Hair salon goo",
+          "clueEnd": 245,
+          "related": {
+            "down": [
+              89,
+              62
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 148,
+          "value": "Many a presidential election occurs in one",
+          "clueEnd": 295,
+          "related": {
+            "down": [
+              1,
+              15
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 149,
+          "value": "Prospective eBay buyer's figure",
+          "clueEnd": 296
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 165,
+          "value": "\"Better than I thought\"",
+          "clueEnd": 312
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 166,
+          "value": "Where hip-hop originated",
+          "clueEnd": 313,
+          "related": {
+            "down": [
+              14,
+              21
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 168,
+          "value": "State of matter in the sun",
+          "clueEnd": 273
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 172,
+          "value": "Theoretical substance for which a chemistry law is named",
+          "clueEnd": 235,
+          "related": {
+            "down": [
+              87,
+              42
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 173,
+          "value": "Fifth in a scale",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 177,
+          "value": "Stadium with the first animated scoreboard",
+          "clueEnd": 345
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 178,
+          "value": "Where newlyweds are typically seated at a wedding reception",
+          "clueEnd": 346,
+          "related": {
+            "down": [
+              7,
+              8
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 179,
+          "value": "Severity",
+          "clueEnd": 347
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 183,
+          "value": "Latin \"is\"",
+          "clueEnd": 225
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 184,
+          "value": "Toddler drop-off locales",
+          "clueEnd": 247,
+          "related": {
+            "down": [
+              46,
+              89
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 188,
+          "value": "Equilibria",
+          "clueEnd": 293
+        },
+        {
+          "clueNum": 76,
+          "clueStart": 234,
+          "value": "Home to the sport of hurling",
+          "clueEnd": 360
+        },
+        {
+          "clueNum": 78,
+          "clueStart": 239,
+          "value": "Americans usually spell \"cancelled\" with this",
+          "clueEnd": 302
+        },
+        {
+          "clueNum": 79,
+          "clueStart": 243,
+          "value": "Queens players",
+          "clueEnd": 306
+        },
+        {
+          "clueNum": 81,
+          "clueStart": 248,
+          "value": "Enters like slime",
+          "clueEnd": 374
+        },
+        {
+          "clueNum": 86,
+          "clueStart": 277,
+          "value": "Grammy-winning Mexican singer Downs",
+          "clueEnd": 340
+        },
+        {
+          "clueNum": 87,
+          "clueStart": 278,
+          "value": "Exercise that strengthens hip flexors",
+          "clueEnd": 425,
+          "related": {
+            "down": [
+              55,
+              42
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 89,
+          "clueStart": 288,
+          "value": "Compilations of laughably bad takes",
+          "clueEnd": 435,
+          "related": {
+            "down": [
+              46,
+              62
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 90,
+          "clueStart": 289,
+          "value": "Bit that bonds",
+          "clueEnd": 352
+        },
+        {
+          "clueNum": 92,
+          "clueStart": 300,
+          "value": "Mineral collection site",
+          "clueEnd": 426
+        },
+        {
+          "clueNum": 94,
+          "clueStart": 308,
+          "value": "Motion to ___ (court request)",
+          "clueEnd": 434
+        },
+        {
+          "clueNum": 98,
+          "clueStart": 336,
+          "value": "Are",
+          "clueEnd": 420
+        },
+        {
+          "clueNum": 99,
+          "clueStart": 337,
+          "value": "Certain essential worker",
+          "clueEnd": 421
+        },
+        {
+          "clueNum": 100,
+          "clueStart": 338,
+          "value": "Taco topping",
+          "clueEnd": 422
+        },
+        {
+          "clueNum": 101,
+          "clueStart": 344,
+          "value": "Job increasingly replaced by speech-to-text programs",
+          "clueEnd": 428
+        },
+        {
+          "clueNum": 102,
+          "clueStart": 348,
+          "value": "G7 member, informally",
+          "clueEnd": 432
+        },
+        {
+          "clueNum": 104,
+          "clueStart": 354,
+          "value": "Some offshoots",
+          "clueEnd": 438
+        },
+        {
+          "clueNum": 105,
+          "clueStart": 355,
+          "value": "What might have attachment issues?",
+          "clueEnd": 439
+        },
+        {
+          "clueNum": 106,
+          "clueStart": 356,
+          "value": "\"You're kidding!\"",
+          "clueEnd": 440
+        },
+        {
+          "clueNum": 109,
+          "clueStart": 364,
+          "value": "Tablet you might take in the bathroom",
+          "clueEnd": 427
+        },
+        {
+          "clueNum": 111,
+          "clueStart": 370,
+          "value": "The Hindu god Ganesha is often depicted with four of them",
+          "clueEnd": 433
+        },
+        {
+          "clueNum": 114,
+          "clueStart": 382,
+          "value": "Ray gun sound",
+          "clueEnd": 424
+        },
+        {
+          "clueNum": 115,
+          "clueStart": 387,
+          "value": "Makeshift towel",
+          "clueEnd": 429
+        },
+        {
+          "clueNum": 116,
+          "clueStart": 389,
+          "value": "N.Y.C. commuter rail overseer",
+          "clueEnd": 431
+        },
+        {
+          "clueNum": 117,
+          "clueStart": 394,
+          "value": "Pedestrians cross them: Abbr.",
+          "clueEnd": 436
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      null,
+      "T",
+      "A",
+      "U",
+      null,
+      "R",
+      "A",
+      "S",
+      "H",
+      null,
+      "S",
+      "I",
+      "P",
+      "S",
+      null,
+      "B",
+      "A",
+      "R",
+      null,
+      null,
+      "J",
+      "A",
+      "I",
+      "L",
+      "S",
+      null,
+      "A",
+      "U",
+      "T",
+      "O",
+      "P",
+      "I",
+      "L",
+      "O",
+      "T",
+      null,
+      "A",
+      "V",
+      "E",
+      "R",
+      "S",
+      "A",
+      "I",
+      "M",
+      "E",
+      "E",
+      null,
+      "S",
+      "K",
+      "Y",
+      "W",
+      "A",
+      "L",
+      "K",
+      "E",
+      "R",
+      null,
+      "B",
+      "E",
+      "D",
+      "E",
+      "W",
+      "M",
+      "M",
+      "E",
+      null,
+      "C",
+      "U",
+      "T",
+      "S",
+      null,
+      "C",
+      "I",
+      "V",
+      null,
+      "M",
+      "A",
+      "R",
+      "Y",
+      null,
+      "L",
+      "E",
+      "I",
+      "B",
+      "A",
+      "K",
+      "L",
+      "A",
+      "V",
+      "A",
+      null,
+      "L",
+      "A",
+      "N",
+      "E",
+      "S",
+      null,
+      "W",
+      "E",
+      "B",
+      "C",
+      "A",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "A",
+      "S",
+      "E",
+      null,
+      null,
+      "E",
+      "N",
+      "T",
+      "R",
+      "E",
+      null,
+      null,
+      "F",
+      "E",
+      "N",
+      "N",
+      "E",
+      "C",
+      null,
+      null,
+      null,
+      "B",
+      "E",
+      "A",
+      "R",
+      "C",
+      "A",
+      "T",
+      null,
+      "M",
+      "I",
+      "S",
+      "S",
+      "I",
+      "L",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "L",
+      "B",
+      "S",
+      null,
+      null,
+      "O",
+      "L",
+      "D",
+      null,
+      null,
+      null,
+      "S",
+      "I",
+      "T",
+      null,
+      null,
+      "T",
+      "N",
+      "T",
+      null,
+      "P",
+      "E",
+      "I",
+      null,
+      "I",
+      "S",
+      "T",
+      "O",
+      null,
+      "A",
+      "H",
+      "H",
+      null,
+      "D",
+      "Y",
+      "E",
+      "D",
+      null,
+      "O",
+      "H",
+      "S",
+      "L",
+      "A",
+      "D",
+      null,
+      "D",
+      "O",
+      "I",
+      "N",
+      null,
+      "S",
+      "E",
+      "A",
+      null,
+      "E",
+      "L",
+      "S",
+      "A",
+      null,
+      "T",
+      "E",
+      "T",
+      "A",
+      "P",
+      "P",
+      null,
+      "E",
+      "L",
+      "S",
+      "E",
+      null,
+      "T",
+      "A",
+      "R",
+      null,
+      "C",
+      "I",
+      "T",
+      "Y",
+      null,
+      "S",
+      "B",
+      "A",
+      "S",
+      "Y",
+      "R",
+      "I",
+      "A",
+      null,
+      "S",
+      "W",
+      "O",
+      "R",
+      "D",
+      "S",
+      "M",
+      "A",
+      "N",
+      null,
+      "C",
+      "O",
+      "O",
+      "R",
+      "S",
+      "M",
+      "E",
+      "I",
+      "R",
+      null,
+      null,
+      null,
+      "A",
+      "N",
+      "O",
+      "T",
+      "H",
+      "E",
+      "R",
+      null,
+      null,
+      null,
+      "O",
+      "B",
+      "O",
+      "E",
+      "A",
+      "A",
+      "C",
+      "E",
+      "L",
+      "L",
+      null,
+      "R",
+      "E",
+      "D",
+      "A",
+      "N",
+      "T",
+      "S",
+      null,
+      "G",
+      "A",
+      "Z",
+      "A",
+      "N",
+      "S",
+      null,
+      "R",
+      "E",
+      "L",
+      "I",
+      "E",
+      "S",
+      null,
+      "L",
+      "O",
+      "B",
+      "E",
+      "S",
+      null,
+      "R",
+      "A",
+      "T",
+      "E",
+      "D",
+      "X",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "L",
+      "G",
+      "A",
+      null,
+      null,
+      "M",
+      "L",
+      "S",
+      null,
+      null,
+      "E",
+      "G",
+      "O",
+      "S",
+      null,
+      null,
+      null,
+      "E",
+      "N",
+      "S",
+      "N",
+      "A",
+      "R",
+      "L",
+      null,
+      "S",
+      "E",
+      "E",
+      "S",
+      "T",
+      null,
+      "A",
+      "R",
+      "M",
+      "I",
+      "S",
+      "E",
+      "N",
+      "Q",
+      "U",
+      "A",
+      "D",
+      null,
+      "A",
+      "T",
+      "I",
+      "T",
+      null,
+      null,
+      null,
+      "H",
+      "A",
+      "R",
+      "E",
+      null,
+      "N",
+      "E",
+      "M",
+      "O",
+      "U",
+      "R",
+      "L",
+      null,
+      "Z",
+      "I",
+      "P",
+      "P",
+      "E",
+      "R",
+      null,
+      "M",
+      "E",
+      "R",
+      "G",
+      "E",
+      "S",
+      null,
+      "C",
+      "A",
+      "W",
+      "A",
+      "S",
+      "S",
+      null,
+      "A",
+      "S",
+      "I",
+      "A",
+      "N",
+      "A",
+      null,
+      "T",
+      "U",
+      "M",
+      "U",
+      "L",
+      "T",
+      null,
+      "T",
+      "I",
+      "A",
+      "L",
+      "E",
+      "A",
+      null,
+      "P",
+      "E",
+      "T",
+      "D",
+      "O",
+      "G",
+      null,
+      "A",
+      "S",
+      "S",
+      "E",
+      "S",
+      "S",
+      null,
+      "S",
+      "L",
+      "Y"
+    ],
+    "overlayImage": {
+      "onStart": "https://www.nytimes.com/games-assets/overlays/May1423.start.png"
+    }
+  }
+}

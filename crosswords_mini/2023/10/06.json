@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21474,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-06",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-06",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Something you choose to chew",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Country whose name is a facial feature + A",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "High, as expectations",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Cars",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "___ Peacock, character in Clue",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "\"No ___\" (invitation request)",
+          "clueEnd": 22,
+          "formatted": "&#34;No ___&#34; (invitation request)"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Biblical preposition",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Willie with 660 career home runs",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Stop talking, with \"up\"",
+          "clueEnd": 20,
+          "formatted": "Stop talking, with &#34;up&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "9 to 10, 10 to 11 or 11 to 12",
+          "clueEnd": 21
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "G",
+      "U",
+      "M",
+      "C",
+      "H",
+      "I",
+      "N",
+      "A",
+      "L",
+      "O",
+      "F",
+      "T",
+      "Y",
+      "A",
+      "U",
+      "T",
+      "O",
+      "S",
+      "M",
+      "R",
+      "S",
+      null,
+      null
+    ]
+  }
+}

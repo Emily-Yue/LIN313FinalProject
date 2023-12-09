@@ -1,0 +1,153 @@
+{
+  "puzzle_id": 20975,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-02",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-02",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Shapes of some gummy candies",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "\"See you all later\"",
+          "clueEnd": 9,
+          "formatted": "&#34;See you all later&#34;"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Sweetness or sourness",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Sound from a baby bird",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "They work around the clock",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Broomstick rider",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "The Oracle of ___, nickname for Warren Buffett",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Nevada senator Jacky",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Unable to be heard, on a Zoom call",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Bits of choreography",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "W",
+      "O",
+      "R",
+      "M",
+      "S",
+      "I",
+      "M",
+      "O",
+      "U",
+      "T",
+      "T",
+      "A",
+      "S",
+      "T",
+      "E",
+      "C",
+      "H",
+      "E",
+      "E",
+      "P",
+      "H",
+      "A",
+      "N",
+      "D",
+      "S"
+    ]
+  }
+}

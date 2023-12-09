@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21438,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-20",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-20",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Take a chair",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "What restaurants that serve Sierra Mist, Aquafina and Mug Root Beer are also likely to have",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Steer clear of",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Where lots of streamers can be found hanging around",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Bullet ___, insect with an incredibly painful sting",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Boxing or bowling",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "\"___ just me, or ...\"",
+          "clueEnd": 18,
+          "formatted": "&#34;___ just me, or ...&#34;"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Neat and clean",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Daddy",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Broadway's \"Dear ___ Hansen\"",
+          "clueEnd": 21,
+          "formatted": "Broadway&#39;s &#34;Dear ___ Hansen&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "S",
+      "I",
+      "T",
+      "P",
+      "E",
+      "P",
+      "S",
+      "I",
+      "A",
+      "V",
+      "O",
+      "I",
+      "D",
+      "P",
+      "A",
+      "R",
+      "T",
+      "Y",
+      "A",
+      "N",
+      "T",
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,1363 @@
+{
+  "puzzle_id": 20754,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "In Play",
+    "printDate": "2023-01-01",
+    "printDotw": 0,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 21,
+    "width": 21,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Adam Wagner, Michael Lieberman and Rafael Musa",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2022/12/31/crosswords/daily-puzzle-2023-01-01.html"
+    }
+  },
+  "print_date": "2023-01-01",
+  "enhanced_tier_date": null,
+  "authors": ["Adam Wagner", "Michael Lieberman", "Rafael Musa"],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Image on the flag of Oakland, Calif., appropriately",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Country whose capital is an anagram of its former capital",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Sends 10 texts in a row to, say",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 17,
+          "value": "Stage partitions?",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 21,
+          "value": "Achings",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 26,
+          "value": "Basic Mediterranean sauce",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 32,
+          "value": "Eagles' home",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 38,
+          "value": "Pork cut",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 42,
+          "value": "Stick of butter, geometrically",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 59,
+          "value": "Sesame Street resident who refers to himself in the third person",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 63,
+          "value": "Attentive",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 70,
+          "value": "Change of scenery, in real estate lingo",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 77,
+          "value": "Less involved",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 86,
+          "value": "Seminal 1980 hit by Joy Division",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Attire for some queens",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 110,
+          "value": "Subtle flavor, to a wine taster",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 116,
+          "value": "Accomplishes",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 121,
+          "value": "Barbecue discard",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 126,
+          "value": "White House staffer",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 131,
+          "value": "What a V-sign might indicate",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Try to hit, as a pi\u00f1ata",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 144,
+          "value": "___-Locka, Fla.",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 147,
+          "value": "Colorado, Idaho and Wyoming, among others",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 162,
+          "value": "Lap, maybe",
+          "clueEnd": 167
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 168,
+          "value": "Visitors from afar, in brief",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 172,
+          "value": "Hurry, quaintly",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 176,
+          "value": "A matter of course?",
+          "clueEnd": 178
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 182,
+          "value": "Works in a gallery",
+          "clueEnd": 188
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 192,
+          "value": "___ Aviv",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 196,
+          "value": "Hit 1998 Eddie Murphy comedy based on books by Hugh Lofting",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 210,
+          "value": "\"An empty set exists,\" e.g.",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 216,
+          "value": "Stole",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 221,
+          "value": "It lacks value",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 226,
+          "value": "Leafy salad green",
+          "clueEnd": 230
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 231,
+          "value": "Recommit to one's fitness \u2026 or what 23-Across depicts literally",
+          "clueEnd": 244,
+          "related": {
+            "down": [],
+            "across": [23]
+          }
+        },
+        {
+          "clueNum": 74,
+          "clueStart": 246,
+          "value": "State south of Mumbai",
+          "clueEnd": 248
+        },
+        {
+          "clueNum": 75,
+          "clueStart": 252,
+          "value": "Perception",
+          "clueEnd": 258
+        },
+        {
+          "clueNum": 76,
+          "clueStart": 262,
+          "value": "Goof",
+          "clueEnd": 264
+        },
+        {
+          "clueNum": 77,
+          "clueStart": 266,
+          "value": "South, in much of South America",
+          "clueEnd": 268
+        },
+        {
+          "clueNum": 78,
+          "clueStart": 270,
+          "value": "Light touch",
+          "clueEnd": 272
+        },
+        {
+          "clueNum": 81,
+          "clueStart": 273,
+          "value": "Nickname that's an anagram of ONLINE",
+          "clueEnd": 278
+        },
+        {
+          "clueNum": 82,
+          "clueStart": 280,
+          "value": "What characters in musicals often do \u2026 or what 31-Across depicts literally",
+          "clueEnd": 293,
+          "related": {
+            "down": [],
+            "across": [31]
+          }
+        },
+        {
+          "clueNum": 87,
+          "clueStart": 294,
+          "value": "\"Discreet Music\" musician Brian",
+          "clueEnd": 296
+        },
+        {
+          "clueNum": 88,
+          "clueStart": 299,
+          "value": "Cars with clutches",
+          "clueEnd": 305
+        },
+        {
+          "clueNum": 90,
+          "clueStart": 307,
+          "value": "Photographer Goldin",
+          "clueEnd": 309
+        },
+        {
+          "clueNum": 91,
+          "clueStart": 311,
+          "value": "Prosecco cousin",
+          "clueEnd": 314
+        },
+        {
+          "clueNum": 92,
+          "clueStart": 317,
+          "value": "Big shots they are not",
+          "clueEnd": 319
+        },
+        {
+          "clueNum": 95,
+          "clueStart": 321,
+          "value": "Secular",
+          "clueEnd": 324
+        },
+        {
+          "clueNum": 96,
+          "clueStart": 327,
+          "value": "It's just under a foot",
+          "clueEnd": 330
+        },
+        {
+          "clueNum": 97,
+          "clueStart": 332,
+          "value": "Explorer Ericson",
+          "clueEnd": 335
+        },
+        {
+          "clueNum": 98,
+          "clueStart": 336,
+          "value": "Useful people to know \u2026 or what 50-Across depicts literally",
+          "clueEnd": 354,
+          "related": {
+            "down": [],
+            "across": [50]
+          }
+        },
+        {
+          "clueNum": 104,
+          "clueStart": 357,
+          "value": "What an economy seat is usually short on",
+          "clueEnd": 363
+        },
+        {
+          "clueNum": 105,
+          "clueStart": 367,
+          "value": "\"Oh, why not?!\"",
+          "clueEnd": 370
+        },
+        {
+          "clueNum": 106,
+          "clueStart": 373,
+          "value": "Kuwaiti currency",
+          "clueEnd": 377
+        },
+        {
+          "clueNum": 109,
+          "clueStart": 378,
+          "value": "Beseech",
+          "clueEnd": 381
+        },
+        {
+          "clueNum": 110,
+          "clueStart": 383,
+          "value": "Screen feature that facilitates multitasking \u2026 or what 61-Across depicts literally",
+          "clueEnd": 398,
+          "related": {
+            "down": [],
+            "across": [61]
+          }
+        },
+        {
+          "clueNum": 116,
+          "clueStart": 399,
+          "value": "Food that's easy to get hooked on?",
+          "clueEnd": 402
+        },
+        {
+          "clueNum": 117,
+          "clueStart": 404,
+          "value": "Group character",
+          "clueEnd": 408
+        },
+        {
+          "clueNum": 118,
+          "clueStart": 410,
+          "value": "Mocking smile",
+          "clueEnd": 414
+        },
+        {
+          "clueNum": 119,
+          "clueStart": 416,
+          "value": "The \"garden\" in Bosch's \"The Garden of Earthly Delights\" ",
+          "clueEnd": 419
+        },
+        {
+          "clueNum": 120,
+          "clueStart": 420,
+          "value": "Old video game console inits.",
+          "clueEnd": 423
+        },
+        {
+          "clueNum": 121,
+          "clueStart": 425,
+          "value": "Excel",
+          "clueEnd": 429
+        },
+        {
+          "clueNum": 122,
+          "clueStart": 431,
+          "value": "Swamp plant",
+          "clueEnd": 435
+        },
+        {
+          "clueNum": 123,
+          "clueStart": 437,
+          "value": "Lamb, for one",
+          "clueEnd": 440
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Banks on TV",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Lively dance",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Moon of Saturn found to have a potentially habitable ocean",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Component of some hormone therapy",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "National Blood Donor Mo.",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Big inits. in insurance",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Work enthusiastically and energetically",
+          "clueEnd": 154
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Genetic variant",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Singer Horan of the boy band One Direction",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Part of a woodpecker's diet",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "/",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Perfume line by pop star Grande",
+          "clueEnd": 55
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Beauty pageant since 1952",
+          "clueEnd": 140
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Precursors to finals",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 17,
+          "value": "Mideast city with an eponymous pepper",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 18,
+          "value": "Share a byline, maybe",
+          "clueEnd": 228
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 19,
+          "value": "Part of a stove",
+          "clueEnd": 103
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 20,
+          "value": "[That is SO funny!]",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 46,
+          "value": "Off-road option, for short",
+          "clueEnd": 88
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 52,
+          "value": "Spoil",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 79,
+          "value": "___ Pro (tech product)",
+          "clueEnd": 121,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 89,
+          "value": "Require",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 90,
+          "value": "\"Holy moly!\"",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 95,
+          "value": "Button added to Twitter in 2022",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 96,
+          "value": "Primo",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 97,
+          "value": "Govt. agency rules",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Title for food writer Mary Berry",
+          "clueEnd": 168
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 106,
+          "value": "Hilarious sort",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Library section",
+          "clueEnd": 240
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 136,
+          "value": "Imperfection, metaphorically",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 141,
+          "value": "Labor",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 145,
+          "value": "Makes certain knitting stitches",
+          "clueEnd": 229
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 146,
+          "value": "Before: Sp.",
+          "clueEnd": 230
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 151,
+          "value": "Group of gift-givers",
+          "clueEnd": 277
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 155,
+          "value": "Cuddle amorously, in a way",
+          "clueEnd": 239
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 163,
+          "value": "Magical creature associated with rainbows",
+          "clueEnd": 289
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 164,
+          "value": "Tri- one more time?",
+          "clueEnd": 248
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 182,
+          "value": "Rock's ___ Fighters",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 192,
+          "value": "Soccer star ___ Heath",
+          "clueEnd": 276
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 196,
+          "value": "Enthusiastic affirmative",
+          "clueEnd": 238
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 200,
+          "value": "Region encompassing most of the Arkansas/Missouri border",
+          "clueEnd": 305
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 201,
+          "value": "Copy, in brief",
+          "clueEnd": 285
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 202,
+          "value": "Rap mogul, familiarly",
+          "clueEnd": 244,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 210,
+          "value": "Quick and nimble",
+          "clueEnd": 294
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 211,
+          "value": "Noble gas used in some lasers",
+          "clueEnd": 295
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 212,
+          "value": "\"All good\"",
+          "clueEnd": 422
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 216,
+          "value": "B'way purchase",
+          "clueEnd": 258
+        },
+        {
+          "clueNum": 72,
+          "clueStart": 236,
+          "value": "STEM subject that rhymes with \"stem\"",
+          "clueEnd": 299
+        },
+        {
+          "clueNum": 73,
+          "clueStart": 241,
+          "value": "Recover",
+          "clueEnd": 304
+        },
+        {
+          "clueNum": 74,
+          "clueStart": 246,
+          "value": "___ pig",
+          "clueEnd": 351
+        },
+        {
+          "clueNum": 77,
+          "clueStart": 266,
+          "value": "Buy time",
+          "clueEnd": 350
+        },
+        {
+          "clueNum": 78,
+          "clueStart": 270,
+          "value": "Barely sits still? ",
+          "clueEnd": 438
+        },
+        {
+          "clueNum": 79,
+          "clueStart": 271,
+          "value": "No pro",
+          "clueEnd": 334
+        },
+        {
+          "clueNum": 80,
+          "clueStart": 272,
+          "value": "\"Weekend, here I come!\"",
+          "clueEnd": 335
+        },
+        {
+          "clueNum": 82,
+          "clueStart": 280,
+          "value": "___ mitzvah (Jewish ceremony for multiple people)",
+          "clueEnd": 343
+        },
+        {
+          "clueNum": 83,
+          "clueStart": 281,
+          "value": "Flatten, say",
+          "clueEnd": 344
+        },
+        {
+          "clueNum": 84,
+          "clueStart": 282,
+          "value": "A pop",
+          "clueEnd": 345
+        },
+        {
+          "clueNum": 85,
+          "clueStart": 286,
+          "value": "Having an intact tamper seal, say",
+          "clueEnd": 433
+        },
+        {
+          "clueNum": 86,
+          "clueStart": 290,
+          "value": "One might move fast in stores",
+          "clueEnd": 437
+        },
+        {
+          "clueNum": 89,
+          "clueStart": 300,
+          "value": "Loser to Herbert Hoover in 1928",
+          "clueEnd": 426
+        },
+        {
+          "clueNum": 93,
+          "clueStart": 318,
+          "value": "Parts of some military uniforms",
+          "clueEnd": 423
+        },
+        {
+          "clueNum": 94,
+          "clueStart": 319,
+          "value": "___-Caps (candy)",
+          "clueEnd": 361
+        },
+        {
+          "clueNum": 96,
+          "clueStart": 327,
+          "value": "Holy place",
+          "clueEnd": 432
+        },
+        {
+          "clueNum": 98,
+          "clueStart": 336,
+          "value": "Goofs",
+          "clueEnd": 420
+        },
+        {
+          "clueNum": 99,
+          "clueStart": 337,
+          "value": "Aired anew",
+          "clueEnd": 421
+        },
+        {
+          "clueNum": 100,
+          "clueStart": 341,
+          "value": "Uses performance-enhancing drugs",
+          "clueEnd": 425
+        },
+        {
+          "clueNum": 101,
+          "clueStart": 346,
+          "value": "Egypt neighbor: Abbr.",
+          "clueEnd": 388
+        },
+        {
+          "clueNum": 102,
+          "clueStart": 347,
+          "value": "Say \"\u2026, say,\" say",
+          "clueEnd": 431
+        },
+        {
+          "clueNum": 103,
+          "clueStart": 352,
+          "value": "Agcy. that advises against eating raw cookie dough",
+          "clueEnd": 394
+        },
+        {
+          "clueNum": 107,
+          "clueStart": 376,
+          "value": "___ man (frequent subject in The Onion)",
+          "clueEnd": 439
+        },
+        {
+          "clueNum": 108,
+          "clueStart": 377,
+          "value": "Monopoly payment",
+          "clueEnd": 440
+        },
+        {
+          "clueNum": 111,
+          "clueStart": 385,
+          "value": "Home of more than one M.L.B. team",
+          "clueEnd": 427
+        },
+        {
+          "clueNum": 112,
+          "clueStart": 386,
+          "value": "Whole lot",
+          "clueEnd": 428
+        },
+        {
+          "clueNum": 113,
+          "clueStart": 387,
+          "value": "Bring into play",
+          "clueEnd": 429
+        },
+        {
+          "clueNum": 114,
+          "clueStart": 392,
+          "value": "Cribbage marker",
+          "clueEnd": 434
+        },
+        {
+          "clueNum": 115,
+          "clueStart": 393,
+          "value": "Anger",
+          "clueEnd": 435
+        }
+      ]
+    },
+    "clueListOrder": ["Across", "Down"],
+    "layout": [
+      1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+      0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 3, 3, 3, 1, 1, 1, 1, 1,
+      3, 3, 1, 1, 1, 3, 1, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0,
+      0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 3, 3, 1,
+      1, 3, 1, 1, 3, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0,
+      0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 3, 1, 1,
+      1, 1, 3, 1, 1, 1, 3, 1, 1, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+      0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 3, 3, 1, 1,
+      3, 1, 3, 1, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+      0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0,
+      0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+      1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+      1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1,
+      0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+      1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1,
+      1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+      1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+      1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1
+    ],
+    "answers": [
+      "T",
+      "R",
+      "E",
+      "E",
+      null,
+      "J",
+      "A",
+      "P",
+      "A",
+      "N",
+      null,
+      "S",
+      "P",
+      "A",
+      "M",
+      "S",
+      null,
+      "A",
+      "C",
+      "T",
+      "S",
+      "Y",
+      "E",
+      "N",
+      "S",
+      null,
+      "A",
+      "I",
+      "O",
+      "L",
+      "I",
+      null,
+      "A",
+      "E",
+      "R",
+      "I",
+      "E",
+      null,
+      "L",
+      "O",
+      "I",
+      "N",
+      "R",
+      "E",
+      "C",
+      "T",
+      "A",
+      "N",
+      "G",
+      "U",
+      "L",
+      "A",
+      "R",
+      "P",
+      "R",
+      "I",
+      "S",
+      "M",
+      null,
+      "E",
+      "L",
+      "M",
+      "O",
+      "A",
+      "L",
+      "E",
+      "R",
+      "T",
+      null,
+      null,
+      "R",
+      "E",
+      "L",
+      "O",
+      null,
+      null,
+      null,
+      "S",
+      "I",
+      "M",
+      "P",
+      "L",
+      "E",
+      "R",
+      null,
+      null,
+      "L",
+      "O",
+      "V",
+      "E",
+      "W",
+      "I",
+      "L",
+      "L",
+      "T",
+      "E",
+      "A",
+      "R",
+      "U",
+      "S",
+      "A",
+      "P",
+      "A",
+      "R",
+      "T",
+      "D",
+      "R",
+      "A",
+      "G",
+      null,
+      "N",
+      "O",
+      "T",
+      "E",
+      null,
+      null,
+      "D",
+      "O",
+      "E",
+      "S",
+      null,
+      "C",
+      "O",
+      "B",
+      null,
+      null,
+      "A",
+      "I",
+      "D",
+      "E",
+      null,
+      "T",
+      "W",
+      "O",
+      null,
+      "S",
+      "W",
+      "I",
+      "N",
+      "G",
+      "A",
+      "T",
+      null,
+      null,
+      "O",
+      "P",
+      "A",
+      "M",
+      "O",
+      "U",
+      "N",
+      "T",
+      "A",
+      "I",
+      "N",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "S",
+      null,
+      "O",
+      "U",
+      "T",
+      "R",
+      "U",
+      "N",
+      "E",
+      "T",
+      "S",
+      null,
+      "H",
+      "I",
+      "E",
+      null,
+      "P",
+      "A",
+      "R",
+      null,
+      null,
+      null,
+      "F",
+      "I",
+      "N",
+      "E",
+      "A",
+      "R",
+      "T",
+      null,
+      null,
+      null,
+      "T",
+      "E",
+      "L",
+      null,
+      "D",
+      "O",
+      "C",
+      "T",
+      "O",
+      "R",
+      "D",
+      "O",
+      "L",
+      "I",
+      "T",
+      "T",
+      "L",
+      "E",
+      "A",
+      "X",
+      "I",
+      "O",
+      "M",
+      null,
+      "T",
+      "O",
+      "O",
+      "K",
+      null,
+      "Z",
+      "E",
+      "R",
+      "O",
+      null,
+      "C",
+      "R",
+      "E",
+      "S",
+      "S",
+      "G",
+      "E",
+      "T",
+      "B",
+      "A",
+      "C",
+      "K",
+      "I",
+      "N",
+      "S",
+      "H",
+      "A",
+      "P",
+      "E",
+      null,
+      "G",
+      "O",
+      "A",
+      null,
+      null,
+      null,
+      "I",
+      "N",
+      "S",
+      "I",
+      "G",
+      "H",
+      "T",
+      null,
+      null,
+      null,
+      "E",
+      "R",
+      "R",
+      null,
+      "S",
+      "U",
+      "R",
+      null,
+      "P",
+      "A",
+      "T",
+      "L",
+      "O",
+      "N",
+      "N",
+      "I",
+      "E",
+      null,
+      "B",
+      "R",
+      "E",
+      "A",
+      "K",
+      "O",
+      "U",
+      "T",
+      "I",
+      "N",
+      "S",
+      "O",
+      "N",
+      "G",
+      "E",
+      "N",
+      "O",
+      null,
+      null,
+      "M",
+      "A",
+      "N",
+      "U",
+      "A",
+      "L",
+      "S",
+      null,
+      "N",
+      "A",
+      "N",
+      null,
+      "A",
+      "S",
+      "T",
+      "I",
+      null,
+      null,
+      "B",
+      "B",
+      "S",
+      null,
+      "L",
+      "A",
+      "I",
+      "C",
+      null,
+      null,
+      "S",
+      "O",
+      "L",
+      "E",
+      null,
+      "L",
+      "E",
+      "I",
+      "F",
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "S",
+      "I",
+      "N",
+      "H",
+      "I",
+      "G",
+      "H",
+      "P",
+      "L",
+      "A",
+      "C",
+      "E",
+      "S",
+      null,
+      null,
+      "L",
+      "E",
+      "G",
+      "R",
+      "O",
+      "O",
+      "M",
+      null,
+      null,
+      null,
+      "S",
+      "U",
+      "R",
+      "E",
+      null,
+      null,
+      "D",
+      "I",
+      "N",
+      "A",
+      "R",
+      "U",
+      "R",
+      "G",
+      "E",
+      null,
+      "P",
+      "I",
+      "C",
+      "T",
+      "U",
+      "R",
+      "E",
+      "I",
+      "N",
+      "P",
+      "I",
+      "C",
+      "T",
+      "U",
+      "R",
+      "E",
+      "B",
+      "A",
+      "I",
+      "T",
+      null,
+      "E",
+      "T",
+      "H",
+      "O",
+      "S",
+      null,
+      "S",
+      "N",
+      "E",
+      "E",
+      "R",
+      null,
+      "E",
+      "D",
+      "E",
+      "N",
+      "S",
+      "N",
+      "E",
+      "S",
+      null,
+      "S",
+      "H",
+      "I",
+      "N",
+      "E",
+      null,
+      "S",
+      "E",
+      "D",
+      "G",
+      "E",
+      null,
+      "M",
+      "E",
+      "A",
+      "T"
+    ]
+  }
+}

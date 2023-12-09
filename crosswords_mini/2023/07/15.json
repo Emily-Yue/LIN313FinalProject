@@ -1,0 +1,251 @@
+{
+  "puzzle_id": 21285,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-15",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Hot tub with underwater jets",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 7,
+          "value": "Animal with a sophisticated language of whistles and clicks",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 14,
+          "value": "Ends of some winter sports equipment",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 23,
+          "value": "Perspective, for short",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "Its capital is Montgomery",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 35,
+          "value": "Looked for food in the woods",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 42,
+          "value": "Begins to understand, with \"on to\"",
+          "clueEnd": 48,
+          "formatted": "Begins to understand, with &#34;on to&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Law degrees: Abbr.",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Totally fine",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Premade computer images",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Facing the pitcher, in baseball",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "\"Doctor ___,\" one of the ten highest-grossing films of all time when adjusted for inflation",
+          "clueEnd": 46,
+          "formatted": "&#34;Doctor ___,&#34; one of the ten highest-grossing films of all time when adjusted for inflation"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Close, as a suitcase",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "Counterpart of outs",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "___ Richmond, soccer team on \"Ted Lasso\"",
+          "clueEnd": 42,
+          "formatted": "___ Richmond, soccer team on &#34;Ted Lasso&#34;"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "British bathroom",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 33,
+          "value": "Guys",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 34,
+          "value": "Billboard displays",
+          "clueEnd": 48
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "J",
+      "A",
+      "C",
+      "U",
+      "Z",
+      "Z",
+      "I",
+      "D",
+      "O",
+      "L",
+      "P",
+      "H",
+      "I",
+      "N",
+      "S",
+      "K",
+      "I",
+      "T",
+      "I",
+      "P",
+      "S",
+      null,
+      null,
+      "P",
+      "O",
+      "V",
+      null,
+      null,
+      "A",
+      "L",
+      "A",
+      "B",
+      "A",
+      "M",
+      "A",
+      "F",
+      "O",
+      "R",
+      "A",
+      "G",
+      "E",
+      "D",
+      "C",
+      "O",
+      "T",
+      "T",
+      "O",
+      "N",
+      "S"
+    ]
+  }
+}

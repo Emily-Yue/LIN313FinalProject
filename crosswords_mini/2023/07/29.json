@@ -1,0 +1,246 @@
+{
+  "puzzle_id": 21305,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-29",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-29",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Thin trail of smoke",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "Orange fruit that's often eaten dried",
+          "clueEnd": 13,
+          "formatted": "Orange fruit that&#39;s often eaten dried"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 14,
+          "value": "Six o'clock TV fare",
+          "clueEnd": 20,
+          "formatted": "Six o&#39;clock TV fare"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Scrabble piece",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 28,
+          "value": "Folk tale foe of the Forty Thieves",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 35,
+          "value": "Fourth slot in a baseball lineup",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 42,
+          "value": "Make sure to drink enough water",
+          "clueEnd": 48
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Its menu might have headers of \"Sparkling,\" \"Red\" and \"White\"",
+          "clueEnd": 45,
+          "formatted": "Its menu might have headers of &#34;Sparkling,&#34; &#34;Red&#34; and &#34;White&#34;"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 4,
+          "value": "Winter sidewalk hazard",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 5,
+          "value": "Female pig",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Scoreboard amts.",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "Email action symbolized by a paper clip",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 8,
+          "value": "City known for its cheesesteaks, informally",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 9,
+          "value": "Depended (upon)",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 32,
+          "value": "Actress de Armas",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 33,
+          "value": "\"However ...\"",
+          "clueEnd": 47,
+          "formatted": "&#34;However ...&#34;"
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 34,
+          "value": "Great ___ House (part of the Smithsonian National Zoo)",
+          "clueEnd": 48
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      null,
+      null,
+      "W",
+      "I",
+      "S",
+      "P",
+      "A",
+      "P",
+      "R",
+      "I",
+      "C",
+      "O",
+      "T",
+      "T",
+      "H",
+      "E",
+      "N",
+      "E",
+      "W",
+      "S",
+      "T",
+      "I",
+      "L",
+      "E",
+      null,
+      null,
+      null,
+      "A",
+      "L",
+      "I",
+      "B",
+      "A",
+      "B",
+      "A",
+      "C",
+      "L",
+      "E",
+      "A",
+      "N",
+      "U",
+      "P",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "A",
+      "T",
+      "E"
+    ]
+  }
+}

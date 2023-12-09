@@ -1,0 +1,228 @@
+{
+  "puzzle_id": 21266,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-08",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-08",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Degs. from Wharton",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "Really should, with \"to\"",
+          "clueEnd": 11,
+          "formatted": "Really should, with &#34;to&#34;"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Ripped to shreds",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "It might cause you to update your contacts",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 29,
+          "value": "Tennis star Williams",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 37,
+          "value": "___ longlegs (spider)",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 45,
+          "value": "Something that just isn't gonna happen",
+          "clueEnd": 48,
+          "formatted": "Something that just isn&#39;t gonna happen"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Small speck of dust",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Bobbing ocean markers",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "\"I think you're right about that\"",
+          "clueEnd": 37,
+          "formatted": "&#34;I think you&#39;re right about that&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Pop singer Ed",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 11,
+          "value": "What's expected of a wedding guest for a \"Black Tie Required\" event",
+          "clueEnd": 46,
+          "formatted": "What&#39;s expected of a wedding guest for a &#34;Black Tie Required&#34; event"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 19,
+          "value": "Company that makes Tide/Bounty/Pampers, for short",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 27,
+          "value": "White condiment",
+          "clueEnd": 48
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "M",
+      "B",
+      "A",
+      "S",
+      null,
+      null,
+      null,
+      "O",
+      "U",
+      "G",
+      "H",
+      "T",
+      null,
+      null,
+      "T",
+      "O",
+      "R",
+      "E",
+      "U",
+      "P",
+      null,
+      "E",
+      "Y",
+      "E",
+      "E",
+      "X",
+      "A",
+      "M",
+      null,
+      "S",
+      "E",
+      "R",
+      "E",
+      "N",
+      "A",
+      null,
+      null,
+      "D",
+      "A",
+      "D",
+      "D",
+      "Y",
+      null,
+      null,
+      null,
+      "N",
+      "O",
+      "G",
+      "O"
+    ]
+  }
+}

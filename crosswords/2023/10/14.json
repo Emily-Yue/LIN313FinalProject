@@ -1,0 +1,973 @@
+{
+  "puzzle_id": 21406,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-10-14",
+    "printDotw": 6,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Byron Walden",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/10/13/crosswords/daily-puzzle-2023-10-14.html"
+    }
+  },
+  "print_date": "2023-10-14",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Byron Walden"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Residence for a parson",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Fictional character who cries \"I am madness maddened!\"",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Question persistently",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Single source?",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "Checks or balances, say",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Animal with fused toes on each hind paw, used for grooming its coat",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 36,
+          "value": "Almond confections",
+          "clueEnd": 44,
+          "related": {
+            "down": [],
+            "across": [
+              60
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 45,
+          "value": "Last",
+          "clueEnd": 50
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 52,
+          "value": "Chain with a mansard roof in its logo",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 60,
+          "value": "Auto-correction?",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 64,
+          "value": "Cooper's product",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 69,
+          "value": "Woman's name that sounds like a letter of the alphabet",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 75,
+          "value": "Fried turnovers from southern Italy",
+          "clueEnd": 84,
+          "related": {
+            "down": [],
+            "across": [
+              60
+            ]
+          }
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 86,
+          "value": "P.R. people: Abbr.",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 91,
+          "value": "Walk way?",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 96,
+          "value": "\"Round cleans better\" sloganeer",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 102,
+          "value": "\"Looky here!\"",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 105,
+          "value": "Champaign region",
+          "clueEnd": 119,
+          "related": {
+            "down": [],
+            "across": [
+              60
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Punnery, e.g.",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 124,
+          "value": "Keep cooler?",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 130,
+          "value": "Shiraz and others",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Home to Mayor Fiorello La Guardia's \"Talk to the People\" program",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 140,
+          "value": "Oscar winner for \"The Accidental Tourist\" (1988)",
+          "clueEnd": 149,
+          "related": {
+            "down": [],
+            "across": [
+              60
+            ]
+          }
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 153,
+          "value": "___ moment",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 158,
+          "value": "This might come with breakfast in bed, in brief",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 162,
+          "value": "Brisbane-to-Sydney dir.",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "What barflies hit",
+          "clueEnd": 172
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 174,
+          "value": "\"Turn around so I can see you\"",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 180,
+          "value": "Part of the George W. Bush era ... or a hint to part of 18-, 26-, 38- and 46-Across",
+          "clueEnd": 188,
+          "related": {
+            "down": [],
+            "across": [
+              46,
+              18,
+              26,
+              38,
+              46
+            ]
+          }
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 190,
+          "value": "Seeing red",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "Slangy \"treatment\" for a disturbing visual",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 205,
+          "value": "Singer Cleo with Grammy nominations in jazz, pop and classical",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 210,
+          "value": "See 61-Down",
+          "clueEnd": 213,
+          "related": {
+            "down": [
+              61
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 215,
+          "value": "Where Al Jazeera is headquartered",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 220,
+          "value": "Flat bottoms",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Blush, e.g.",
+          "clueEnd": 75
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "1972 Gilbert O'Sullivan hit with the lyric \"Left standing in the lurch at a church\"",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Boston in the '60s or Chicago in the '90s, e.g.",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Recipient of the first Vulcan nerve pinch on the original \"Star Trek\"",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Professional concerned with search engine optimization",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Word with band or candy",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Junker",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Business opening?",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Major downer",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Main ingredient in a Thai som tam salad",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "\"Riders of the Purple Sage\" setting",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Course catalog?",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Sibilant summons",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "\"Cabaret\" name",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 50,
+          "value": "Poetic contraction",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 66,
+          "value": "\"Club\" member in a hit 1985 adventure comedy",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 78,
+          "value": "Minor blemish",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 82,
+          "value": "Instant",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 83,
+          "value": "Roster for William Morris or Creative Artists",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 87,
+          "value": "The ultimate struggle",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 88,
+          "value": "\"I call dibs\"",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 89,
+          "value": "Adoption of the International Radiotelegraph Convention in 1906",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 100,
+          "value": "Live tweets?",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 105,
+          "value": "[Gag]",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 110,
+          "value": "Tested, as a cask, to see how much whiskey remains",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 116,
+          "value": "Major PBS funder, for short",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 138,
+          "value": "Wrinkly fruit",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 144,
+          "value": "1980s sitcom puppet",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 149,
+          "value": "More than 7% of Minnesotans, by ancestry",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 154,
+          "value": "Spoils",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "Gangbusters, in old slang",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 166,
+          "value": "\"Howdy!\"",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 167,
+          "value": "Shangri-la",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 171,
+          "value": "Onetime labor and transportation secretary Elaine",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 172,
+          "value": "Chisel, in a way",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 176,
+          "value": "Analogue of \"aloha\" and \"shalom\"",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 188,
+          "value": "With 65-Across, \"Born to Hand Jive\" group",
+          "clueEnd": 218,
+          "related": {
+            "down": [],
+            "across": [
+              65
+            ]
+          }
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "M",
+      "A",
+      "N",
+      "S",
+      "E",
+      null,
+      "A",
+      "H",
+      "A",
+      "B",
+      null,
+      "P",
+      "U",
+      "M",
+      "P",
+      "A",
+      "L",
+      "B",
+      "U",
+      "M",
+      null,
+      "R",
+      "E",
+      "G",
+      "U",
+      "L",
+      "A",
+      "T",
+      "E",
+      "S",
+      "K",
+      "O",
+      "A",
+      "L",
+      "A",
+      null,
+      "M",
+      "A",
+      "R",
+      "Z",
+      "I",
+      "P",
+      "A",
+      "N",
+      "S",
+      "E",
+      "N",
+      "D",
+      "U",
+      "R",
+      "E",
+      null,
+      "P",
+      "I",
+      "Z",
+      "Z",
+      "A",
+      "H",
+      "U",
+      "T",
+      "U",
+      "E",
+      "Y",
+      null,
+      "K",
+      "E",
+      "G",
+      null,
+      null,
+      "K",
+      "A",
+      "Y",
+      null,
+      null,
+      null,
+      "P",
+      "A",
+      "N",
+      "Z",
+      "E",
+      "R",
+      "O",
+      "T",
+      "T",
+      "I",
+      null,
+      "A",
+      "G",
+      "T",
+      "S",
+      null,
+      "G",
+      "A",
+      "I",
+      "T",
+      null,
+      "O",
+      "R",
+      "A",
+      "L",
+      "B",
+      null,
+      "O",
+      "H",
+      "O",
+      "E",
+      "A",
+      "S",
+      "T",
+      "E",
+      "R",
+      "N",
+      "I",
+      "L",
+      "L",
+      "I",
+      "N",
+      "O",
+      "I",
+      "S",
+      "W",
+      "I",
+      "T",
+      null,
+      "R",
+      "E",
+      "I",
+      "C",
+      "E",
+      null,
+      "R",
+      "E",
+      "D",
+      "S",
+      null,
+      "W",
+      "N",
+      "Y",
+      "C",
+      null,
+      "G",
+      "E",
+      "E",
+      "N",
+      "A",
+      "D",
+      "A",
+      "V",
+      "I",
+      "S",
+      null,
+      null,
+      null,
+      "A",
+      "H",
+      "A",
+      null,
+      null,
+      "T",
+      "L",
+      "C",
+      null,
+      "S",
+      "S",
+      "W",
+      "T",
+      "H",
+      "E",
+      "S",
+      "A",
+      "U",
+      "C",
+      "E",
+      null,
+      "F",
+      "A",
+      "C",
+      "E",
+      "M",
+      "E",
+      "M",
+      "I",
+      "D",
+      "A",
+      "U",
+      "G",
+      "H",
+      "T",
+      "S",
+      null,
+      "L",
+      "I",
+      "V",
+      "I",
+      "D",
+      "E",
+      "Y",
+      "E",
+      "B",
+      "L",
+      "E",
+      "A",
+      "C",
+      "H",
+      null,
+      "L",
+      "A",
+      "I",
+      "N",
+      "E",
+      "N",
+      "A",
+      "N",
+      "A",
+      null,
+      "D",
+      "O",
+      "H",
+      "A",
+      null,
+      "S",
+      "O",
+      "L",
+      "E",
+      "S"
+    ]
+  }
+}

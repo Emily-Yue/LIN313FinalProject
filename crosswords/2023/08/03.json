@@ -1,0 +1,996 @@
+{
+  "puzzle_id": 21213,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-08-03",
+    "printDotw": 4,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Simeon Seigel",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/08/02/crosswords/daily-puzzle-2023-08-03.html"
+    }
+  },
+  "print_date": "2023-08-03",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Simeon Seigel"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Separation",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Whip through, say",
+          "clueEnd": 7
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 9,
+          "value": "Certain bowling alley buttons",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 15,
+          "value": "Counterpart to a receiver, legally",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 24,
+          "value": "*Complete fools",
+          "clueEnd": 29,
+          "related": {
+            "down": [],
+            "across": [
+              63
+            ]
+          }
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 30,
+          "value": "Carry zero weight, idiomatically",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 39,
+          "value": "Rickety piano, in old music biz slang ",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 45,
+          "value": "Link with",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 51,
+          "value": "Pride : lions :: parliament : ___",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 57,
+          "value": "High-traffic hosp. areas",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 60,
+          "value": "Things tube tops lack",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 67,
+          "value": "*Ones with clay pigeons in their sights",
+          "clueEnd": 73,
+          "related": {
+            "down": [],
+            "across": [
+              63
+            ]
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 79,
+          "value": "\"Feel me?\" ",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 85,
+          "value": "Melancholy, with \"the\"",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "\"Da ___ Show\"",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 95,
+          "value": "Bit of solar wind",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 99,
+          "value": "Wincing, maybe",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Word before stamp or young",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "*Echoes ",
+          "clueEnd": 119,
+          "related": {
+            "down": [],
+            "across": [
+              63
+            ]
+          }
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 120,
+          "value": "Made up ",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 127,
+          "value": "Take the ___",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 131,
+          "value": "Annual D.C. address since 1913",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 135,
+          "value": "Unpleasant encounter",
+          "clueEnd": 139
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 141,
+          "value": "It's usually blue",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 151,
+          "value": "Hoedown, e.g.",
+          "clueEnd": 157
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 159,
+          "value": "*Outrage",
+          "clueEnd": 164,
+          "related": {
+            "down": [],
+            "across": [
+              63
+            ]
+          }
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "Event involving \"floating,\" in brief",
+          "clueEnd": 167,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 170,
+          "value": "Some drafts, for short",
+          "clueEnd": 173,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 175,
+          "value": "Fake",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 180,
+          "value": "Frozen treat ",
+          "clueEnd": 185
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 187,
+          "value": "Closing parts",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 195,
+          "value": "Climate change, gun regulation, etc.",
+          "clueEnd": 200
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 202,
+          "value": "Get some rest \u2026 or what to do with the end of the previous answer to solve each starred clue",
+          "clueEnd": 209,
+          "related": {
+            "down": [],
+            "across": [
+              48,
+              39,
+              24,
+              15
+            ]
+          }
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 210,
+          "value": "Becoming",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 217,
+          "value": "Onetime presidential nickname",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 221,
+          "value": "Bit",
+          "clueEnd": 223
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Attire for a fighter pilot",
+          "clueEnd": 61
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "\"Star\" of a fall garden",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Historic caravel",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "\"Star Wars\" boy, informally",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Tennis star Gauff",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 7,
+          "value": "1872 utopian novel whose title is an anagram of NOWHERE",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 9,
+          "value": "\"Midnight Cowboy\" role",
+          "clueEnd": 69
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 10,
+          "value": "Music publishing co. owned by Sony",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 11,
+          "value": "Light of day",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 12,
+          "value": "Language in which \"crossword puzzle\" is \"krucvortenigmo\" ",
+          "clueEnd": 132
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 13,
+          "value": "Page detached from a magazine",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 14,
+          "value": "IDs since the Great Depression, in brief",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 15,
+          "value": "Book of the New Testament",
+          "clueEnd": 60
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 19,
+          "value": "Cloyingly sentimental",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 53,
+          "value": "Especially mean",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 65,
+          "value": "Did half of a biathlon",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 70,
+          "value": "Lift up a mountain",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 71,
+          "value": "Walt Disney's middle name  ",
+          "clueEnd": 131
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 81,
+          "value": "Connector between false alternatives  ",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 89,
+          "value": "Home to the N.C.A.A.'s Aztecs: Abbr.",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "Quite a distance",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 91,
+          "value": "One who's meditating might be in this",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 92,
+          "value": "Locomotive, quaintly",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 93,
+          "value": "Some spirits",
+          "clueEnd": 153
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 99,
+          "value": "Celebrity chef Jacques",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 109,
+          "value": "Kind of diagram",
+          "clueEnd": 154
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "Blacklist",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 127,
+          "value": "Offshore competition",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 141,
+          "value": "Ballroom dance move",
+          "clueEnd": 171
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 145,
+          "value": "Tree whose first four letters are an anagram of another tree",
+          "clueEnd": 205
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 155,
+          "value": "Spaced out",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 161,
+          "value": "Taboo in one of the Ten Commandments",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 162,
+          "value": "Namesake of Ithaca's sea",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 163,
+          "value": "One way to watch a movie",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 164,
+          "value": "Where IBM is \"IBM\": Abbr.",
+          "clueEnd": 209,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "Goddess of healing and magic",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 173,
+          "value": "Seinfeld's car on \"Seinfeld\"",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 183,
+          "value": "Mooch",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 184,
+          "value": "Undulating swimmer",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 189,
+          "value": "Onetime presidential nickname",
+          "clueEnd": 219
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "G",
+      "A",
+      "P",
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      "R",
+      "E",
+      "S",
+      "E",
+      "T",
+      "S",
+      "A",
+      "S",
+      "S",
+      "I",
+      "G",
+      "N",
+      "O",
+      "R",
+      null,
+      "A",
+      "M",
+      "U",
+      "S",
+      "E",
+      "S",
+      "C",
+      "U",
+      "T",
+      "N",
+      "O",
+      "I",
+      "C",
+      "E",
+      null,
+      "T",
+      "I",
+      "N",
+      "P",
+      "A",
+      "N",
+      "T",
+      "I",
+      "E",
+      "T",
+      "O",
+      null,
+      "O",
+      "W",
+      "L",
+      "S",
+      null,
+      null,
+      "E",
+      "R",
+      "S",
+      "S",
+      "T",
+      "R",
+      "A",
+      "P",
+      "S",
+      null,
+      "H",
+      "O",
+      "O",
+      "T",
+      "E",
+      "R",
+      "S",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Y",
+      "K",
+      "N",
+      "O",
+      "W",
+      null,
+      "B",
+      "L",
+      "A",
+      "H",
+      "S",
+      "A",
+      "L",
+      "I",
+      "G",
+      null,
+      "I",
+      "O",
+      "N",
+      null,
+      "P",
+      "A",
+      "I",
+      "N",
+      "E",
+      "D",
+      "F",
+      "O",
+      "R",
+      "E",
+      "V",
+      "E",
+      "R",
+      null,
+      "B",
+      "E",
+      "R",
+      "A",
+      "T",
+      "E",
+      "S",
+      "A",
+      "T",
+      "O",
+      "N",
+      "E",
+      "D",
+      null,
+      "R",
+      "A",
+      "P",
+      null,
+      "S",
+      "O",
+      "T",
+      "U",
+      "R",
+      "U",
+      "N",
+      "I",
+      "N",
+      null,
+      "D",
+      "E",
+      "N",
+      "I",
+      "M",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "S",
+      "H",
+      "I",
+      "N",
+      "D",
+      "I",
+      "G",
+      null,
+      "N",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "I",
+      "P",
+      "O",
+      null,
+      null,
+      "I",
+      "P",
+      "A",
+      "S",
+      null,
+      "P",
+      "H",
+      "O",
+      "N",
+      "Y",
+      "S",
+      "O",
+      "R",
+      "B",
+      "E",
+      "T",
+      null,
+      "T",
+      "A",
+      "I",
+      "L",
+      "E",
+      "N",
+      "D",
+      "S",
+      "I",
+      "S",
+      "S",
+      "U",
+      "E",
+      "S",
+      null,
+      "T",
+      "A",
+      "K",
+      "E",
+      "F",
+      "I",
+      "V",
+      "E",
+      "S",
+      "E",
+      "E",
+      "M",
+      "L",
+      "Y",
+      null,
+      "A",
+      "B",
+      "E",
+      null,
+      "T",
+      "A",
+      "D",
+      null
+    ]
+  }
+}

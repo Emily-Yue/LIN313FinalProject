@@ -1,0 +1,248 @@
+{
+  "puzzle_id": 21061,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-04-08",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-04-08",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Place to drink at a wedding",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 7,
+          "value": "Rapper whose \"My Turn\" was the most-streamed album of 2020",
+          "clueEnd": 13,
+          "formatted": "Rapper whose &#34;My Turn&#34; was the most-streamed album of 2020"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 14,
+          "value": "All together",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 24,
+          "value": "Opposite of NNW",
+          "clueEnd": 26
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "The art of food presentation",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 35,
+          "value": "Popular brand of hot sauce",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 42,
+          "value": "Stung",
+          "clueEnd": 48
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Soccer stadium cheer",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "A.T.M. access code",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Tree that's a common street name",
+          "clueEnd": 16,
+          "formatted": "Tree that&#39;s a common street name"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Chris Paul, Paul George or George Gervin",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Paul McCartney in the Beatles, e.g.",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Failure to appear at school",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "Dense variety of bread",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "There are two in a quart: Abbr.",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "On the ___ (running away)",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 30,
+          "value": "National lawyers' org.",
+          "clueEnd": 44,
+          "formatted": "National lawyers&#39; org."
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 34,
+          "value": "\"___ Hurting After Eating 20-Piece Spicy Angel Wings\" (The Onion headline)",
+          "clueEnd": 48,
+          "formatted": "&#34;___ Hurting After Eating 20-Piece Spicy Angel Wings&#34; (The Onion headline)"
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "O",
+      "P",
+      "E",
+      "N",
+      "B",
+      "A",
+      "R",
+      "L",
+      "I",
+      "L",
+      "B",
+      "A",
+      "B",
+      "Y",
+      "E",
+      "N",
+      "M",
+      "A",
+      "S",
+      "S",
+      "E",
+      null,
+      null,
+      null,
+      "S",
+      "S",
+      "E",
+      null,
+      "P",
+      "L",
+      "A",
+      "T",
+      "I",
+      "N",
+      "G",
+      "T",
+      "A",
+      "B",
+      "A",
+      "S",
+      "C",
+      "O",
+      "S",
+      "M",
+      "A",
+      "R",
+      "T",
+      "E",
+      "D"
+    ]
+  }
+}

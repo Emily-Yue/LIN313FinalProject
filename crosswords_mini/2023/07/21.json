@@ -1,0 +1,178 @@
+{
+  "puzzle_id": 21294,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-21",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 6,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-21",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Window blinds piece",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "___ Ch\u00e1vez, former leader of Venezuela",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Collar fold on a jacket",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Three of ___ (poker hand)",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Email folder",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 25,
+          "value": "Spanish for \"three\"",
+          "clueEnd": 28,
+          "formatted": "Spanish for &#34;three&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "What \"salt\" has been put in to make 1-Across and 6-Down?",
+          "clueEnd": 26,
+          "related": {
+            "down": [
+              6
+            ],
+            "across": [
+              1
+            ]
+          },
+          "formatted": "What &#34;salt&#34; has been put in to make 1-Across and 6-Down?"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Related to wolves",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "T.S.A. employees",
+          "clueEnd": 28
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Spoiled a surprise",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Like this clue, among all the Downs",
+          "clueEnd": 25
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "L",
+      "A",
+      "T",
+      null,
+      "H",
+      "U",
+      "G",
+      "O",
+      "L",
+      "A",
+      "P",
+      "E",
+      "L",
+      "A",
+      "K",
+      "I",
+      "N",
+      "D",
+      "S",
+      "E",
+      "N",
+      "T",
+      null,
+      "T",
+      "R",
+      "E",
+      "S",
+      null
+    ]
+  }
+}

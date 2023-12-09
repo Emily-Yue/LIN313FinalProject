@@ -1,0 +1,1002 @@
+{
+  "puzzle_id": 20787,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-01-11",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Victor Barocas",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/01/10/crosswords/daily-puzzle-2023-01-11.html"
+    }
+  },
+  "print_date": "2023-01-11",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Victor Barocas"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Runs recreationally",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Some hotel room amenities",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "The \"Toreador Song,\" for one",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "From the top",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Fulfill mundane but necessary responsibilities, in modern lingo",
+          "clueEnd": 24,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Sift (through)",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Software prototype",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Vessels with large containers",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 47,
+          "value": "Does pranks with rolls, informally",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 52,
+          "value": "Connecticut Ivy Leaguer",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Nail polish brand",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 64,
+          "value": "Pursue romantically",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 68,
+          "value": "Actor/comedian Lil ___ Howery",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 72,
+          "value": "Talking item in Dora the Explorer's backpack",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 75,
+          "value": "Oceanfront district of Los Angeles",
+          "clueEnd": 82
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 84,
+          "value": "Manhattan neighborhood next to SoHo",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 90,
+          "value": "Front-page mergers and acquisitions, e.g.",
+          "clueEnd": 98
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 101,
+          "value": "Grayish",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 105,
+          "value": "Skateboarding jump",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 111,
+          "value": "Neckwear that smells nice",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 115,
+          "value": "Photographer Adams",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 120,
+          "value": "Difficult, unfun chore",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 126,
+          "value": "Investment guide calculation",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 135,
+          "value": "Props for presentations",
+          "clueEnd": 140
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 142,
+          "value": "Most reptilian, in a way",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 150,
+          "value": "\"Spring forward\" or \"fall back\" letters",
+          "clueEnd": 152
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 154,
+          "value": "Electrical unit with a Greek letter symbol",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 158,
+          "value": "London ___ (landmark observation wheel)",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 162,
+          "value": "Beings not (yet) proven to exist",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 168,
+          "value": "Thundering",
+          "clueEnd": 172
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 175,
+          "value": "Trinity member",
+          "clueEnd": 177
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 180,
+          "value": "Exclamation point inside a yellow triangle, for one",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 191,
+          "value": "\"Only Murders in the Building\" airer",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 195,
+          "value": "Nobel laureate Wiesel",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 200,
+          "value": "Longtime Jay Silverheels role",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 206,
+          "value": "Ankh-carrying goddess",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 210,
+          "value": "With 71- and 72-Across, commits perjury \u2026 or what can be found four times in this puzzle",
+          "clueEnd": 213,
+          "related": {
+            "down": [],
+            "across": [
+              71,
+              72
+            ]
+          }
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 215,
+          "value": "See 70-Across",
+          "clueEnd": 219,
+          "related": {
+            "down": [],
+            "across": [
+              70
+            ]
+          }
+        },
+        {
+          "clueNum": 72,
+          "clueStart": 221,
+          "value": "See 70-Across",
+          "clueEnd": 224,
+          "related": {
+            "down": [],
+            "across": [
+              70
+            ]
+          }
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Sharp punch",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"!\" keymate",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Scramming",
+          "clueEnd": 152
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Exchange",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "___ fly",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Org. promoting canine care",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Spleen",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "\"Enigma Variations\" composer",
+          "clueEnd": 68
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Lifted",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Be sore",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "P\u00e9pin le Bref, par exemple",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Troublesome sort",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Muscles tightened by planking, in brief",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 40,
+          "value": "Skyline feature in farm country",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 49,
+          "value": "Greta Garbo, by birth",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Absorbed gradually",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 61,
+          "value": "Saffron-flavored dishes",
+          "clueEnd": 151
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 65,
+          "value": "Horatian creation",
+          "clueEnd": 95
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 66,
+          "value": "Big name in brushes",
+          "clueEnd": 126
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 72,
+          "value": "Beauty pageant founded in 1959 as a mail-in photo contest",
+          "clueEnd": 222,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 73,
+          "value": "One who doesn't have a prayer?",
+          "clueEnd": 163
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 74,
+          "value": "Alternatives to street parking",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 78,
+          "value": "Negro leagues great Satchel",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 82,
+          "value": "Some spreads for toast, informally",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 86,
+          "value": "Hawaiian island shaped like an apostrophe",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 98,
+          "value": "Considering the fact that",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 115,
+          "value": "Setting for many van Gogh works",
+          "clueEnd": 175
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 129,
+          "value": "It'll dawn on you",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 139,
+          "value": "Communal knowledge",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 140,
+          "value": "Up-start? ",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 156,
+          "value": "Worker with a trowel",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 168,
+          "value": "A long, long time",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 172,
+          "value": "Food part that's usually not eaten",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 176,
+          "value": "Home of Denison University",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 180,
+          "value": "Tierra ___ Fuego",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 181,
+          "value": "Sports Illustrated's Sportsman of the Year in 1974 (10 years after he first became world champion)",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 182,
+          "value": "German \"never\"",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 188,
+          "value": "Bell Atlantic merger partner of 2000",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 189,
+          "value": "Repeated word in the U.S. postal creed",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 193,
+          "value": "Buzzing \u2026 or, in a different sense, buzzed",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 194,
+          "value": "Do a wedding task, informally",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      3,
+      3,
+      3,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "J",
+      "O",
+      "G",
+      "S",
+      null,
+      "S",
+      "A",
+      "F",
+      "E",
+      "S",
+      null,
+      "A",
+      "R",
+      "I",
+      "A",
+      "A",
+      "N",
+      "E",
+      "W",
+      null,
+      "A",
+      "D",
+      "U",
+      "L",
+      "T",
+      null,
+      "C",
+      "O",
+      "M",
+      "B",
+      "B",
+      "E",
+      "T",
+      "A",
+      null,
+      "C",
+      "A",
+      "R",
+      "G",
+      "O",
+      "S",
+      "H",
+      "I",
+      "P",
+      "S",
+      null,
+      null,
+      "T",
+      "P",
+      "S",
+      null,
+      null,
+      "Y",
+      "A",
+      "L",
+      "I",
+      "E",
+      null,
+      null,
+      null,
+      "O",
+      "P",
+      "I",
+      null,
+      "W",
+      "O",
+      "O",
+      null,
+      "R",
+      "E",
+      "L",
+      null,
+      "M",
+      "A",
+      "P",
+      "S",
+      "A",
+      "N",
+      "P",
+      "E",
+      "D",
+      "R",
+      "O",
+      null,
+      "N",
+      "O",
+      "L",
+      "I",
+      "T",
+      "A",
+      "M",
+      "E",
+      "G",
+      "A",
+      "D",
+      "E",
+      "A",
+      "L",
+      "S",
+      null,
+      null,
+      "A",
+      "S",
+      "H",
+      "Y",
+      "O",
+      "L",
+      "L",
+      "I",
+      "E",
+      null,
+      "L",
+      "E",
+      "I",
+      null,
+      "A",
+      "N",
+      "S",
+      "E",
+      "L",
+      "S",
+      "L",
+      "O",
+      "G",
+      null,
+      null,
+      "B",
+      "O",
+      "N",
+      "D",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "E",
+      "A",
+      "S",
+      "E",
+      "L",
+      "S",
+      null,
+      "S",
+      "C",
+      "A",
+      "L",
+      "I",
+      "E",
+      "S",
+      "T",
+      "D",
+      "S",
+      "T",
+      null,
+      "O",
+      "H",
+      "M",
+      null,
+      "E",
+      "Y",
+      "E",
+      null,
+      "E",
+      "T",
+      "S",
+      null,
+      null,
+      null,
+      "A",
+      "R",
+      "O",
+      "A",
+      "R",
+      null,
+      null,
+      "S",
+      "O",
+      "N",
+      null,
+      null,
+      "D",
+      "A",
+      "N",
+      "G",
+      "E",
+      "R",
+      "S",
+      "I",
+      "G",
+      "N",
+      null,
+      "H",
+      "U",
+      "L",
+      "U",
+      "E",
+      "L",
+      "I",
+      "E",
+      null,
+      "T",
+      "O",
+      "N",
+      "T",
+      "O",
+      null,
+      "I",
+      "S",
+      "I",
+      "S",
+      "L",
+      "I",
+      "E",
+      "S",
+      null,
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      null,
+      "O",
+      "A",
+      "T",
+      "H"
+    ]
+  }
+}

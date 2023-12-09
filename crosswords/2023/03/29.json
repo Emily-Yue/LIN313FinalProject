@@ -1,0 +1,979 @@
+{
+  "puzzle_id": 20934,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-03-29",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Ben Zoon",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/03/28/crosswords/daily-puzzle-2023-03-29.html"
+    }
+  },
+  "print_date": "2023-03-29",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Ben Zoon"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Entertain",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Apples with chips",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Call upon, as for a position",
+          "clueEnd": 14,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Like a wet blanket",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "Loaded chip",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 27,
+          "value": "Wish undone",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Fasteners near hasps \u2026 and an anagram of 11-Down",
+          "clueEnd": 40,
+          "related": {
+            "down": [
+              11,
+              25
+            ],
+            "across": [
+              55
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 42,
+          "value": "Ripen",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 48,
+          "value": "More than a stone's throw away",
+          "clueEnd": 50
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 52,
+          "value": "Like a laundry pile",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Prelude to bandwidth throttling",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 68,
+          "value": "Inserts used in orthodontics ",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "Adornment that may have a certain charm",
+          "clueEnd": 82
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 84,
+          "value": "Nuptial exchanges",
+          "clueEnd": 87
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "Followed a curve",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 96,
+          "value": "Snowboards, in lingo",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 102,
+          "value": "Busy professional in Apr.",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Talks sweetly",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 110,
+          "value": "Ancient Greek city-state",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 116,
+          "value": "Subsequently",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 120,
+          "value": "E.V. battery capacity unit",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 124,
+          "value": "Ticketed",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 130,
+          "value": "Be the head of, as a band",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 137,
+          "value": "Dos + seis",
+          "clueEnd": 140
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 142,
+          "value": "2016 Lucasfilm production starring Felicity Jones",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 150,
+          "value": "In good shape financially",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 158,
+          "value": "Prepared to pop the question, say",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 165,
+          "value": "Thai dish that translates as \"fried with soy sauce\"",
+          "clueEnd": 172
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 174,
+          "value": "The Eiger, for one",
+          "clueEnd": 176
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 180,
+          "value": "\"___ you serious?\"",
+          "clueEnd": 182
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 184,
+          "value": "Challenge for a fire-walker \u2026 and an anagram of 25-Down",
+          "clueEnd": 194,
+          "related": {
+            "down": [
+              11,
+              25
+            ],
+            "across": [
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 195,
+          "value": "___ Tagesspiegel (German daily)",
+          "clueEnd": 197
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 199,
+          "value": "Word with tall or short",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 205,
+          "value": "Up to now",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 210,
+          "value": "Newsroom folks, for short",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 214,
+          "value": "Justin Timberlake's former band",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 220,
+          "value": "Not self-sufficient",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"Details, please \u2026?\"",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Ranch sound",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Supposed Roswell crasher",
+          "clueEnd": 32
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Grass and clay, for tennis",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Twined together",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "QB goof: Abbr.",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Ernst who studied sonic booms",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Yearns (for)",
+          "clueEnd": 68
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Bargain bin finds",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 10,
+          "value": "Some scrubbers",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Vocational training provider \u2026 and an anagram of 55-Across",
+          "clueEnd": 162,
+          "related": {
+            "down": [
+              25
+            ],
+            "across": [
+              17,
+              55
+            ]
+          }
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Foretell",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Friends and associates, in slang",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "___ Sea, outlet of the Amu Darya",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 56,
+          "value": "Intro to -logical",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Arizona player, informally",
+          "clueEnd": 120
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 61,
+          "value": "-->  or  <--",
+          "clueEnd": 121
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 62,
+          "value": "Specialized tableware for serving some Mexican food \u2026 and an anagram of 17-Across",
+          "clueEnd": 212,
+          "related": {
+            "down": [
+              11
+            ],
+            "across": [
+              55,
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 66,
+          "value": "Presidential candidate of 1992 and 1996",
+          "clueEnd": 126
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 82,
+          "value": "Bathroom remodeling specialist",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 98,
+          "value": "Passed without flying colors",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 103,
+          "value": "Tubular pasta variety",
+          "clueEnd": 163
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 104,
+          "value": "Paid table stakes",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 110,
+          "value": "Groundbreakers",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 116,
+          "value": "Yogi's balancing stance with arms overhead",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 124,
+          "value": "Root for",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 130,
+          "value": "Something a Tesla driver doesn't need to carry",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 138,
+          "value": "Rite Aid competitor",
+          "clueEnd": 168
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 144,
+          "value": "Irksome buzzer",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 150,
+          "value": "Ground-breaker",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 151,
+          "value": "Like galleys",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 156,
+          "value": "Bit of sleepwear",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 172,
+          "value": "\"Say ___\"",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 188,
+          "value": "Tolkien horde member",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 192,
+          "value": "Vote for",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 193,
+          "value": "Conducted",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 194,
+          "value": "Farm structure",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "M",
+      "U",
+      "S",
+      "E",
+      null,
+      "I",
+      "M",
+      "A",
+      "C",
+      "S",
+      null,
+      "T",
+      "A",
+      "P",
+      "N",
+      "O",
+      "F",
+      "U",
+      "N",
+      null,
+      "N",
+      "A",
+      "C",
+      "H",
+      "O",
+      null,
+      "R",
+      "U",
+      "E",
+      "D",
+      "O",
+      "O",
+      "R",
+      "L",
+      "A",
+      "T",
+      "C",
+      "H",
+      "E",
+      "S",
+      null,
+      "A",
+      "G",
+      "E",
+      null,
+      null,
+      null,
+      "F",
+      "A",
+      "R",
+      null,
+      "H",
+      "E",
+      "A",
+      "P",
+      "E",
+      "D",
+      "U",
+      "P",
+      "D",
+      "A",
+      "T",
+      "A",
+      "C",
+      "A",
+      "P",
+      null,
+      "S",
+      "P",
+      "A",
+      "C",
+      "E",
+      "R",
+      "S",
+      "B",
+      "R",
+      "A",
+      "C",
+      "E",
+      "L",
+      "E",
+      "T",
+      null,
+      "I",
+      "D",
+      "O",
+      "S",
+      null,
+      null,
+      "A",
+      "R",
+      "C",
+      "E",
+      "D",
+      null,
+      "R",
+      "I",
+      "D",
+      "E",
+      "S",
+      null,
+      "C",
+      "P",
+      "A",
+      "C",
+      "O",
+      "O",
+      "S",
+      null,
+      "P",
+      "O",
+      "L",
+      "I",
+      "S",
+      null,
+      "T",
+      "H",
+      "E",
+      "N",
+      "K",
+      "W",
+      "H",
+      null,
+      "C",
+      "I",
+      "T",
+      "E",
+      "D",
+      null,
+      "F",
+      "R",
+      "O",
+      "N",
+      "T",
+      null,
+      null,
+      "O",
+      "C",
+      "H",
+      "O",
+      null,
+      "R",
+      "O",
+      "G",
+      "U",
+      "E",
+      "O",
+      "N",
+      "E",
+      "S",
+      "O",
+      "L",
+      "V",
+      "E",
+      "N",
+      "T",
+      null,
+      "K",
+      "N",
+      "E",
+      "E",
+      "L",
+      "E",
+      "D",
+      "P",
+      "A",
+      "D",
+      "S",
+      "E",
+      "E",
+      "E",
+      "W",
+      null,
+      "A",
+      "L",
+      "P",
+      null,
+      null,
+      null,
+      "A",
+      "R",
+      "E",
+      null,
+      "R",
+      "E",
+      "D",
+      "H",
+      "O",
+      "T",
+      "C",
+      "O",
+      "A",
+      "L",
+      "S",
+      "D",
+      "E",
+      "R",
+      null,
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      null,
+      "A",
+      "S",
+      "Y",
+      "E",
+      "T",
+      "E",
+      "D",
+      "S",
+      null,
+      "N",
+      "S",
+      "Y",
+      "N",
+      "C",
+      null,
+      "N",
+      "E",
+      "E",
+      "D",
+      "Y"
+    ]
+  }
+}

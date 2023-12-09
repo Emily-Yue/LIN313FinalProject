@@ -1,0 +1,164 @@
+{
+  "puzzle_id": 21351,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-08-30",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 4,
+    "width": 6,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-08-30",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "With 8-Across, rare lunar phenomenon occuring on August 30th",
+          "clueEnd": 5,
+          "related": {
+            "down": [],
+            "across": [
+              8
+            ]
+          }
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Put into words",
+          "clueEnd": 11
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 12,
+          "value": "\"Star Wars\" Jedi who mentored Luke",
+          "clueEnd": 17,
+          "formatted": "&#34;Star Wars&#34; Jedi who mentored Luke"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 18,
+          "value": "See 1-Across",
+          "clueEnd": 21,
+          "related": {
+            "down": [],
+            "across": [
+              1
+            ]
+          }
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Vivaciousness",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Manicured stretch of grass",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Team knocked out by Sweden at the 2023 Women's World Cup",
+          "clueEnd": 16,
+          "formatted": "Team knocked out by Sweden at the 2023 Women's World Cup"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Dark time of day, in poetry",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "When doubled, woolen ball on a hat",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 7,
+          "value": "Network whose shows stream on Max",
+          "clueEnd": 19
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "B",
+      "L",
+      "U",
+      "E",
+      "P",
+      "H",
+      "R",
+      "A",
+      "S",
+      "E",
+      "O",
+      "B",
+      "I",
+      "W",
+      "A",
+      "N",
+      "M",
+      "O",
+      "O",
+      "N",
+      null,
+      null
+    ]
+  }
+}

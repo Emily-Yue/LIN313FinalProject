@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 21235,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-06-23",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-06-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Kindergarten basics",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Make angry, with \"up\"",
+          "clueEnd": 9,
+          "formatted": "Make angry, with &#34;up&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Nikola ___, M.V.P. of the 2023 N.B.A. Finals",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Portentious sign",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "What fills the Venn diagram of \"dog\" and \"dogwood\"",
+          "clueEnd": 23,
+          "formatted": "What fills the Venn diagram of &#34;dog&#34; and &#34;dogwood&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Enticing smell",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Person who might wear a helmet and skin-tight shorts",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Sound of ice moving around a glass",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "\"Hold on a ___!\"",
+          "clueEnd": 14,
+          "formatted": "&#34;Hold on a ___!&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Something to interview for",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "A",
+      "B",
+      "C",
+      "S",
+      null,
+      "R",
+      "I",
+      "L",
+      "E",
+      "J",
+      "O",
+      "K",
+      "I",
+      "C",
+      "O",
+      "M",
+      "E",
+      "N",
+      null,
+      "B",
+      "A",
+      "R",
+      "K",
+      null
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 21583,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-23",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "What a little white silhouette means for a pedestrian",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Garfield's dog friend",
+          "clueEnd": 9,
+          "formatted": "Garfield&#39;s dog friend"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Turkey dressing",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Straight ___ (not into drugs or alcohol)",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "They're usually closed in the middle of the night",
+          "clueEnd": 23,
+          "formatted": "They&#39;re usually closed in the middle of the night"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Overly verbose",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Familiar saying",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Chances to replay, in video games",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Space bar, for one",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "\"___ whillikers!\"",
+          "clueEnd": 20,
+          "formatted": "&#34;___ whillikers!&#34;"
+        }
+      ]
+    },
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "W",
+      "A",
+      "L",
+      "K",
+      null,
+      "O",
+      "D",
+      "I",
+      "E",
+      "G",
+      "R",
+      "A",
+      "V",
+      "Y",
+      "E",
+      "D",
+      "G",
+      "E",
+      null,
+      "E",
+      "Y",
+      "E",
+      "S",
+      null
+    ]
+  }
+}

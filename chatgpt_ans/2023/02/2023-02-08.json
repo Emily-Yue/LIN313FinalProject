@@ -1,0 +1,11 @@
+Sure! Here are the solutions for the crossword puzzle:
+
+[
+  null, "I", "D", "E", "A", null, null, "S", "T", "A", "D", "O", "L", "Y", null, "M", "A", "M", "A", null,
+  "R", null, null, null, "T", "I", "P", "S", null, "B", "E", "E", "R", null, "A", "R", "E", "N", "A", null,
+  "H", "I", "E", "D", "I", "D", null, null, "E", "L", "E", "A", "N", "O", "R", "E", null, "V", "E", "R", "S", "E", null,
+  "D", null, null, null, "I", "N", "N", "E", "R", "S", null, null, null, "Y", "E", "L", "L", "E", "R", "S", "S", null,
+  null, "S"
+]
+
+Please note that the empty spaces are represented by "null" in the array of answers.

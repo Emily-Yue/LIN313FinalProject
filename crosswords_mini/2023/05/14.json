@@ -1,0 +1,150 @@
+{
+  "puzzle_id": 21130,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-14",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-14",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Only state with a three-word capital",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Word after club, cream or caustic",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Alcohol-heavy, as a drink",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "Walnut or chestnut",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "\"Give me a hand, will you\"",
+          "clueEnd": 24,
+          "formatted": "&#34;Give me a hand, will you&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Kind of port for a flash drive",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Dental pointer",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Really love",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Brown-green eye color",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "\"That's right\"",
+          "clueEnd": 24,
+          "formatted": "&#34;That&#39;s right&#34;"
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "U",
+      "T",
+      "A",
+      "H",
+      null,
+      "S",
+      "O",
+      "D",
+      "A",
+      null,
+      "B",
+      "O",
+      "O",
+      "Z",
+      "Y",
+      null,
+      "T",
+      "R",
+      "E",
+      "E",
+      null,
+      "H",
+      "E",
+      "L",
+      "P"
+    ]
+  }
+}

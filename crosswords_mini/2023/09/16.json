@@ -1,0 +1,239 @@
+{
+  "puzzle_id": 21421,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-16",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-16",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "24 cans of beer",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 7,
+          "value": "007, e.g.",
+          "clueEnd": 11
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "24/7",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Subtle \"Good job\"",
+          "clueEnd": 23,
+          "formatted": "Subtle \"Good job\""
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 25,
+          "value": "The \"L\" of L.A.",
+          "clueEnd": 27,
+          "formatted": "The &#34;L&#34; of L.A."
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "Generate, as a sweat",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 37,
+          "value": "D.C. transit system",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 45,
+          "value": "D.C. newspaper",
+          "clueEnd": 48
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Actor James of \"The Godfather\"",
+          "clueEnd": 21,
+          "formatted": "Actor James of &#34;The Godfather&#34;"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "All lit up",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Not often",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "What time may or may not have",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 11,
+          "value": "Chat with",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 19,
+          "value": "Affectionate letter sign-off",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 27,
+          "value": "Place to park",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 31,
+          "value": "Sales ___",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "C",
+      "A",
+      "S",
+      "E",
+      null,
+      null,
+      null,
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      null,
+      null,
+      "A",
+      "L",
+      "L",
+      "D",
+      "A",
+      "Y",
+      null,
+      "N",
+      "O",
+      "D",
+      null,
+      "L",
+      "O",
+      "S",
+      null,
+      "W",
+      "O",
+      "R",
+      "K",
+      "U",
+      "P",
+      null,
+      null,
+      "M",
+      "E",
+      "T",
+      "R",
+      "O",
+      null,
+      null,
+      null,
+      "P",
+      "O",
+      "S",
+      "T"
+    ]
+  }
+}

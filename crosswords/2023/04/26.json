@@ -1,0 +1,1006 @@
+{
+  "puzzle_id": 20635,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-04-26",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "2022, The New York Times",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Aaron M. Rosenberg",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/04/25/crosswords/daily-puzzle-2023-04-26.html"
+    }
+  },
+  "print_date": "2023-04-26",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Aaron M. Rosenberg"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Acronym in genetic sequencing",
+          "clueEnd": 5
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Collect",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Sort",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Steamy brew",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 22,
+          "value": "Part of an analogy",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 27,
+          "value": "Female hamster",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "One way to be marked",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 37,
+          "value": "Result of extreme rage",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "How-___",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 49,
+          "value": "Dizzying camera technique invented for 58-Across",
+          "clueEnd": 57,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Four Corners state with six corners",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 65,
+          "value": "It may punctuate a sarcastic remark",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 71,
+          "value": "Stingy sort?",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 75,
+          "value": "Lecterns",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 81,
+          "value": "Structure climbed in the climactic scene of 58-Across",
+          "clueEnd": 85,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 87,
+          "value": "To the ___ degree",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 93,
+          "value": "Camel and sand, for example",
+          "clueEnd": 96,
+          "formatted": "Camel and sand, for example"
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 98,
+          "value": "Gave a wide berth, say",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 105,
+          "value": "Nickname for Francisco, often",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 112,
+          "value": "Bow-shaped woodworking tool",
+          "clueEnd": 118
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 120,
+          "value": "Unsettling cry to hear during a haircut",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 125,
+          "value": "Empty space",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 130,
+          "value": "Ulysses S. Grant's given name at birth",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 135,
+          "value": "Chicago exchange, informally, with \"the\"",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 140,
+          "value": "Filmmaker Lee",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 146,
+          "value": "Hatcher of \"Desperate Housewives\"",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 150,
+          "value": "Bullets, e.g.",
+          "clueEnd": 153
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 155,
+          "value": "___ Sutra",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 160,
+          "value": "\"Stubborn things,\" per John Adams",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 167,
+          "value": "Possible focus of an M.R.I., in brief",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 171,
+          "value": "1958 film that is the subject of this puzzle",
+          "clueEnd": 177,
+          "related": {
+            "down": [
+              37,
+              27,
+              24
+            ],
+            "across": [
+              21,
+              31
+            ]
+          }
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 180,
+          "value": "Goofing off",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 195,
+          "value": "Help",
+          "clueEnd": 197
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 199,
+          "value": "Minor quarrels",
+          "clueEnd": 205
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 207,
+          "value": "Bill advocating for science",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 210,
+          "value": "Thickness",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 214,
+          "value": "Genre for the Mighty Mighty Bosstones",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 218,
+          "value": "{2, 4, 6, 8}, e.g.",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 222,
+          "value": "Vessel for a nursery rhyme trio",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Flirt with, in a way",
+          "clueEnd": 75
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Mr. in a 1983 Styx hit",
+          "clueEnd": 76
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "\"What a shame\"",
+          "clueEnd": 77
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Sault ___ Marie, Mich.",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Await resolution",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Betray, in a way",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Noted Venetian marketplace",
+          "clueEnd": 82
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Award with a Best Play category",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "The gamut",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 10,
+          "value": "Cops, in slang",
+          "clueEnd": 55
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Cry after being narrowly defeated",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Bagel go-with",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Critical",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "Simmer setting",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 51,
+          "value": "Bucketsful",
+          "clueEnd": 96
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 63,
+          "value": "\"Master of Suspense\" who directed 58-Across",
+          "clueEnd": 183,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 73,
+          "value": "58-Across co-star James",
+          "clueEnd": 163,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          },
+          "formatted": "58-Across co-star James"
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 74,
+          "value": "Indication of learnedness, for short",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 79,
+          "value": "\"That feels goo-oo-ood!\"",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 83,
+          "value": "One of 17 in New Orleans",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 84,
+          "value": "Allhallows ___",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 85,
+          "value": "Novelist Philip",
+          "clueEnd": 130
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 95,
+          "value": "58-Across co-star Kim",
+          "clueEnd": 155,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 101,
+          "value": "\"Do we have the green light?\"",
+          "clueEnd": 191
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 105,
+          "value": "Deer stalker",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 106,
+          "value": "[I'm standing right here]",
+          "clueEnd": 151
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 107,
+          "value": "Operation Overlord locale",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 112,
+          "value": "Hallucination, e.g.",
+          "clueEnd": 202
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 126,
+          "value": "Way to travel, for many tourists",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 134,
+          "value": "Prefix with demeanor or behavior",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 158,
+          "value": "Many-eyed giant of myth",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 160,
+          "value": "Guinness Book adjective",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 169,
+          "value": "Display options, in brief",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 174,
+          "value": "Product in a snail-shaped dispenser",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 180,
+          "value": "Plan (out)",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 181,
+          "value": "Peanut product",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 185,
+          "value": "Chortle",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 193,
+          "value": "Big Apple sch. with campuses in Abu Dhabi and Shanghai",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 194,
+          "value": "Interior secretary Haaland",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      0,
+      1,
+      1,
+      1,
+      9,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      9,
+      1,
+      1,
+      1,
+      1,
+      9,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      1,
+      9,
+      1,
+      0,
+      0,
+      0,
+      9,
+      1,
+      9,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      9,
+      1,
+      1,
+      1,
+      1,
+      9,
+      1,
+      9,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      9,
+      0,
+      1,
+      1,
+      1,
+      9,
+      0,
+      9,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      9,
+      1,
+      1,
+      1,
+      1,
+      9,
+      0,
+      9,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      9,
+      1,
+      1,
+      1,
+      1,
+      9,
+      0,
+      9,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      9,
+      1,
+      0,
+      0,
+      1,
+      9,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      0,
+      1,
+      1,
+      1,
+      9,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "C",
+      "R",
+      "I",
+      "S",
+      "P",
+      "R",
+      null,
+      "R",
+      "E",
+      "A",
+      "P",
+      null,
+      "I",
+      "L",
+      "K",
+      "H",
+      "O",
+      "T",
+      "T",
+      "E",
+      "A",
+      null,
+      "I",
+      "S",
+      "T",
+      "O",
+      null,
+      "D",
+      "O",
+      "E",
+      "A",
+      "B",
+      "S",
+      "E",
+      "N",
+      "T",
+      null,
+      "A",
+      "P",
+      "O",
+      "P",
+      "L",
+      "E",
+      "X",
+      "Y",
+      "T",
+      "O",
+      "S",
+      null,
+      "D",
+      "O",
+      "L",
+      "L",
+      "Y",
+      "Z",
+      "O",
+      "O",
+      "M",
+      null,
+      null,
+      "U",
+      "T",
+      "A",
+      "H",
+      null,
+      "N",
+      "O",
+      "T",
+      null,
+      null,
+      null,
+      "W",
+      "A",
+      "S",
+      "P",
+      "P",
+      "O",
+      "D",
+      "I",
+      "A",
+      null,
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      null,
+      "N",
+      "T",
+      "H",
+      null,
+      null,
+      null,
+      "T",
+      "A",
+      "N",
+      "S",
+      null,
+      "A",
+      "V",
+      "O",
+      "I",
+      "D",
+      "E",
+      "D",
+      "P",
+      "A",
+      "N",
+      "C",
+      "H",
+      "O",
+      null,
+      "F",
+      "R",
+      "E",
+      "T",
+      "S",
+      "A",
+      "W",
+      null,
+      "U",
+      "H",
+      "O",
+      "H",
+      null,
+      "V",
+      "O",
+      "I",
+      "D",
+      null,
+      "H",
+      "I",
+      "R",
+      "A",
+      "M",
+      "M",
+      "E",
+      "R",
+      "C",
+      null,
+      "A",
+      "N",
+      "G",
+      null,
+      null,
+      null,
+      "T",
+      "E",
+      "R",
+      "I",
+      "A",
+      "M",
+      "M",
+      "O",
+      null,
+      "K",
+      "A",
+      "M",
+      "A",
+      null,
+      "F",
+      "A",
+      "C",
+      "T",
+      "S",
+      null,
+      null,
+      "A",
+      "C",
+      "L",
+      null,
+      "V",
+      "E",
+      "R",
+      "T",
+      "I",
+      "G",
+      "O",
+      null,
+      null,
+      "M",
+      "O",
+      "N",
+      "K",
+      "E",
+      "Y",
+      "I",
+      "N",
+      "G",
+      "A",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D",
+      "A",
+      "I",
+      "D",
+      null,
+      "D",
+      "U",
+      "S",
+      "T",
+      "U",
+      "P",
+      "S",
+      null,
+      "N",
+      "Y",
+      "E",
+      "P",
+      "L",
+      "Y",
+      null,
+      "S",
+      "K",
+      "A",
+      null,
+      "S",
+      "E",
+      "T",
+      null,
+      "T",
+      "U",
+      "B"
+    ]
+  }
+}

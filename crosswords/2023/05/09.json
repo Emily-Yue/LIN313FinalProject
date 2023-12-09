@@ -1,0 +1,993 @@
+{
+  "puzzle_id": 21017,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-05-09",
+    "printDotw": 2,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [
+      {
+        "txt": "Note: The puzzle contains elements that this printable format cannot reproduce. We recommend solving digitally, or via the newspaper PDF.",
+        "spoiler": false,
+        "platforms": {
+          "pdf": true,
+          "web": false,
+          "al": false,
+          "iOS": false,
+          "windows": false,
+          "android": false
+        }
+      }
+    ],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Margaret Seikel",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/05/08/crosswords/daily-puzzle-2023-05-09.html"
+    }
+  },
+  "print_date": "2023-05-09",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Margaret Seikel"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Ctrl+V command",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Tennis shot that might be smashed back",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "\"Yes we can\" sloganeer of 2008",
+          "clueEnd": 14,
+          "related": {
+            "down": [
+              42
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "One of the Ivies",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "Japanese sash",
+          "clueEnd": 23,
+          "related": {
+            "down": [
+              7
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "Disney film set in imperial China",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Wasn't overturned, as a ruling",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 36,
+          "value": "Driving for Uber, e.g.",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 40,
+          "value": "Raffle ticket, e.g.",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 48,
+          "value": "\u270c, at an antiwar protest",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "\"Shoulda listened to me!\"",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 68,
+          "value": "Make believe",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 75,
+          "value": "It's a drag",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 80,
+          "value": "Reader's download",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 86,
+          "value": "___ Mai, singer with the 2018 hit \"Boo'd Up\"",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 90,
+          "value": "Buckwheat noodles in Tokyo",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 95,
+          "value": "Independent divisions, in corporate jargon",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 101,
+          "value": "Fission focus",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Bottomless well",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 111,
+          "value": "Grandma, to Brits",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 115,
+          "value": "Treasure stash",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "\"Let's do this thing!\"",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 129,
+          "value": "Bunches of flowers",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "\"___ to Autocorrect\" (Martha Silano poem)",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 139,
+          "value": "Person on a beat",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 143,
+          "value": "___'easter",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 147,
+          "value": "\"Spring forward\" hrs.",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 153,
+          "value": "Musical set in ancient Egypt",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 158,
+          "value": "Cathedral recess",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 167,
+          "value": "\u270c, from Winston Churchill",
+          "clueEnd": 177
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 180,
+          "value": "Print maker?",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 185,
+          "value": "Hawaiian greeting",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 191,
+          "value": "\"I am woman, hear me ___\"",
+          "clueEnd": 194,
+          "formatted": "\"I am woman, hear me ___\""
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 195,
+          "value": "Buy in, say",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 200,
+          "value": "___ City (Detroit)",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 206,
+          "value": "Shrek or Fiona",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 210,
+          "value": "Boilermaker component",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 215,
+          "value": "Captain's \"Stop!\"",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 221,
+          "value": "Incline that affords access",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"This Old House\" network",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Apt name for a curator",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Phillipa of \"Hamilton\"",
+          "clueEnd": 32
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "\u270c, when ordering",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Ceased",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Early home for Abraham Lincoln",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Theater award that sounds like 15-Across",
+          "clueEnd": 52,
+          "related": {
+            "down": [],
+            "across": [
+              15
+            ]
+          }
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Implement for eating soup but probably not for stirring coffee",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Alpha's opposite",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "\u270c, in a silly group photo",
+          "clueEnd": 131
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "___-pop (eclectic genre)",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Spoil",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "At ___ rate",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 50,
+          "value": "All those in favor, in the Senate",
+          "clueEnd": 95,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "Sorts",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "\"Full speed ahead!\"",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 61,
+          "value": "\"That's a shame\"",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 62,
+          "value": "\"I approve\"",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 72,
+          "value": "Breath mint from a tin",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 73,
+          "value": "Garlic segments",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 74,
+          "value": "Most docile",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 82,
+          "value": "Suffix with schnozz",
+          "clueEnd": 112
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 109,
+          "value": "Prefix with political",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 115,
+          "value": "Trunk",
+          "clueEnd": 175
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 125,
+          "value": "Frequent descriptor for 9-Across",
+          "clueEnd": 215,
+          "related": {
+            "down": [],
+            "across": [
+              9
+            ]
+          }
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 129,
+          "value": "Toaster treat",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 141,
+          "value": "1904 Nobelist who wrote \"Conditioned Reflexes\"",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 143,
+          "value": "Ballpark snack topped with cheese sauce",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 153,
+          "value": "Label for a post-makeover photo",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 161,
+          "value": "\"404 Not Found,\" e.g., in computing",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 167,
+          "value": "Election Day exhortation",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 172,
+          "value": "Speck",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 177,
+          "value": "Quiet fitness discipline",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 180,
+          "value": "The ___ Five (nickname for the \"Queer Eye\" cast)",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 181,
+          "value": "Soul mate, with \"the\"",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 193,
+          "value": "Pitching ability, colloquially",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 194,
+          "value": "Be an agent for",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "P",
+      "A",
+      "S",
+      "T",
+      "E",
+      null,
+      "L",
+      "O",
+      "B",
+      null,
+      "O",
+      "B",
+      "A",
+      "M",
+      "A",
+      "B",
+      "R",
+      "O",
+      "W",
+      "N",
+      null,
+      "O",
+      "B",
+      "I",
+      null,
+      "M",
+      "U",
+      "L",
+      "A",
+      "N",
+      "S",
+      "T",
+      "O",
+      "O",
+      "D",
+      null,
+      "G",
+      "I",
+      "G",
+      null,
+      "E",
+      "N",
+      "T",
+      "R",
+      "Y",
+      null,
+      null,
+      null,
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "S",
+      "I",
+      "G",
+      "N",
+      null,
+      null,
+      null,
+      "I",
+      "T",
+      "O",
+      "L",
+      "D",
+      "Y",
+      "A",
+      null,
+      "P",
+      "L",
+      "A",
+      "Y",
+      "A",
+      "C",
+      "T",
+      "T",
+      "O",
+      "K",
+      "E",
+      null,
+      "E",
+      "B",
+      "O",
+      "O",
+      "K",
+      null,
+      "E",
+      "L",
+      "L",
+      "A",
+      "S",
+      "O",
+      "B",
+      "A",
+      null,
+      "S",
+      "I",
+      "L",
+      "O",
+      "S",
+      null,
+      "A",
+      "T",
+      "O",
+      "M",
+      "A",
+      "B",
+      "Y",
+      "S",
+      "S",
+      null,
+      "N",
+      "A",
+      "N",
+      null,
+      "T",
+      "R",
+      "O",
+      "V",
+      "E",
+      "G",
+      "A",
+      "M",
+      "E",
+      "O",
+      "N",
+      null,
+      null,
+      null,
+      "P",
+      "O",
+      "S",
+      "I",
+      "E",
+      "S",
+      "O",
+      "D",
+      "E",
+      null,
+      "C",
+      "O",
+      "P",
+      null,
+      "N",
+      "O",
+      "R",
+      null,
+      "D",
+      "S",
+      "T",
+      null,
+      null,
+      null,
+      "A",
+      "I",
+      "D",
+      "A",
+      null,
+      "A",
+      "P",
+      "S",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "V",
+      "F",
+      "O",
+      "R",
+      "V",
+      "I",
+      "C",
+      "T",
+      "O",
+      "R",
+      "Y",
+      null,
+      null,
+      "F",
+      "O",
+      "O",
+      "T",
+      null,
+      "A",
+      "L",
+      "O",
+      "H",
+      "A",
+      null,
+      "R",
+      "O",
+      "A",
+      "R",
+      "A",
+      "N",
+      "T",
+      "E",
+      null,
+      "M",
+      "O",
+      "T",
+      "O",
+      "R",
+      null,
+      "O",
+      "G",
+      "R",
+      "E",
+      "B",
+      "E",
+      "E",
+      "R",
+      null,
+      "A",
+      "V",
+      "A",
+      "S",
+      "T",
+      null,
+      "R",
+      "A",
+      "M",
+      "P"
+    ]
+  }
+}

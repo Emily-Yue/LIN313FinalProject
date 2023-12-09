@@ -1,0 +1,1061 @@
+{
+  "puzzle_id": 21412,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-10-19",
+    "printDotw": 4,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Colin Ernst",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/10/18/crosswords/daily-puzzle-2023-10-19.html"
+    }
+  },
+  "print_date": "2023-10-19",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Colin Ernst"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "___ no good",
+          "clueEnd": 2
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Shelfmate of Chips Ahoy! and Oreo",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Actor Abe",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Give quite a shock",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 19,
+          "value": "Bolt at great speed?",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "Notify",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Group in a roundup",
+          "clueEnd": 32
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 34,
+          "value": "Knowledgeable, with \"in\"",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 40,
+          "value": "Hit film whose narrator humorously remarks \"Thanks to [her], all problems of feminism and equal rights have been solved\"",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Did some metalworking on",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "French automaker",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Tent with smoke flaps, in an anglicized spelling",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 67,
+          "value": "Derbies, e.g.",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 72,
+          "value": "Longtime sneakers brand",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 76,
+          "value": "Column style",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 82,
+          "value": "Hasn't been hoodwinked by",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "___ Claus",
+          "clueEnd": 92
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 95,
+          "value": "Food regimens",
+          "clueEnd": 98
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 100,
+          "value": "Counterfeit coins",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 105,
+          "value": "Senate majority leader during most of Obama's presidency",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 110,
+          "value": "Pyramid ___",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 116,
+          "value": "Space chimp of 1961",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 120,
+          "value": "One hanging around a kennel?",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 126,
+          "value": "Britain's historic Lady ___",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 132,
+          "value": "Broadway's ___-Manuel Miranda",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 138,
+          "value": "Egyptian temple site",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 144,
+          "value": "Bother",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 150,
+          "value": "\"___ a fool not to!\"",
+          "clueEnd": 152
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 154,
+          "value": "Insurance or tax figures",
+          "clueEnd": 157
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 160,
+          "value": "California o Nueva York",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 165,
+          "value": "Certain volleyball players",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 173,
+          "value": "It has reading assignments",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 180,
+          "value": "\"Yoo-hoo! This way!\"",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 186,
+          "value": "Modern-day sort of provocateur",
+          "clueEnd": 190
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 192,
+          "value": "Golfer's target",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 195,
+          "value": "Equally quickly",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 201,
+          "value": "What's found in the center of a prune?",
+          "clueEnd": 205
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 207,
+          "value": "Prefix with -scopy",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 210,
+          "value": "High-end fashion house",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 216,
+          "value": "End notes?",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 222,
+          "value": "Like a quilt",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Makes things more interesting",
+          "clueEnd": 60,
+          "formatted": "<i>Makes things more interesting</i>"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Was visibly embarrassed",
+          "clueEnd": 121
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Taken into account?",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Cellular centers",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Tropical resort locale, maybe",
+          "clueEnd": 50
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Praise",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Risky thing to do in an affidavit",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "\"What happened next?\"",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Musicians that play with mallets",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "___ the kill",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Risk it all",
+          "clueEnd": 72,
+          "formatted": "<i>Risk it all</i>"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Partner of cut",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Religious agreements?",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 48,
+          "value": "___ Lingus",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "100 yrs.",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 67,
+          "value": "Make things more interesting",
+          "clueEnd": 157,
+          "formatted": "<i>Make things more interesting</i>"
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 68,
+          "value": "Hearst mag",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 80,
+          "value": "Round items in square cases",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 86,
+          "value": "Flamenco dancer's cry",
+          "clueEnd": 116
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "Internal review, for short?",
+          "clueEnd": 120
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 96,
+          "value": "\"Sorry, my schedule's packed\"",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 102,
+          "value": "Opens, as some doors",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 103,
+          "value": "Ditch assistance",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 104,
+          "value": "You might provide the \"last four\" of this, in brief",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 108,
+          "value": "Territory divided into two states: Abbr.",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 114,
+          "value": "How English poets wrote previously?",
+          "clueEnd": 144
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 124,
+          "value": "Top-floor spaces",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 140,
+          "value": "Univ. staffers",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 145,
+          "value": "Greek god of the winds",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 146,
+          "value": "Finger-wagging accompaniment",
+          "clueEnd": 176
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 150,
+          "value": "Basketball great Thomas",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 151,
+          "value": "Mentally slow",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 152,
+          "value": "Risk it all",
+          "clueEnd": 212,
+          "formatted": "<i>Risk it all</i>"
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 164,
+          "value": "Gamble boldly, in a way \u2026 or a hint to the answers to this puzzle's italicized clues",
+          "clueEnd": 224,
+          "formatted": "<i>Gamble boldly, in a way \u2026 or a hint to the answers to this puzzle's italicized clues</i>"
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 168,
+          "value": "Language akin to Manx",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 173,
+          "value": "Get tight (with)",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 174,
+          "value": "Apparel competitor of Playtex",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 186,
+          "value": "Special attention, in brief",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 187,
+          "value": "Critter that grows by leaps and bounds?",
+          "clueEnd": 217
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      [
+        "UP",
+        "U"
+      ],
+      "T",
+      "O",
+      null,
+      "N",
+      "I",
+      "L",
+      "L",
+      "A",
+      null,
+      "V",
+      "I",
+      [
+        "GO",
+        "G"
+      ],
+      "D",
+      "A",
+      [
+        "ST",
+        "S"
+      ],
+      "U",
+      "N",
+      null,
+      "U",
+      "S",
+      "A",
+      "I",
+      "N",
+      null,
+      "I",
+      "N",
+      [
+        "FO",
+        "F"
+      ],
+      "R",
+      "M",
+      [
+        "HE",
+        "H"
+      ],
+      "R",
+      "D",
+      null,
+      "C",
+      "L",
+      "U",
+      "E",
+      "D",
+      null,
+      "B",
+      "A",
+      [
+        "RB",
+        "R"
+      ],
+      "I",
+      "E",
+      [
+        "AN",
+        "A"
+      ],
+      "N",
+      "E",
+      "A",
+      "L",
+      "E",
+      "D",
+      null,
+      null,
+      "C",
+      "I",
+      "T",
+      [
+        "RO",
+        "R"
+      ],
+      "E",
+      "N",
+      [
+        "TE",
+        "T"
+      ],
+      "E",
+      "P",
+      "E",
+      "E",
+      null,
+      null,
+      [
+        "RA",
+        "R"
+      ],
+      "C",
+      "E",
+      "S",
+      null,
+      [
+        "KE",
+        "K"
+      ],
+      "D",
+      "S",
+      null,
+      "D",
+      "O",
+      "R",
+      "I",
+      "C",
+      null,
+      [
+        "IS",
+        "I"
+      ],
+      "O",
+      "N",
+      "T",
+      "O",
+      null,
+      null,
+      null,
+      "M",
+      "R",
+      "S",
+      null,
+      null,
+      "D",
+      "I",
+      [
+        "ET",
+        "E"
+      ],
+      "S",
+      null,
+      "S",
+      "L",
+      "U",
+      "G",
+      "S",
+      "R",
+      "E",
+      "I",
+      "D",
+      null,
+      "S",
+      "C",
+      [
+        "HE",
+        "H"
+      ],
+      "M",
+      "E",
+      null,
+      "E",
+      "N",
+      "O",
+      "S",
+      "I",
+      "D",
+      "T",
+      "A",
+      "G",
+      null,
+      "A",
+      [
+        "ST",
+        "S"
+      ],
+      "O",
+      "R",
+      null,
+      null,
+      "L",
+      "I",
+      "N",
+      null,
+      null,
+      null,
+      "K",
+      "A",
+      "R",
+      "N",
+      [
+        "AK",
+        "A"
+      ],
+      null,
+      "E",
+      "A",
+      "T",
+      "A",
+      "T",
+      null,
+      "I",
+      "D",
+      [
+        "BE",
+        "B"
+      ],
+      null,
+      "R",
+      "A",
+      "T",
+      [
+        "ES",
+        "E"
+      ],
+      null,
+      null,
+      "E",
+      "S",
+      "T",
+      "A",
+      [
+        "DO",
+        "D"
+      ],
+      "S",
+      "E",
+      [
+        "TT",
+        "T"
+      ],
+      "E",
+      "R",
+      "S",
+      null,
+      null,
+      "B",
+      "O",
+      "O",
+      "K",
+      "C",
+      "L",
+      [
+        "UB",
+        "U"
+      ],
+      "I",
+      "N",
+      [
+        "HE",
+        "H"
+      ],
+      "R",
+      "E",
+      null,
+      "T",
+      "R",
+      "O",
+      "L",
+      "L",
+      null,
+      "H",
+      "O",
+      [
+        "LE",
+        "L"
+      ],
+      "A",
+      "S",
+      [
+        "FA",
+        "F"
+      ],
+      "S",
+      "T",
+      null,
+      "L",
+      "O",
+      "N",
+      "G",
+      "U",
+      null,
+      "E",
+      "N",
+      [
+        "DO",
+        "D"
+      ],
+      "H",
+      "E",
+      [
+        "RM",
+        "R"
+      ],
+      "E",
+      "S",
+      null,
+      "C",
+      "O",
+      "D",
+      "A",
+      "S",
+      null,
+      "S",
+      "E",
+      [
+        "WN",
+        "W"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "puzzle_id": 20830,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-02",
+    "printDotw": 1,
+    "editor": "Joel Fagliano",
+    "copyright": "2022 The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Gustie Owens",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-02",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Gustie Owens"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Logic-based exam for some aspiring grad students",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "1/12 of a foot",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "\"See ya ___, alligator!\"",
+          "clueEnd": 14,
+          "formatted": "&#34;See ya ___, alligator!&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "Competitor of Nike and Reebok",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Spurt",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Rapper ___ Nas X",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Sounds made during a poetry reading",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "\"Silence = Death\" advocacy group",
+          "clueEnd": 22,
+          "formatted": "&#34;Silence = Death&#34; advocacy group"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Feature of a Monday crossword",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Like the fish in ceviche",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "L",
+      "S",
+      "A",
+      "T",
+      null,
+      "I",
+      "N",
+      "C",
+      "H",
+      null,
+      "L",
+      "A",
+      "T",
+      "E",
+      "R",
+      null,
+      "P",
+      "U",
+      "M",
+      "A",
+      null,
+      "S",
+      "P",
+      "E",
+      "W"
+    ]
+  }
+}

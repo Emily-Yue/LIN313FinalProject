@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 21074,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-04-12",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-04-12",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "\"Super\" campaign org.",
+          "clueEnd": 4,
+          "formatted": "&#34;Super&#34; campaign org."
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Some branded products, informally",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Pleasant smell",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Philly N.B.A. player",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "It's good to sing in it",
+          "clueEnd": 22,
+          "formatted": "It&#39;s good to sing in it"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Stand-in",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Brand used by Wile E. Coyote",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Burn slightly",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "What a raccoon looks like it's wearing",
+          "clueEnd": 20,
+          "formatted": "What a raccoon looks like it&#39;s wearing"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "One of the Great Lakes",
+          "clueEnd": 21
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "P",
+      "A",
+      "C",
+      "M",
+      "E",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "O",
+      "M",
+      "A",
+      "S",
+      "I",
+      "X",
+      "E",
+      "R",
+      "K",
+      "E",
+      "Y",
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,1011 @@
+{
+  "puzzle_id": 21153,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-07-06",
+    "printDotw": 4,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Alison Perch",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/07/05/crosswords/daily-puzzle-2023-07-06.html"
+    }
+  },
+  "print_date": "2023-07-06",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Alison Perch"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Christmas pudding ingredient",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "It's from the underside of a hide",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Band whose jukebox musical led to a pair of films",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Clearly, in a text",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "A.T.M. button",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Pupil's surrounding",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "The emptier it is, the more of it you have",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Caption on a makeover photo",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "They're often steamed, then rolled",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Request regarding \"the ball game\" \u2026 or instructions for answering the starred clues",
+          "clueEnd": 53,
+          "related": {
+            "down": [],
+            "across": [
+              24,
+              28,
+              42,
+              45
+            ]
+          }
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "Designation for very minor stars",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Artist's studio",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 69,
+          "value": "*Response to a knock on the door",
+          "clueEnd": 72,
+          "related": {
+            "down": [],
+            "across": [
+              20,
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 78,
+          "value": "Conspiring (with)",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 87,
+          "value": "*Their history is celebrated in March",
+          "clueEnd": 89,
+          "related": {
+            "down": [],
+            "across": [
+              20,
+              53
+            ]
+          },
+          "formatted": "*Their history is celebrated in March"
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "Get big, as a hashtag",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 96,
+          "value": "Boosters, e.g.",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 102,
+          "value": "Reddit Q&A",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 105,
+          "value": "Perfect",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 110,
+          "value": "Gripes",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 116,
+          "value": "Like devoted fans",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 120,
+          "value": "Bird with a bluish neck and green eggs",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 124,
+          "value": "\"That's ___ shame\"",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 130,
+          "value": "Michelangelo's only signed work",
+          "clueEnd": 134,
+          "related": {
+            "down": [
+              32
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 135,
+          "value": "*Neighbor of Saudi Arabia",
+          "clueEnd": 137,
+          "related": {
+            "down": [],
+            "across": [
+              20,
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 139,
+          "value": "Crunch, e.g.",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 152,
+          "value": "*Concrete component",
+          "clueEnd": 155,
+          "related": {
+            "down": [],
+            "across": [
+              20,
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 158,
+          "value": "\"Everyone's accounted for\"",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 165,
+          "value": "Some manga adaptations",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 171,
+          "value": "Earn \u2026 or what answering the starred clues will do in each case",
+          "clueEnd": 179,
+          "related": {
+            "down": [],
+            "across": [
+              24,
+              28,
+              42,
+              45
+            ]
+          }
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 180,
+          "value": "Town near Arches and Canyonlands National Parks",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 185,
+          "value": "Not bold",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 191,
+          "value": "Post-deadline",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 195,
+          "value": "Bit of dust",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 200,
+          "value": "Super-selective",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 206,
+          "value": "Cream alternative",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 210,
+          "value": "Gave a thumbs-up",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 215,
+          "value": "Ideal",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 221,
+          "value": "Word with bus or door",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"More or less\"",
+          "clueEnd": 60
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "W.W. II sub",
+          "clueEnd": 61
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Call up",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Where a dot may be a date",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Anago, at a sushi restaurant",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Not expected",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Caesarean delivery?",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Bug spray ingredient",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Spell \"mispell,\" e.g.",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Garlicky condiment",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Head line?",
+          "clueEnd": 132
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Comic routines",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Appt. scheduler, say",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 49,
+          "value": "\"Do you ___?\"",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "Executes",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 69,
+          "value": "Acts of downsizing",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 82,
+          "value": "___ of the game",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 83,
+          "value": "\"Get lost!\"",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 88,
+          "value": "Skip",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 89,
+          "value": "Zip",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 90,
+          "value": "\"So ___ say\"",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 91,
+          "value": "City where the 41-Across was commissioned",
+          "clueEnd": 136,
+          "related": {
+            "down": [],
+            "across": [
+              41,
+              41
+            ]
+          }
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 92,
+          "value": "Say it all?",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 110,
+          "value": "German sausage, informally",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 116,
+          "value": "Pet carrier features",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 124,
+          "value": "Some spots",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 130,
+          "value": "Place for a reading",
+          "clueEnd": 175
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 144,
+          "value": "Actress Alexis of \"Gilmore Girls\"",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 153,
+          "value": "Fix firmly",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 162,
+          "value": "Pass",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 163,
+          "value": "Like a Pac-Man T-shirt, say",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 164,
+          "value": "Visually assess",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 165,
+          "value": "Backing for an argument, so to speak",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 166,
+          "value": "Recess",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 171,
+          "value": "Otis's feline friend in a 1989 film",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 172,
+          "value": "During",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 185,
+          "value": "Pro___ (for now)",
+          "clueEnd": 215
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "S",
+      "U",
+      "E",
+      "T",
+      null,
+      "S",
+      "U",
+      "E",
+      "D",
+      "E",
+      null,
+      "A",
+      "B",
+      "B",
+      "A",
+      "O",
+      "B",
+      "V",
+      "I",
+      null,
+      "E",
+      "N",
+      "T",
+      "E",
+      "R",
+      null,
+      "I",
+      "R",
+      "I",
+      "S",
+      "R",
+      "O",
+      "O",
+      "M",
+      null,
+      "A",
+      "F",
+      "T",
+      "E",
+      "R",
+      null,
+      "O",
+      "A",
+      "T",
+      "S",
+      "T",
+      "A",
+      "K",
+      "E",
+      "M",
+      "E",
+      "O",
+      "U",
+      "T",
+      null,
+      "D",
+      "L",
+      "I",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "L",
+      "I",
+      "E",
+      "R",
+      null,
+      null,
+      "C",
+      "O",
+      "I",
+      "N",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "I",
+      "N",
+      "L",
+      "E",
+      "A",
+      "G",
+      "U",
+      "E",
+      null,
+      "W",
+      "O",
+      "N",
+      "T",
+      "R",
+      "E",
+      "N",
+      "D",
+      null,
+      "S",
+      "H",
+      "O",
+      "T",
+      "S",
+      null,
+      "A",
+      "M",
+      "A",
+      "H",
+      "O",
+      "N",
+      "E",
+      null,
+      "B",
+      "E",
+      "E",
+      "F",
+      "S",
+      null,
+      "A",
+      "V",
+      "I",
+      "D",
+      "E",
+      "M",
+      "U",
+      null,
+      "A",
+      "R",
+      "E",
+      "A",
+      "L",
+      null,
+      "P",
+      "I",
+      "E",
+      "T",
+      "A",
+      "Y",
+      "E",
+      "N",
+      null,
+      "C",
+      "A",
+      "N",
+      "D",
+      "Y",
+      "B",
+      "A",
+      "R",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "C",
+      "E",
+      "N",
+      "T",
+      null,
+      null,
+      "A",
+      "L",
+      "L",
+      "H",
+      "E",
+      "R",
+      "E",
+      "A",
+      "N",
+      "I",
+      "M",
+      "E",
+      null,
+      "M",
+      "A",
+      "K",
+      "E",
+      "M",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "M",
+      "O",
+      "A",
+      "B",
+      null,
+      "T",
+      "I",
+      "M",
+      "I",
+      "D",
+      null,
+      "L",
+      "A",
+      "T",
+      "E",
+      "M",
+      "O",
+      "T",
+      "E",
+      null,
+      "E",
+      "L",
+      "I",
+      "T",
+      "E",
+      null,
+      "E",
+      "C",
+      "R",
+      "U",
+      "O",
+      "K",
+      "E",
+      "D",
+      null,
+      "M",
+      "O",
+      "D",
+      "E",
+      "L",
+      null,
+      "S",
+      "T",
+      "O",
+      "P"
+    ]
+  }
+}

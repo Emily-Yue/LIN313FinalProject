@@ -1,0 +1,980 @@
+{
+  "puzzle_id": 21237,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-08-15",
+    "printDotw": 2,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Malaika Handa",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/08/14/crosswords/daily-puzzle-2023-08-15.html"
+    }
+  },
+  "print_date": "2023-08-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Malaika Handa"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Place with tilled land",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "\"Gotta go!\"",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Grindr and Tinder, for two",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Vicinity",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Extremely muscular, in slang",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Pub projectile",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "*Plant used to treat rashes",
+          "clueEnd": 39,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "Plant used to treat rashes",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Cheesy chip",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 51,
+          "value": "Exfoliation target during a pedicure",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 57,
+          "value": "\"Happiness ___ Warm Puppy\" (classic \"Peanuts\" book)",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "\"No more!\"",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 68,
+          "value": "Milky Way component",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "Author Brown",
+          "clueEnd": 77
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 79,
+          "value": "*Crocheted hair extensions",
+          "clueEnd": 89,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 95,
+          "value": "Suni of Team USA gymnastics",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 100,
+          "value": "Leonardo da ___",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 105,
+          "value": "Shapiro of NPR",
+          "clueEnd": 107
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 109,
+          "value": "*Eco-friendly alternative to tampons",
+          "clueEnd": 115,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 117,
+          "value": "Hither and ___",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Punctuation missing from \"Let's eat Grandma\"?",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 127,
+          "value": "Oui's opposite",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "*Epithet for Aretha Franklin",
+          "clueEnd": 145,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 147,
+          "value": "Femur site",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 150,
+          "value": "Remove from its husk, as a peanut",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 159,
+          "value": "Brunch cocktail that might be bottomless",
+          "clueEnd": 164,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 165,
+          "value": "Cards handed to a bouncer",
+          "clueEnd": 167
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 170,
+          "value": "Twosome",
+          "clueEnd": 173
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 175,
+          "value": "Like some toothpaste",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 180,
+          "value": "Robert Frost took one that was less traveled",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 185,
+          "value": "Feature of \"Alien,\" \"Mulan\" or \"Clueless\" \u2026 or what the answer to each starred clue has?",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              44,
+              17,
+              29,
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "Many an M.I.T. graduate: Abbr.",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 200,
+          "value": "Give a speech",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 206,
+          "value": "___Vista (early search engine)",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 210,
+          "value": "Notices",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 215,
+          "value": "English county with three swords on its flag",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 221,
+          "value": "Person from the Big Apple, informally",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Flattered excessively, with \"over\"",
+          "clueEnd": 75
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Singer Grande",
+          "clueEnd": 76
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Literary device that revises a previously established narrative, for short",
+          "clueEnd": 77
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "___ Picchu (ancient Inca citadel)",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Sort of",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "\"Love ya!\"",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Seep",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Lining on a winter coat",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Lads",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Programmer Lovelace",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Payment after a split between unmarried partners",
+          "clueEnd": 117
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Italian sparkling wine",
+          "clueEnd": 118,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Enters on tiptoe, say",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 34,
+          "value": "Gun control activist David",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 65,
+          "value": "Hindu spring festival",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 70,
+          "value": "Reply \"yes,\" \"no\" or \"maybe,\" maybe",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 71,
+          "value": "Comedian Wong",
+          "clueEnd": 101
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 81,
+          "value": "The \"D\" of R&D: Abbr.",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 82,
+          "value": "College heads",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 105,
+          "value": "Gets",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 106,
+          "value": "First part of a tournament",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 107,
+          "value": "It shows up as a blue speech bubble",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 109,
+          "value": "Copenhagen resident",
+          "clueEnd": 154
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 113,
+          "value": "Sound from a baby or a dove",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 114,
+          "value": "E pluribus ___",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 123,
+          "value": "\"Didn't love it\"",
+          "clueEnd": 153
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 140,
+          "value": "Enemy from one's past",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 141,
+          "value": "Philadelphia hockey team",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 145,
+          "value": "Margarita garnish",
+          "clueEnd": 190
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 147,
+          "value": "In need of a friend, say",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 148,
+          "value": "Manor",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 149,
+          "value": "Queer feeling?",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 161,
+          "value": "City that's home to \"The Last Supper\"",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 172,
+          "value": "Reddit Q&As",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 173,
+          "value": "Potential result of using Grindr or Tinder",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 183,
+          "value": "Some O.R. staff",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 189,
+          "value": "___ Luthor (DC Comics villain)",
+          "clueEnd": 219
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "F",
+      "A",
+      "R",
+      "M",
+      null,
+      "I",
+      "M",
+      "O",
+      "F",
+      "F",
+      null,
+      "A",
+      "P",
+      "P",
+      "S",
+      "A",
+      "R",
+      "E",
+      "A",
+      null,
+      "S",
+      "W",
+      "O",
+      "L",
+      "E",
+      null,
+      "D",
+      "A",
+      "R",
+      "T",
+      "W",
+      "I",
+      "T",
+      "C",
+      "H",
+      "H",
+      "A",
+      "Z",
+      "E",
+      "L",
+      null,
+      "A",
+      "L",
+      "O",
+      "E",
+      "N",
+      "A",
+      "C",
+      "H",
+      "O",
+      null,
+      "H",
+      "E",
+      "E",
+      "L",
+      null,
+      null,
+      "I",
+      "S",
+      "A",
+      "E",
+      "N",
+      "O",
+      "U",
+      "G",
+      "H",
+      null,
+      null,
+      "C",
+      "A",
+      "R",
+      "A",
+      "M",
+      "E",
+      "L",
+      "D",
+      "A",
+      "N",
+      null,
+      "G",
+      "O",
+      "D",
+      "D",
+      "E",
+      "S",
+      "S",
+      "L",
+      "O",
+      "C",
+      "S",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "L",
+      "E",
+      "E",
+      null,
+      null,
+      "V",
+      "I",
+      "N",
+      "C",
+      "I",
+      "A",
+      "R",
+      "I",
+      null,
+      "D",
+      "I",
+      "V",
+      "A",
+      "C",
+      "U",
+      "P",
+      null,
+      "Y",
+      "O",
+      "N",
+      "C",
+      "O",
+      "M",
+      "M",
+      "A",
+      null,
+      null,
+      "N",
+      "O",
+      "N",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Q",
+      "U",
+      "E",
+      "E",
+      "N",
+      "O",
+      "F",
+      "S",
+      "O",
+      "U",
+      "L",
+      null,
+      "L",
+      "E",
+      "G",
+      "U",
+      "N",
+      "S",
+      "H",
+      "E",
+      "L",
+      "L",
+      null,
+      null,
+      "M",
+      "I",
+      "M",
+      "O",
+      "S",
+      "A",
+      "I",
+      "D",
+      "S",
+      null,
+      null,
+      "D",
+      "Y",
+      "A",
+      "D",
+      null,
+      "M",
+      "I",
+      "N",
+      "T",
+      "Y",
+      "R",
+      "O",
+      "A",
+      "D",
+      null,
+      "F",
+      "E",
+      "M",
+      "A",
+      "L",
+      "E",
+      "L",
+      "E",
+      "A",
+      "D",
+      "E",
+      "N",
+      "G",
+      "R",
+      null,
+      "O",
+      "R",
+      "A",
+      "T",
+      "E",
+      null,
+      "A",
+      "L",
+      "T",
+      "A",
+      "S",
+      "E",
+      "E",
+      "S",
+      null,
+      "E",
+      "S",
+      "S",
+      "E",
+      "X",
+      null,
+      "N",
+      "Y",
+      "E",
+      "R"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "puzzle_id": 21444,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-23",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Quarrel",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 7,
+          "value": "\"My apologies\"",
+          "clueEnd": 11,
+          "formatted": "&#34;My apologies&#34;"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Pot roast-er?",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "\"Right this second!\"",
+          "clueEnd": 23,
+          "formatted": "&#34;Right this second!&#34;"
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 25,
+          "value": "Director's cry",
+          "clueEnd": 27,
+          "formatted": "Director&#39;s cry"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "Pecorino ___ (cheese)",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 37,
+          "value": "Pizza order specification",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 44,
+          "value": "Put on fancy clothes, with \"up\"",
+          "clueEnd": 48,
+          "formatted": "Put on fancy clothes, with &#34;up&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "The \"A\" of N.B.A.: Abbr.",
+          "clueEnd": 21,
+          "formatted": "The &#34;A&#34; of N.B.A.: Abbr."
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Spinning part of a turbine",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Become tiresome",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Container for ashes",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "What an ophthalmologist provides",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 19,
+          "value": "Steps on a ladder",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 27,
+          "value": "Geckos have sticky ones",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 31,
+          "value": "Damage",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "R",
+      "G",
+      "U",
+      "E",
+      null,
+      null,
+      "S",
+      "O",
+      "R",
+      "R",
+      "Y",
+      null,
+      null,
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "R",
+      null,
+      "N",
+      "O",
+      "W",
+      null,
+      "C",
+      "U",
+      "T",
+      null,
+      "R",
+      "O",
+      "M",
+      "A",
+      "N",
+      "O",
+      null,
+      null,
+      "L",
+      "A",
+      "R",
+      "G",
+      "E",
+      null,
+      null,
+      "D",
+      "R",
+      "E",
+      "S",
+      "S"
+    ]
+  }
+}

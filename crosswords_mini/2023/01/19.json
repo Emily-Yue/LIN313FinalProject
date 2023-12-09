@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 20879,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-19",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2022, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-19",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Bad sound from a fan",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Well-off",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Mollusk with a pink shell",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Fashion magazine headed by Anna Wintour",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Journalist's piece",
+          "clueEnd": 24,
+          "formatted": "Journalist&#39;s piece"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "The \"name-o\" of a nursery rhyme dog",
+          "clueEnd": 22,
+          "formatted": "The &#34;name-o&#34; of a nursery rhyme dog"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Happen",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "\"Funny seeing you here!\"",
+          "clueEnd": 24,
+          "formatted": "&#34;Funny seeing you here!&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Most-used part of a ginger plant",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Major pharmacy chain",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      null,
+      "B",
+      "O",
+      "O",
+      null,
+      "R",
+      "I",
+      "C",
+      "H",
+      "C",
+      "O",
+      "N",
+      "C",
+      "H",
+      "V",
+      "O",
+      "G",
+      "U",
+      "E",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y"
+    ]
+  }
+}

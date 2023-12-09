@@ -1,0 +1,157 @@
+{
+  "puzzle_id": 20967,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-21",
+    "printDotw": 2,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-21",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Lavish meal",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Country that's home to eight of the fifty largest cities in the world",
+          "clueEnd": 9,
+          "formatted": "Country that&#39;s home to eight of the fifty largest cities in the world"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Really put one's foot down",
+          "clueEnd": 14,
+          "formatted": "Really put one&#39;s foot down"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Some home garden growings",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Ribosomes read it to make proteins",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Symbol of Pisces",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "What's the key to getting from the end of a line to the start?",
+          "clueEnd": 21,
+          "formatted": "What's the key to getting from the end of a line to the start?"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Add fancy decorations to",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "\"The Lion King\" lion",
+          "clueEnd": 23,
+          "formatted": "&#34;The Lion King&#34; lion"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Accesses, with \"into\"",
+          "clueEnd": 19,
+          "formatted": "Accesses, with &#34;into&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      "F",
+      "E",
+      "A",
+      "S",
+      "T",
+      "I",
+      "N",
+      "D",
+      "I",
+      "A",
+      "S",
+      "T",
+      "O",
+      "M",
+      "P",
+      "H",
+      "E",
+      "R",
+      "B",
+      "S",
+      null,
+      "R",
+      "N",
+      "A",
+      null
+    ]
+  }
+}

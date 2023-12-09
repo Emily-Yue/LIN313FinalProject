@@ -1,0 +1,1024 @@
+{
+  "puzzle_id": 21190,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-07-27",
+    "printDotw": 4,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [
+      {
+        "txt": "Correction: An earlier version of 49-Down misstated the name of the game show segment. It is \"Showcase,\" not \"Showcase Showdown.\"",
+        "spoiler": false,
+        "platforms": {
+          "pdf": true,
+          "web": true,
+          "al": true,
+          "iOS": true,
+          "windows": true,
+          "android": true
+        }
+      }
+    ],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Guilherme Gilioli",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/07/26/crosswords/daily-puzzle-2023-07-27.html"
+    }
+  },
+  "print_date": "2023-07-27",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Guilherme Gilioli"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Word with dirty or car",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Studio caution",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Designation that's cheaper than \"vintage,\" usually",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Locale of the house depicted in \"American Gothic\"",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Vaughn of \"True Detective\"",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Cavort",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "For the ages",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Submit",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "17-Across + 18-Across = 19-Across",
+          "clueEnd": 44,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              18
+            ]
+          },
+          "formatted": "<i>17-Across + 18-Across = 19-Across</i>"
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 46,
+          "value": "Release",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "What a pass may offer",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 63,
+          "value": "Contented sighs",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 68,
+          "value": "Once menos tres",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 76,
+          "value": "It's a personal matter",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 82,
+          "value": "Invited to a movie, say",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 90,
+          "value": "Garnish for a shrimp taco",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 95,
+          "value": "Morty's cartoon pal",
+          "clueEnd": 98
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 100,
+          "value": "32-Across + 33-Across = 35-Across",
+          "clueEnd": 104,
+          "related": {
+            "down": [],
+            "across": [
+              32,
+              33
+            ]
+          },
+          "formatted": "<i>32-Across + 33-Across = 35-Across</i>"
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 105,
+          "value": "French friend",
+          "clueEnd": 107
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 109,
+          "value": "Where gummy bears were invented",
+          "clueEnd": 115,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 117,
+          "value": "Hollywood's Howard",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 120,
+          "value": "Locale for the hustle and the funky chicken",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 126,
+          "value": "Not just a little",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 131,
+          "value": "40-Across + 42-Across = 43-Across",
+          "clueEnd": 134,
+          "related": {
+            "down": [],
+            "across": [
+              42,
+              40
+            ]
+          },
+          "formatted": "<i>40-Across + 42-Across = 43-Across</i>"
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Oscar nominee for \"Pollock\" and \"The Truman Show\"",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 144,
+          "value": "Flock members",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 153,
+          "value": "Foreign refusal",
+          "clueEnd": 156,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 158,
+          "value": "One on top of another on top of another \u2026",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 165,
+          "value": "Words of rejection",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 172,
+          "value": "In which one dot represents an \"a\"",
+          "clueEnd": 178
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 180,
+          "value": "Swindles",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 185,
+          "value": "Feature of a wedding dress",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 191,
+          "value": "56-Across + 57-Across = 59-Across",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              56,
+              57
+            ]
+          },
+          "formatted": "<i>56-Across + 57-Across = 59-Across</i>"
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 195,
+          "value": "Discharge",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 200,
+          "value": "Order",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 206,
+          "value": "Clarifying words",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 210,
+          "value": "\"Como voc\u00ea ___?\"",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 215,
+          "value": "Schedule entries",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 221,
+          "value": "Early 20th-century art movement",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Item in a diner display",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"I goofed!\"",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Baby's boo-boo",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Enzyme in dairy pills",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Attention-getting cry",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Most of 1999",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Cost of a hand",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Cube put down someone's shirt, in a prank",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Set up again for billiards",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Bars for checking people out",
+          "clueEnd": 101
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Fruit in the liqueur patxaran",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Things that are folded on a Scottish Fold cat",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Turns red, say",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 49,
+          "value": "The 2% of \"2%\"",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 55,
+          "value": "Car with a \"bowtie\" logo",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 68,
+          "value": "Actor Werner of \"Jules and Jim\"",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 76,
+          "value": "Unlikely to speak first, say",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 77,
+          "value": "Group that often holds religious services in barns",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 82,
+          "value": "Peaks",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 87,
+          "value": "Root in potpourri",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 88,
+          "value": "Route from Me. to Fla.",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 89,
+          "value": "Take care of",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 90,
+          "value": "Haul aboard",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 96,
+          "value": "Rea ___, graphic designer who created The New Yorker's typeface and mascot",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 109,
+          "value": "Bridge columnist Charles",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 114,
+          "value": "N.F.L. team nicknamed Big Blue",
+          "clueEnd": 219,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 123,
+          "value": "Card game that uses jokers",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 131,
+          "value": "Experience guilt, say",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 140,
+          "value": "Took to the streets",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 145,
+          "value": "Hebrew name meaning \"ascent\"",
+          "clueEnd": 175,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 158,
+          "value": "Showcase guesstimate on a TV game show",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 165,
+          "value": "Slushy brand",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 166,
+          "value": "Some cats",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 167,
+          "value": "Bit of agitation",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 172,
+          "value": "Take the ___",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 177,
+          "value": "Her first word was \"Bart\"",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 178,
+          "value": "Oklahoma city NNW of Oklahoma City",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 186,
+          "value": "Health abbr.",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 194,
+          "value": "Code material",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "P",
+      "O",
+      "O",
+      "L",
+      null,
+      "O",
+      "N",
+      "A",
+      "I",
+      "R",
+      null,
+      "U",
+      "S",
+      "E",
+      "D",
+      "I",
+      "O",
+      "W",
+      "A",
+      null,
+      "V",
+      "I",
+      "N",
+      "C",
+      "E",
+      null,
+      "P",
+      "L",
+      "A",
+      "Y",
+      "E",
+      "P",
+      "I",
+      "C",
+      null,
+      "E",
+      "N",
+      "T",
+      "E",
+      "R",
+      null,
+      "C",
+      "O",
+      "R",
+      "E",
+      null,
+      "S",
+      "E",
+      "T",
+      "F",
+      "R",
+      "E",
+      "E",
+      null,
+      "A",
+      "C",
+      "C",
+      "E",
+      "S",
+      "S",
+      null,
+      null,
+      null,
+      "A",
+      "A",
+      "H",
+      "S",
+      null,
+      "O",
+      "C",
+      "H",
+      "O",
+      null,
+      null,
+      null,
+      null,
+      "T",
+      "A",
+      "S",
+      "T",
+      "E",
+      null,
+      "A",
+      "S",
+      "K",
+      "E",
+      "D",
+      "O",
+      "U",
+      "T",
+      "L",
+      "I",
+      "M",
+      "E",
+      null,
+      "R",
+      "I",
+      "C",
+      "K",
+      null,
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "A",
+      "M",
+      "I",
+      null,
+      "G",
+      "E",
+      "R",
+      "M",
+      "A",
+      "N",
+      "Y",
+      null,
+      "R",
+      "O",
+      "N",
+      "D",
+      "I",
+      "S",
+      "C",
+      "O",
+      null,
+      "V",
+      "E",
+      "R",
+      "Y",
+      null,
+      "F",
+      "I",
+      "N",
+      "D",
+      "E",
+      "D",
+      "H",
+      "A",
+      "R",
+      "R",
+      "I",
+      "S",
+      null,
+      "G",
+      "E",
+      "E",
+      "S",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "N",
+      "E",
+      "I",
+      "N",
+      null,
+      "P",
+      "I",
+      "L",
+      "E",
+      null,
+      null,
+      null,
+      "I",
+      "T",
+      "S",
+      "A",
+      "N",
+      "O",
+      null,
+      "B",
+      "R",
+      "A",
+      "I",
+      "L",
+      "L",
+      "E",
+      null,
+      "C",
+      "O",
+      "N",
+      "S",
+      null,
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      null,
+      "B",
+      "I",
+      "N",
+      "D",
+      "E",
+      "M",
+      "I",
+      "T",
+      null,
+      "E",
+      "D",
+      "I",
+      "C",
+      "T",
+      null,
+      "A",
+      "S",
+      "I",
+      "N",
+      "E",
+      "S",
+      "T",
+      "A",
+      null,
+      "D",
+      "A",
+      "T",
+      "E",
+      "S",
+      null,
+      "D",
+      "A",
+      "D",
+      "A"
+    ]
+  }
+}

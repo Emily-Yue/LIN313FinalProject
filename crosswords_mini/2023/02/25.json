@@ -1,0 +1,228 @@
+{
+  "puzzle_id": 20971,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-25",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-25",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Sound from a crying baby",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Inter-office notes",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "\"Hey, I had nothing to do with it\"",
+          "clueEnd": 20,
+          "formatted": "&#34;Hey, I had nothing to do with it&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Greek goddess of the hunt",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 28,
+          "value": "Engines you wouldn't find in electric vehicles",
+          "clueEnd": 34,
+          "formatted": "Engines you wouldn't find in electric vehicles"
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 36,
+          "value": "Beethoven's \"F\u00fcr ___\"",
+          "clueEnd": 40,
+          "formatted": "Beethoven&#39;s &#34;F\u00fcr ___&#34;"
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 44,
+          "value": "More, in Spanish",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Chain retailer whose name is a direction plus a tree",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Loss of memory",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Total disaster",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Organizing expert Kondo",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "\"Cheese!\"",
+          "clueEnd": 40,
+          "formatted": "&#34;Cheese!&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Lump of gum",
+          "clueEnd": 28
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Suffix with lion",
+          "clueEnd": 34
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "W",
+      "A",
+      "H",
+      null,
+      null,
+      null,
+      "M",
+      "E",
+      "M",
+      "O",
+      "S",
+      null,
+      "W",
+      "A",
+      "S",
+      "N",
+      "T",
+      "M",
+      "E",
+      "A",
+      "R",
+      "T",
+      "E",
+      "M",
+      "I",
+      "S",
+      "D",
+      "I",
+      "E",
+      "S",
+      "E",
+      "L",
+      "S",
+      null,
+      "E",
+      "L",
+      "I",
+      "S",
+      "E",
+      null,
+      null,
+      null,
+      "M",
+      "A",
+      "S",
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21043,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-29",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-29",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Really awesome",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Vegetarian protein source",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Assistant to a Supreme Court justice",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "Zachary ___, star of the \"Shazam!\" movies",
+          "clueEnd": 19,
+          "formatted": "Zachary ___, star of the &#34;Shazam!&#34; movies"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Snow day toy",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "And so on: Abbr.",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Snapshots of elections",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "\"In my opinion ...\"",
+          "clueEnd": 22,
+          "formatted": "&#34;In my opinion ...&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "What a bent arrow means, on a road sign ",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Child",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "E",
+      "P",
+      "I",
+      "C",
+      null,
+      "T",
+      "O",
+      "F",
+      "U",
+      null,
+      "C",
+      "L",
+      "E",
+      "R",
+      "K",
+      null,
+      "L",
+      "E",
+      "V",
+      "I",
+      null,
+      "S",
+      "L",
+      "E",
+      "D"
+    ]
+  }
+}

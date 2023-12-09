@@ -1,0 +1,226 @@
+{
+  "puzzle_id": 21020,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-18",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-18",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "High academic degree",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Take a snooze",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Casino card handlers",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Capital of Washington",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 28,
+          "value": "\"Pencils down!\"",
+          "clueEnd": 34,
+          "formatted": "&#34;Pencils down!&#34;"
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 36,
+          "value": "Divisions of airport terminals",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 44,
+          "value": "Airport screening org.",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Place for a baby to practice tummy time",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Hard hats",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Largely unexplored region of Earth",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Bud ___, baseball commissioner from 1992 to 2015",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "Green car",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Feature of a lowercase i or j",
+          "clueEnd": 28
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Tree's \"blood\"",
+          "clueEnd": 34,
+          "formatted": "Tree&#39;s &#34;blood&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "P",
+      "H",
+      "D",
+      null,
+      null,
+      null,
+      "S",
+      "L",
+      "E",
+      "E",
+      "P",
+      null,
+      "D",
+      "E",
+      "A",
+      "L",
+      "E",
+      "R",
+      "S",
+      "O",
+      "L",
+      "Y",
+      "M",
+      "P",
+      "I",
+      "A",
+      "T",
+      "I",
+      "M",
+      "E",
+      "S",
+      "U",
+      "P",
+      null,
+      "G",
+      "A",
+      "T",
+      "E",
+      "S",
+      null,
+      null,
+      null,
+      "T",
+      "S",
+      "A",
+      null,
+      null
+    ]
+  }
+}

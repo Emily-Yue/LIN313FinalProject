@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21407,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-08",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-08",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Mind/body exercise",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Really love",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "\"Ok, understood\"",
+          "clueEnd": 14,
+          "formatted": "&#34;Ok, understood&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Work hard",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Not request another card, in blackjack",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "The white side of this symbol: \u262f",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Emanations from trash cans",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "\"Ok, understood\"",
+          "clueEnd": 22,
+          "formatted": "&#34;Ok, understood&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Many a basketball stadium",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "Swirling water",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "Y",
+      "O",
+      "G",
+      "A",
+      null,
+      "A",
+      "D",
+      "O",
+      "R",
+      "E",
+      "N",
+      "O",
+      "T",
+      "E",
+      "D",
+      "G",
+      "R",
+      "I",
+      "N",
+      "D",
+      null,
+      "S",
+      "T",
+      "A",
+      "Y"
+    ]
+  }
+}

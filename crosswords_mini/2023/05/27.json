@@ -1,0 +1,225 @@
+{
+  "puzzle_id": 21157,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-27",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 6,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-27",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Sign out of one's account",
+          "clueEnd": 5,
+          "formatted": "Sign out of one&#39;s account"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "___ Gorman, poet who performed at Biden's  inauguration",
+          "clueEnd": 11,
+          "formatted": "___ Gorman, poet who performed at Biden&#39;s  inauguration"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 12,
+          "value": "Charming guy?",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 19,
+          "value": "H.S. proficiency exam",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 24,
+          "value": "What a baby starts eating around six months",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 30,
+          "value": "Out at night",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 36,
+          "value": "Airport security grp.",
+          "clueEnd": 41
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Pennsylvania has one against catching fish with your bare hands, believe it or not",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"Wow, wow, wow!\"",
+          "clueEnd": 37,
+          "formatted": "&#34;Wow, wow, wow!&#34;"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Graceful antelope",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Watching what one eats, say",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Prez for whom an N.Y.C. drive is named",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Fidget spinners or flash mobbing, e.g.",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 24,
+          "value": "Day after Fri.",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "___ Moines, Iowa",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "Place to get a hot stone massage",
+          "clueEnd": 41
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "L",
+      "O",
+      "G",
+      "O",
+      "F",
+      "F",
+      "A",
+      "M",
+      "A",
+      "N",
+      "D",
+      "A",
+      "W",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "D",
+      null,
+      "G",
+      "E",
+      "D",
+      null,
+      null,
+      "S",
+      "O",
+      "L",
+      "I",
+      "D",
+      "S",
+      "A",
+      "S",
+      "L",
+      "E",
+      "E",
+      "P",
+      "T",
+      "H",
+      "E",
+      "T",
+      "S",
+      "A"
+    ]
+  }
+}

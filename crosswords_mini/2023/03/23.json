@@ -1,0 +1,148 @@
+{
+  "puzzle_id": 21033,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-23",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Scale, as a rock wall",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Streaker in the night sky",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Twinklers in the night sky",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "Popular brand of fur-lined boots",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Witness",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Loops in on a thread",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Cross-legged meditation pose",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Mirror ___",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Join together",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Best-selling group in Korean music history",
+          "clueEnd": 14
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      "C",
+      "L",
+      "I",
+      "M",
+      "B",
+      "C",
+      "O",
+      "M",
+      "E",
+      "T",
+      "S",
+      "T",
+      "A",
+      "R",
+      "S",
+      null,
+      "U",
+      "G",
+      "G",
+      null,
+      null,
+      "S",
+      "E",
+      "E",
+      null
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "puzzle_id": 20924,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-05",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-05",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "With 1-Down, Monopoly space between Ventnor Avenue and Marvin Gardens",
+          "clueEnd": 4,
+          "related": {
+            "down": [
+              1
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Martini garnish",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "TV sidekick who exclaimed \"Holy hole in a doughnut!\"",
+          "clueEnd": 14,
+          "formatted": "TV sidekick who exclaimed &#34;Holy hole in a doughnut!&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Prepared to propose",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "You might give it props",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "See 1-Across",
+          "clueEnd": 20,
+          "related": {
+            "down": [],
+            "across": [
+              1
+            ]
+          }
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Leave well enough ___",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "One side of Mt. Everest",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Dastardly",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Monopoly payment",
+          "clueEnd": 19
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "R",
+      "O",
+      "B",
+      "I",
+      "N",
+      "K",
+      "N",
+      "E",
+      "L",
+      "T",
+      "S",
+      "E",
+      "T",
+      null,
+      null
+    ]
+  }
+}

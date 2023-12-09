@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 20969,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-23",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Flaco the ___, bird that escaped the Central Park Zoo and is now living in Central Park",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Bashful",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Ursula K. Le Guin's genre",
+          "clueEnd": 14,
+          "formatted": "Ursula K. Le Guin's genre"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Shorts, but longer",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "How something can be \"Certified\" on Rotten Tomatoes",
+          "clueEnd": 24,
+          "formatted": "How something can be &#34;Certified&#34; on Rotten Tomatoes"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Writer Wilde",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Complain, complain, complain",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Some rides from the airport",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Sunscreen bottle inits.",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "More or less",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      "O",
+      "W",
+      "L",
+      null,
+      null,
+      "S",
+      "H",
+      "Y",
+      null,
+      "S",
+      "C",
+      "I",
+      "F",
+      "I",
+      "P",
+      "A",
+      "N",
+      "T",
+      "S",
+      "F",
+      "R",
+      "E",
+      "S",
+      "H"
+    ]
+  }
+}

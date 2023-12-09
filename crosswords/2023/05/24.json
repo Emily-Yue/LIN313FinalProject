@@ -1,0 +1,998 @@
+{
+  "puzzle_id": 21057,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-05-24",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Kavin Pawittranon and Nijah Morris",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/05/23/crosswords/daily-puzzle-2023-05-24.html"
+    }
+  },
+  "print_date": "2023-05-24",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Kavin Pawittranon and Nijah Morris"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"Take it easy\"",
+          "clueEnd": 5
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Letters above 2 on a phone",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Bit of regalia",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Area around a nipple",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 22,
+          "value": "Word with level or legs",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "No later than",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Feeding apparatus at a petting zoo",
+          "clueEnd": 44,
+          "related": {
+            "down": [],
+            "across": [
+              68
+            ]
+          }
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Sun, in Spanish",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 51,
+          "value": "Tiny hill-dweller",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "Bits of news",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 63,
+          "value": "One who is one, e.g.",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 68,
+          "value": "Rib structure",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 76,
+          "value": "Slightest opportunity",
+          "clueEnd": 89,
+          "related": {
+            "down": [],
+            "across": [
+              68
+            ]
+          }
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 90,
+          "value": "Cooks in the oven, maybe",
+          "clueEnd": 95
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 97,
+          "value": "Future atty.'s exam",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 102,
+          "value": "Word that can be a state abbreviation",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Not outer",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 111,
+          "value": "\"Sprechen ___ Deutsch?\"",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 115,
+          "value": "Second-brightest stars",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Tina of \"30 Rock\"",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 124,
+          "value": "Ilhan in Congress",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 129,
+          "value": "Country singer Underwood",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 135,
+          "value": "Big name in underwear",
+          "clueEnd": 148,
+          "related": {
+            "down": [],
+            "across": [
+              68
+            ]
+          }
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 153,
+          "value": "Raise to the third power",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 158,
+          "value": "\"___ I'm saying is \u2026\"",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 165,
+          "value": "Dirty look",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 171,
+          "value": "Victory",
+          "clueEnd": 173
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 177,
+          "value": "\"Whoops,\" in a text",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 180,
+          "value": "Rapper with the 2010 hit \"No Hands\"",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              68
+            ]
+          }
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "High point",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 200,
+          "value": "\"___ we there yet?\"",
+          "clueEnd": 202
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 204,
+          "value": "Spiteful feeling",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 210,
+          "value": "Headquarters",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 215,
+          "value": "Dedicated poem",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 219,
+          "value": "Where to find the starts of 17-, 28-, 45- and 58-Across?",
+          "clueEnd": 224,
+          "related": {
+            "down": [],
+            "across": [
+              58,
+              17,
+              28,
+              45,
+              58
+            ]
+          }
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Parts of some smiles",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "You can open it with a twist",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Peddle",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "\"Haha\"",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Cheer for a matador",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Khmer temple",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Phrase of clarification",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Ideal scenario",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Toadstool topper",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Product of solar steeping",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Nook in a church",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Academic acronym",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "___ d'oeuvres",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 36,
+          "value": "\"The Banana Boat Song\"",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 40,
+          "value": "Last thing to go in a pocket, one hopes",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 63,
+          "value": "Big name in speakers",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 64,
+          "value": "Plastic grass",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 65,
+          "value": "Group whose \"Butter\" video was the fastest to reach 100 million views on YouTube (2021)",
+          "clueEnd": 95
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 69,
+          "value": "Obama health legislation, for short",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 76,
+          "value": "Dead duck",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 77,
+          "value": "Yuzuru ___, first skater to successfully land a quadruple loop in competition",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 82,
+          "value": "Bat an eye, say",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 87,
+          "value": "Certain explosive, informally",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 88,
+          "value": "Assert",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 89,
+          "value": "Otherwise",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 90,
+          "value": "Funky bit of noodling",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 111,
+          "value": "Something agreed upon by consenting sexual partners",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 116,
+          "value": "Greek god of love",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 125,
+          "value": "Word with angry or flash",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 129,
+          "value": "Cartoon frame",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 138,
+          "value": "Alpine climber's tool",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 143,
+          "value": "Bit of hair",
+          "clueEnd": 188
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 165,
+          "value": "Home test kit component",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 166,
+          "value": "County north of San Francisco",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 167,
+          "value": "Just gets (by)",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 172,
+          "value": "Beverage brand whose mascot is a polar bear in a sweater",
+          "clueEnd": 217,
+          "formatted": "Beverage brand whose mascot is a polar bear in a sweater"
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 177,
+          "value": "Mangle, e.g.",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 178,
+          "value": "Community pool org.",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 179,
+          "value": "\"I've ___ thinking \u2026\"",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 185,
+          "value": "Dweller on the Mekong River",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 189,
+          "value": "Bass booster",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 190,
+          "value": "Sky safety org.",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 191,
+          "value": "Inc. cousin",
+          "clueEnd": 221
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "G",
+      "O",
+      "S",
+      "L",
+      "O",
+      "W",
+      null,
+      "A",
+      "B",
+      "C",
+      null,
+      "S",
+      "A",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E",
+      "O",
+      "L",
+      "A",
+      null,
+      "S",
+      "E",
+      "A",
+      null,
+      "U",
+      "P",
+      "T",
+      "O",
+      "P",
+      "E",
+      "L",
+      "L",
+      "E",
+      "T",
+      "D",
+      "I",
+      "S",
+      "P",
+      "E",
+      "N",
+      "S",
+      "E",
+      "R",
+      "S",
+      "O",
+      "L",
+      null,
+      null,
+      null,
+      "A",
+      "N",
+      "T",
+      null,
+      "I",
+      "T",
+      "E",
+      "M",
+      "S",
+      null,
+      null,
+      null,
+      "B",
+      "A",
+      "B",
+      "Y",
+      null,
+      "C",
+      "A",
+      "G",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "G",
+      "H",
+      "O",
+      "S",
+      "T",
+      "O",
+      "F",
+      "A",
+      "C",
+      "H",
+      "A",
+      "N",
+      "C",
+      "E",
+      "R",
+      "O",
+      "A",
+      "S",
+      "T",
+      "S",
+      null,
+      "L",
+      "S",
+      "A",
+      "T",
+      null,
+      "I",
+      "L",
+      "L",
+      "I",
+      "N",
+      "N",
+      "E",
+      "R",
+      null,
+      "S",
+      "I",
+      "E",
+      null,
+      "B",
+      "E",
+      "T",
+      "A",
+      "S",
+      "F",
+      "E",
+      "Y",
+      null,
+      "O",
+      "M",
+      "A",
+      "R",
+      null,
+      "C",
+      "A",
+      "R",
+      "R",
+      "I",
+      "E",
+      "F",
+      "R",
+      "U",
+      "I",
+      "T",
+      "O",
+      "F",
+      "T",
+      "H",
+      "E",
+      "L",
+      "O",
+      "O",
+      "M",
+      null,
+      null,
+      null,
+      null,
+      "C",
+      "U",
+      "B",
+      "E",
+      null,
+      "A",
+      "L",
+      "L",
+      "S",
+      null,
+      null,
+      null,
+      "S",
+      "N",
+      "E",
+      "E",
+      "R",
+      null,
+      "W",
+      "I",
+      "N",
+      null,
+      null,
+      null,
+      "M",
+      "Y",
+      "B",
+      "W",
+      "A",
+      "K",
+      "A",
+      "F",
+      "L",
+      "O",
+      "C",
+      "K",
+      "A",
+      "F",
+      "L",
+      "A",
+      "M",
+      "E",
+      "A",
+      "P",
+      "E",
+      "X",
+      null,
+      "A",
+      "R",
+      "E",
+      null,
+      "M",
+      "A",
+      "L",
+      "I",
+      "C",
+      "E",
+      "B",
+      "A",
+      "S",
+      "E",
+      null,
+      "O",
+      "D",
+      "E",
+      null,
+      "P",
+      "A",
+      "C",
+      "M",
+      "A",
+      "N"
+    ]
+  }
+}

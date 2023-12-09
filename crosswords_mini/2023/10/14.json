@@ -1,0 +1,259 @@
+{
+  "puzzle_id": 21483,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-14",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-14",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Illegally copied and sold, as music",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 7,
+          "value": "Word that Nemo struggles to pronounce in \"Finding Nemo\"",
+          "clueEnd": 13,
+          "formatted": "Word that Nemo struggles to pronounce in &#34;Finding Nemo&#34;"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 14,
+          "value": "Classic cinnamon candy",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 23,
+          "value": "Snake-like fish",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "Los Angeles football team",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 35,
+          "value": "Pet that might have a wheel",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 42,
+          "value": "Slurped seafood delicacy",
+          "clueEnd": 48,
+          "formatted": "Slurped seafood delicacy"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Number on a mini golf scorecard",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Suffix with nectar, for a fruit",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Cashes in",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Liberal arts college whose name anagrams to 11- and 15-Across",
+          "clueEnd": 45,
+          "related": {
+            "down": [],
+            "across": [
+              11,
+              15
+            ]
+          }
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "\"Sorry, you missed your window\"",
+          "clueEnd": 46,
+          "formatted": "&#34;Sorry, you missed your window&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Tree creature in Middle-earth",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "___ Moines, Iowa",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "However, informally",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "Food for a horse",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 33,
+          "value": "French for \"sea\"",
+          "clueEnd": 47,
+          "formatted": "French for &#34;sea&#34;"
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 34,
+          "value": "4th-year students: Abbr.",
+          "clueEnd": 48
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "P",
+      "I",
+      "R",
+      "A",
+      "T",
+      "E",
+      "D",
+      "A",
+      "N",
+      "E",
+      "M",
+      "O",
+      "N",
+      "E",
+      "R",
+      "E",
+      "D",
+      "H",
+      "O",
+      "T",
+      "S",
+      null,
+      null,
+      "E",
+      "E",
+      "L",
+      null,
+      null,
+      "T",
+      "H",
+      "E",
+      "R",
+      "A",
+      "M",
+      "S",
+      "H",
+      "A",
+      "M",
+      "S",
+      "T",
+      "E",
+      "R",
+      "O",
+      "Y",
+      "S",
+      "T",
+      "E",
+      "R",
+      "S"
+    ]
+  }
+}

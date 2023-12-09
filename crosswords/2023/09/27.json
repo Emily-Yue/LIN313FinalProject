@@ -1,0 +1,1028 @@
+{
+  "puzzle_id": 21367,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-09-27",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Scott Koenig",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/09/26/crosswords/daily-puzzle-2023-09-27.html"
+    }
+  },
+  "print_date": "2023-09-27",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Scott Koenig"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Playfully tap on the nose",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Hindu Mr.",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Step after lather",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Throw a ball for a strike, say",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Intl. price-setting group",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "Fake",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Like helium and carbon dioxide",
+          "clueEnd": 38,
+          "related": {
+            "down": [],
+            "across": [
+              37,
+              40,
+              61,
+              43
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 40,
+          "value": "Object of wishful thinking?",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 48,
+          "value": "Sealed with a knot",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 56,
+          "value": "Symbols of Egyptian royalty",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Was known as",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 69,
+          "value": "Instrument that Hermes made from a tortoise shell and reeds, in myth",
+          "clueEnd": 72
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "Sunburn soother",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 80,
+          "value": "\"I haven't the foggiest\"",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 87,
+          "value": "Secrecy-enforcing contract, for short",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 90,
+          "value": "Get into it",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 96,
+          "value": "Indication of correctness in Wordle",
+          "clueEnd": 100,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              61,
+              43,
+              40
+            ]
+          }
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 102,
+          "value": "Let it all out, in a way",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 105,
+          "value": "\"Steamed ___,\" classic \"Simpsons\" sketch",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 110,
+          "value": "You might entertain them",
+          "clueEnd": 114,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              61,
+              43,
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 116,
+          "value": "Eponym of a popular vodka brand",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 120,
+          "value": "\"Cancel\" on a keyboard",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 124,
+          "value": "Recharge, so to speak",
+          "clueEnd": 128,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              61,
+              40,
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 131,
+          "value": "Did in",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 135,
+          "value": "Classic \"Simpsons\" sound",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 139,
+          "value": "Second social media account for posting private jokes and such, informally",
+          "clueEnd": 144,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 146,
+          "value": "Like father, like son",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 152,
+          "value": "Plains people",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 159,
+          "value": "Big batteries",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "A well-known Stone",
+          "clueEnd": 168
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 170,
+          "value": "Golf ball features",
+          "clueEnd": 176
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 180,
+          "value": "Alternating current pioneer",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 186,
+          "value": "Following 17-, 37-, 40- and 43-Across, end of a properly formed yet 11-Down sentence by 25-Down demonstrating the distinction between syntax and semantics",
+          "clueEnd": 194,
+          "related": {
+            "down": [
+              25,
+              11
+            ],
+            "across": [
+              17,
+              43,
+              40,
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 195,
+          "value": "Beseeched",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 201,
+          "value": "One guilty of disorderly conduct?",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 206,
+          "value": "Smoothie seed",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 210,
+          "value": "Parental authority",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 216,
+          "value": "Parents, to kids",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 221,
+          "value": "Edible seaweed",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Airer of many David Attenborough documentaries",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "On vacation, in work calendar shorthand",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Hooter",
+          "clueEnd": 32
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "They're up to no good",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Number two of six for Henry VIII",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Imitated",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Spanish smooch",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Bay Area sch.",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "D&D or WoW, e.g.",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "This is how rumors get started",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Meaningless",
+          "clueEnd": 162,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Quick cut",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "What \":\" might represent in a text",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 34,
+          "value": "Kid",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 54,
+          "value": "Chimney vents",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Past one's prime, with \"up\"",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 61,
+          "value": "Westernmost city in Texas",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 62,
+          "value": "So-named \"father of modern linguistics\"",
+          "clueEnd": 212,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 70,
+          "value": "Ache",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 81,
+          "value": "Nash who called the rhinoceros \"prepoceros\"",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 82,
+          "value": "Plains people",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 83,
+          "value": "Vaulted",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 88,
+          "value": "\"You've got my attention\"",
+          "clueEnd": 163
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 89,
+          "value": "Dwellings",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 110,
+          "value": "\"OK, so that's not exactly true\"",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 116,
+          "value": "Doomscrolling, e.g.",
+          "clueEnd": 221,
+          "formatted": "Doomscrolling, e.g."
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 124,
+          "value": "West Coast hub for United",
+          "clueEnd": 154
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 144,
+          "value": "Unrehearsed lines",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 153,
+          "value": "\"___ From the Crypt,\" HBO horror anthology",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 160,
+          "value": "Big boss, informally",
+          "clueEnd": 190
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "Midflight stats",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 166,
+          "value": "Butte, but bigger",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 171,
+          "value": "On the off chance that happens",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 172,
+          "value": "Chew on",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 173,
+          "value": "Nudge",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 184,
+          "value": "Ruckus",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 192,
+          "value": "\"___ Drives Me Crazy\" (1989 #1 hit)",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 193,
+          "value": "Teeny-weeny",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 194,
+          "value": "Talk, talk, talk",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "B",
+      "O",
+      "O",
+      "P",
+      null,
+      "B",
+      "A",
+      "B",
+      "U",
+      null,
+      "R",
+      "I",
+      "N",
+      "S",
+      "E",
+      "B",
+      "O",
+      "W",
+      "L",
+      null,
+      "O",
+      "P",
+      "E",
+      "C",
+      null,
+      "P",
+      "H",
+      "O",
+      "N",
+      "Y",
+      "C",
+      "O",
+      "L",
+      "O",
+      "R",
+      "L",
+      "E",
+      "S",
+      "S",
+      null,
+      "G",
+      "E",
+      "N",
+      "I",
+      "E",
+      null,
+      null,
+      null,
+      "T",
+      "I",
+      "E",
+      "D",
+      "O",
+      "F",
+      "F",
+      null,
+      "A",
+      "S",
+      "P",
+      "S",
+      "W",
+      "E",
+      "N",
+      "T",
+      "B",
+      "Y",
+      null,
+      null,
+      null,
+      "L",
+      "Y",
+      "R",
+      "E",
+      null,
+      null,
+      "A",
+      "L",
+      "O",
+      "E",
+      null,
+      "N",
+      "O",
+      "C",
+      "L",
+      "U",
+      "E",
+      null,
+      "N",
+      "D",
+      "A",
+      "S",
+      "P",
+      "A",
+      "R",
+      null,
+      null,
+      "G",
+      "R",
+      "E",
+      "E",
+      "N",
+      null,
+      "S",
+      "O",
+      "B",
+      "H",
+      "A",
+      "M",
+      "S",
+      null,
+      "I",
+      "D",
+      "E",
+      "A",
+      "S",
+      null,
+      "T",
+      "I",
+      "T",
+      "O",
+      "E",
+      "S",
+      "C",
+      null,
+      "S",
+      "L",
+      "E",
+      "E",
+      "P",
+      null,
+      null,
+      "I",
+      "C",
+      "E",
+      "D",
+      "D",
+      "O",
+      "H",
+      null,
+      "F",
+      "I",
+      "N",
+      "S",
+      "T",
+      "A",
+      null,
+      "M",
+      "A",
+      "L",
+      "E",
+      null,
+      null,
+      "O",
+      "T",
+      "O",
+      "E",
+      null,
+      null,
+      null,
+      "D",
+      "C",
+      "E",
+      "L",
+      "L",
+      "S",
+      "E",
+      "M",
+      "M",
+      "A",
+      null,
+      "D",
+      "I",
+      "M",
+      "P",
+      "L",
+      "E",
+      "S",
+      null,
+      null,
+      null,
+      "T",
+      "E",
+      "S",
+      "L",
+      "A",
+      null,
+      "F",
+      "U",
+      "R",
+      "I",
+      "O",
+      "U",
+      "S",
+      "L",
+      "Y",
+      "A",
+      "S",
+      "K",
+      "E",
+      "D",
+      null,
+      "S",
+      "L",
+      "O",
+      "B",
+      null,
+      "C",
+      "H",
+      "I",
+      "A",
+      "S",
+      "A",
+      "Y",
+      "S",
+      "O",
+      null,
+      "O",
+      "L",
+      "D",
+      "S",
+      null,
+      "K",
+      "E",
+      "L",
+      "P"
+    ]
+  }
+}

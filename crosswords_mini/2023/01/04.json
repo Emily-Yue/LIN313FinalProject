@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 20527,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-04",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2022, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-04",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Suitcase or duffel",
+          "clueEnd": 2
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "America's second president",
+          "clueEnd": 9,
+          "formatted": "America&#39;s second president"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Animal celebrating Hump Day in a classic Geico commercial",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "\"Laughing\" animal",
+          "clueEnd": 19,
+          "formatted": "&#34;Laughing&#34; animal"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 22,
+          "value": "Mojito liquor",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"The Well-Tempered Clavier\" composer",
+          "clueEnd": 15,
+          "formatted": "&#34;The Well-Tempered Clavier&#34; composer"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Every 24 hours",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Xbox user",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Restaurant handout",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "Sound of a door closing loudly",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "B",
+      "A",
+      "G",
+      null,
+      null,
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "C",
+      "A",
+      "M",
+      "E",
+      "L",
+      "H",
+      "Y",
+      "E",
+      "N",
+      "A",
+      null,
+      null,
+      "R",
+      "U",
+      "M"
+    ]
+  }
+}

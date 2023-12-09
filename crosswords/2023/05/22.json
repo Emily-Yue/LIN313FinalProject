@@ -1,0 +1,982 @@
+{
+  "puzzle_id": 21055,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-05-22",
+    "printDotw": 1,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Dang Quang Thang",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/05/21/crosswords/daily-puzzle-2023-05-22.html"
+    }
+  },
+  "print_date": "2023-05-22",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Dang Quang Thang"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Cancel, as a mission",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Noted feature of Saturn",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Unclothed",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Wealthy mogul ",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "List-ending abbr.",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Lots and lots",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Educator who co-hosted \"MythBusters\"",
+          "clueEnd": 39,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "Robin's home",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "___ Sutra",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 50,
+          "value": "\"Iron Man\" Ripken of baseball",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "Property in a will",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 60,
+          "value": "Country north of the Persian Gulf",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 65,
+          "value": "Stand-up comedian with a self-titled sketch show",
+          "clueEnd": 74,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 75,
+          "value": "Originally known as",
+          "clueEnd": 77
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 79,
+          "value": "Dot on a domino",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 83,
+          "value": "Paper towel layer",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 87,
+          "value": "This year's grads-to-be: Abbr.",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 91,
+          "value": "Opera house solo",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 97,
+          "value": "Place for sweaters, but not shirts?",
+          "clueEnd": 101
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 107,
+          "value": "Actor who starred as Jake Peralta on \"Brooklyn Nine-Nine\"",
+          "clueEnd": 117,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 123,
+          "value": "Showing little emotion",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 130,
+          "value": "Cause of low visibility in some cities",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 135,
+          "value": "C.E.O.'s deg.",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 139,
+          "value": "Run smoothly, as an engine",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 143,
+          "value": "Music's Lil ___ X",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 147,
+          "value": "Hairstyles, for short",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 150,
+          "value": "Civil rights activist hosting MSNBC's \"PoliticsNation\"",
+          "clueEnd": 159,
+          "related": {
+            "down": [],
+            "across": [
+              58
+            ]
+          }
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 161,
+          "value": "Sunrise direction, in Spanish",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 165,
+          "value": "Like a rural setting",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 172,
+          "value": "Crumb-carrying insect",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 176,
+          "value": "Papa, Mama or Baby, in a classic fairy tale",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 180,
+          "value": "Very dry, as Champagne",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 185,
+          "value": "Print ad phrase for infomercial products \u2026 or, parsed differently, a description of 17-, 25-, 35- or 50-Across",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              50,
+              17,
+              25,
+              35,
+              50
+            ]
+          }
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 195,
+          "value": "Bedside light",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 200,
+          "value": "Stringed instrument with a pear-shaped body",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 205,
+          "value": "Nostalgia-evoking tune",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 210,
+          "value": "Centers of hurricanes",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 215,
+          "value": "Wasn't truthful",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 220,
+          "value": "Stinging insects",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Darth Vader's childhood name",
+          "clueEnd": 75
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Dangerous neighborhood",
+          "clueEnd": 91
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Political period of Biden's vice presidency",
+          "clueEnd": 107,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Like the numerals I, V, X, L, etc.",
+          "clueEnd": 63,
+          "formatted": "Like the numerals I, V, X, L, etc."
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Atlanta-based cable network",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Make over",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Country surrounding Vatican City",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Continuously bother",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Campus singing group",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Language family that includes Zulu",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "First-string squads",
+          "clueEnd": 87
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Membership roll",
+          "clueEnd": 88
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Joins, as a contest",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Berry promoted as a superfood",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 55,
+          "value": "Timidity",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 68,
+          "value": "Kind of folder to check for a missing email",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 79,
+          "value": "Popular noodle dish in Bangkok",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 93,
+          "value": "___ and outs",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 97,
+          "value": "Squid's ink holder",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 101,
+          "value": "Upraised part of Lady Liberty",
+          "clueEnd": 131
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 110,
+          "value": "\"It's not for me to decide\"",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 111,
+          "value": "Foolish sort",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 117,
+          "value": "Unexpected blessings",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 133,
+          "value": "Heard something via the police hotline, say",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 135,
+          "value": "Medium of Michelangelo's David",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 136,
+          "value": "High-definition disc format ",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 137,
+          "value": "Take for granted",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 143,
+          "value": "\"I'm set, but thanks anyway\"",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 144,
+          "value": "Opening stake",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 149,
+          "value": "Starts a rally, in tennis",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 153,
+          "value": "Start of an encrypted URL address",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 157,
+          "value": "Personal liking",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 161,
+          "value": "Virus named for a river in Africa",
+          "clueEnd": 221,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 186,
+          "value": "Fashion designer Anna",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 190,
+          "value": "This very second",
+          "clueEnd": 220
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "B",
+      "O",
+      "R",
+      "T",
+      null,
+      "R",
+      "I",
+      "N",
+      "G",
+      null,
+      "B",
+      "A",
+      "R",
+      "E",
+      "N",
+      "A",
+      "B",
+      "O",
+      "B",
+      null,
+      "E",
+      "T",
+      "A",
+      "L",
+      null,
+      "A",
+      "T",
+      "O",
+      "N",
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "A",
+      "V",
+      "A",
+      "G",
+      "E",
+      null,
+      "N",
+      "E",
+      "S",
+      "T",
+      "K",
+      "A",
+      "M",
+      "A",
+      null,
+      "C",
+      "A",
+      "L",
+      null,
+      "E",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "I",
+      "R",
+      "A",
+      "N",
+      null,
+      "A",
+      "M",
+      "Y",
+      "S",
+      "C",
+      "H",
+      "U",
+      "M",
+      "E",
+      "R",
+      "N",
+      "E",
+      "E",
+      null,
+      "P",
+      "I",
+      "P",
+      null,
+      "P",
+      "L",
+      "Y",
+      null,
+      "S",
+      "R",
+      "S",
+      null,
+      "A",
+      "R",
+      "I",
+      "A",
+      null,
+      null,
+      "S",
+      "A",
+      "U",
+      "N",
+      "A",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "N",
+      "D",
+      "Y",
+      "S",
+      "A",
+      "M",
+      "B",
+      "E",
+      "R",
+      "G",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "S",
+      "T",
+      "O",
+      "I",
+      "C",
+      null,
+      null,
+      "S",
+      "M",
+      "O",
+      "G",
+      null,
+      "M",
+      "B",
+      "A",
+      null,
+      "H",
+      "U",
+      "M",
+      null,
+      "N",
+      "A",
+      "S",
+      null,
+      "D",
+      "O",
+      "S",
+      "A",
+      "L",
+      "S",
+      "H",
+      "A",
+      "R",
+      "P",
+      "T",
+      "O",
+      "N",
+      null,
+      "E",
+      "S",
+      "T",
+      "E",
+      "R",
+      "U",
+      "S",
+      "T",
+      "I",
+      "C",
+      null,
+      "A",
+      "N",
+      "T",
+      null,
+      "B",
+      "E",
+      "A",
+      "R",
+      "B",
+      "R",
+      "U",
+      "T",
+      null,
+      "A",
+      "S",
+      "S",
+      "E",
+      "E",
+      "N",
+      "O",
+      "N",
+      "T",
+      "V",
+      "L",
+      "A",
+      "M",
+      "P",
+      null,
+      "L",
+      "U",
+      "T",
+      "E",
+      null,
+      "O",
+      "L",
+      "D",
+      "I",
+      "E",
+      "E",
+      "Y",
+      "E",
+      "S",
+      null,
+      "L",
+      "I",
+      "E",
+      "D",
+      null,
+      "W",
+      "A",
+      "S",
+      "P",
+      "S"
+    ]
+  }
+}

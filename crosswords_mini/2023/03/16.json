@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21015,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-16",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-16",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Stuck-up person",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "\"___ to Please\" (slogan on some New Jersey license plates)",
+          "clueEnd": 9,
+          "formatted": "&#34;___ to Please&#34; (slogan on some New Jersey license plates)"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Pasta, bread, etc.",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Fess up",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Mark indicating silence, on a music staff",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "What a beach umbrella provides",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Standard behaviors",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Planet's path",
+          "clueEnd": 23,
+          "formatted": "Planet&#39;s path"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "First word of Oscar award categories",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Mark from an injury",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "N",
+      "O",
+      "B",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "C",
+      "A",
+      "R",
+      "B",
+      "S",
+      "A",
+      "D",
+      "M",
+      "I",
+      "T",
+      "R",
+      "E",
+      "S",
+      "T",
+      null
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "puzzle_id": 21124,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-08",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-08",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Alternatives to showers",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Major media mogul from Mississippi",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Part of a razor",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Fancy place to catch a baseball game",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Pig food",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Floats up and down",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Great grade",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Be behind",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Was given no choice",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Things to count in bed",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "B",
+      "A",
+      "T",
+      "H",
+      "S",
+      "O",
+      "P",
+      "R",
+      "A",
+      "H",
+      "B",
+      "L",
+      "A",
+      "D",
+      "E",
+      "S",
+      "U",
+      "I",
+      "T",
+      "E",
+      null,
+      "S",
+      "L",
+      "O",
+      "P"
+    ]
+  }
+}

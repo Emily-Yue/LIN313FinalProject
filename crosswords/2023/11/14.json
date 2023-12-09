@@ -1,0 +1,1000 @@
+{
+  "puzzle_id": 21477,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-11-14",
+    "printDotw": 2,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Matthew Linzer",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/11/13/crosswords/daily-puzzle-2023-11-14.html"
+    }
+  },
+  "print_date": "2023-11-14",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Matthew Linzer"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Word after head or heart",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Web designer's code",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "George or Marty of \"Back to the Future\"",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Cereal \"for kids\" with a \"silly rabbit\"",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Diva's solo",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "Winning",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "What to do when you see \u2026 [see 23-, 37-, 39-, 48- and 60-Across]",
+          "clueEnd": 38,
+          "related": {
+            "down": [],
+            "across": [
+              60,
+              23,
+              37,
+              39,
+              48,
+              60
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 40,
+          "value": "Frolics",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Blueprint info",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 52,
+          "value": "Remove, as paint from wood",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 63,
+          "value": "... this streaker in the night",
+          "clueEnd": 74,
+          "related": {
+            "down": [],
+            "across": [
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 75,
+          "value": "Ne'ertheless",
+          "clueEnd": 77
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 80,
+          "value": "Deep grief",
+          "clueEnd": 82
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 84,
+          "value": "Long-running hip-hop magazine, with \"The\"",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 90,
+          "value": "German \"a\"",
+          "clueEnd": 92
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 94,
+          "value": "Rows #13-#16 in a theater",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 100,
+          "value": "German camera brand",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "... this stray bit on your face",
+          "clueEnd": 111,
+          "related": {
+            "down": [],
+            "across": [
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "... this insect crawling by",
+          "clueEnd": 119,
+          "related": {
+            "down": [],
+            "across": [
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Dives into",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 127,
+          "value": "Dallas five, to fans",
+          "clueEnd": 130
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 132,
+          "value": "Mad ___ hatter",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Actress Cuthbert of TV's \"24\"",
+          "clueEnd": 140
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 142,
+          "value": "Here, in Le Havre",
+          "clueEnd": 144
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 147,
+          "value": "Man's name hidden in \"bottleneck\"",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 150,
+          "value": "... this on a clock",
+          "clueEnd": 161,
+          "related": {
+            "down": [],
+            "across": [
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 168,
+          "value": "Vietnam's Nguyen Van Thieu, after 1975",
+          "clueEnd": 172
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 175,
+          "value": "River through three of the 10 largest cities of Russia",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 180,
+          "value": "Block-stacking game",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 186,
+          "value": "... this just before you blow on the seeds",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              17
+            ]
+          }
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "Starting lineup",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 201,
+          "value": "Rare achievement in entertainment",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 206,
+          "value": "\"That ___ funny\"",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 210,
+          "value": "Signs of exhaustion",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 216,
+          "value": "Garnet and ruby",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 221,
+          "value": "Fencing weapon",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "24-hr. banking conveniences",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Fail, with out",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "QB's call",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "C-suite roles",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Hem's counterpart",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Prefix with -dent",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Blunder",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Christine of \"Chicago Hope\"",
+          "clueEnd": 68
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Flowers prominently used in Indian weddings",
+          "clueEnd": 130
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Chinese-American dish",
+          "clueEnd": 116
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Counterpart of masc.",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Kid's seat on Santa",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Football units: Abbr.",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 34,
+          "value": "___ Wednesday",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "I.C.U. staffers",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 65,
+          "value": "Has title to",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 66,
+          "value": "\"I like that a LOT!\"",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 72,
+          "value": "Like Indigenous affairs",
+          "clueEnd": 147,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 73,
+          "value": "Blame",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 74,
+          "value": "___ National, airport serving D.C.",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 75,
+          "value": "Little laugh",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 76,
+          "value": "\"Howdy, folks!\"",
+          "clueEnd": 151
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 77,
+          "value": "Garment for a tiny tot",
+          "clueEnd": 152
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 94,
+          "value": "Things that might have kids going off on a tangent?",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 108,
+          "value": "Native of Nevada's largest city",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "Lingerie material",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 114,
+          "value": "Tel ___",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 127,
+          "value": "Car expense that's often reimbursable",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 140,
+          "value": "Singer/songwriter DiFranco",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 156,
+          "value": "Respected sort",
+          "clueEnd": 216,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 160,
+          "value": "Christmas ___",
+          "clueEnd": 190
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 161,
+          "value": "\"It's the truth!\"",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 177,
+          "value": "Challenge for a speech coach",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 178,
+          "value": "Missing",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 179,
+          "value": "Poker buy-in",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 180,
+          "value": "Blue bird",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 181,
+          "value": "GPS prediction",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 182,
+          "value": "Hot off the press",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 188,
+          "value": "Silent greeting",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 189,
+          "value": "Alcohol withdrawal symptoms, in brief",
+          "clueEnd": 219
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "C",
+      "H",
+      "E",
+      null,
+      "H",
+      "T",
+      "M",
+      "L",
+      null,
+      "M",
+      "C",
+      "F",
+      "L",
+      "Y",
+      "T",
+      "R",
+      "I",
+      "X",
+      null,
+      "A",
+      "R",
+      "I",
+      "A",
+      null,
+      "A",
+      "H",
+      "E",
+      "A",
+      "D",
+      "M",
+      "A",
+      "K",
+      "E",
+      "A",
+      "W",
+      "I",
+      "S",
+      "H",
+      null,
+      "R",
+      "O",
+      "M",
+      "P",
+      "S",
+      "S",
+      "P",
+      "E",
+      "C",
+      "S",
+      null,
+      null,
+      "S",
+      "T",
+      "R",
+      "I",
+      "P",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "S",
+      "H",
+      "O",
+      "O",
+      "T",
+      "I",
+      "N",
+      "G",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "H",
+      "O",
+      null,
+      null,
+      "W",
+      "O",
+      "E",
+      null,
+      "S",
+      "O",
+      "U",
+      "R",
+      "C",
+      "E",
+      "E",
+      "I",
+      "N",
+      null,
+      "M",
+      "N",
+      "O",
+      "P",
+      null,
+      null,
+      "L",
+      "E",
+      "I",
+      "C",
+      "A",
+      "E",
+      "Y",
+      "E",
+      "L",
+      "A",
+      "S",
+      "H",
+      null,
+      "L",
+      "A",
+      "D",
+      "Y",
+      "B",
+      "U",
+      "G",
+      "H",
+      "A",
+      "S",
+      "A",
+      "T",
+      null,
+      null,
+      "M",
+      "A",
+      "V",
+      "S",
+      null,
+      "A",
+      "S",
+      "A",
+      "E",
+      "L",
+      "I",
+      "S",
+      "H",
+      "A",
+      null,
+      "I",
+      "C",
+      "I",
+      null,
+      null,
+      "L",
+      "E",
+      "N",
+      "E",
+      "L",
+      "E",
+      "V",
+      "E",
+      "N",
+      "E",
+      "L",
+      "E",
+      "V",
+      "E",
+      "N",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "E",
+      "X",
+      "I",
+      "L",
+      "E",
+      null,
+      null,
+      "V",
+      "O",
+      "L",
+      "G",
+      "A",
+      "J",
+      "E",
+      "N",
+      "G",
+      "A",
+      null,
+      "D",
+      "A",
+      "N",
+      "D",
+      "E",
+      "L",
+      "I",
+      "O",
+      "N",
+      "A",
+      "T",
+      "E",
+      "A",
+      "M",
+      null,
+      "E",
+      "G",
+      "O",
+      "T",
+      null,
+      "I",
+      "S",
+      "N",
+      "T",
+      "Y",
+      "A",
+      "W",
+      "N",
+      "S",
+      null,
+      "R",
+      "E",
+      "D",
+      "S",
+      null,
+      "E",
+      "P",
+      "E",
+      "E"
+    ]
+  }
+}

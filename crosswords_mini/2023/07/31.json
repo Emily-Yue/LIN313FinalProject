@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21322,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-31",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-31",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Lemon juice or wine, chemically",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Baking soda or bleach, chemically",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Like lizard skin",
+          "clueEnd": 14,
+          "formatted": "Like lizard skin"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 16,
+          "value": "___ Modern (London art museum)",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 21,
+          "value": "Volunteer's offer",
+          "clueEnd": 24,
+          "formatted": "Volunteer&#39;s offer"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Sit-up muscles",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Spiny desert plants",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "___ Herzog, Israeli president who addressed Congress in July",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Airline with a triangle logo",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Japanese currency",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "C",
+      "I",
+      "D",
+      null,
+      "B",
+      "A",
+      "S",
+      "E",
+      null,
+      "S",
+      "C",
+      "A",
+      "L",
+      "Y",
+      null,
+      "T",
+      "A",
+      "T",
+      "E",
+      null,
+      "I",
+      "C",
+      "A",
+      "N"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "puzzle_id": 21537,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-18",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-18",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Public transit option",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Pepe ___, cartoon skunk",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Hot dog condiment",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Fall month",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 28,
+          "value": "Card that grants access to the slopes",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 36,
+          "value": "Breadmaking ingredient",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 44,
+          "value": "12th graders: Abbr.",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Closest pals",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Suitably capable",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Marine fish that can reach sizes of 8+ feet and 800+ pounds",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Like getting the Wordle on your first guess",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "Wrench away",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Rapper ___ Def",
+          "clueEnd": 28
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Medical practitioners: Abbr.",
+          "clueEnd": 34
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "B",
+      "U",
+      "S",
+      null,
+      null,
+      null,
+      "L",
+      "E",
+      "P",
+      "E",
+      "W",
+      null,
+      "M",
+      "U",
+      "S",
+      "T",
+      "A",
+      "R",
+      "D",
+      "O",
+      "C",
+      "T",
+      "O",
+      "B",
+      "E",
+      "R",
+      "S",
+      "K",
+      "I",
+      "P",
+      "A",
+      "S",
+      "S",
+      null,
+      "Y",
+      "E",
+      "A",
+      "S",
+      "T",
+      null,
+      null,
+      null,
+      "S",
+      "R",
+      "S",
+      null,
+      null
+    ]
+  }
+}

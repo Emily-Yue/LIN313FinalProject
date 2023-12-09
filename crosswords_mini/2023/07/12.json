@@ -1,0 +1,159 @@
+{
+  "puzzle_id": 21280,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-12",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-12",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "___-free (water bottle label)",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Top section",
+          "clueEnd": 9,
+          "formatted": "<i>Top section</i>"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Middle section",
+          "clueEnd": 14,
+          "formatted": "<i>Middle section</i>"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Bottom section",
+          "clueEnd": 18,
+          "formatted": "<i>Bottom section</i>"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Music purchases before the streaming era",
+          "clueEnd": 22,
+          "formatted": "Music purchases before the streaming era"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Large chunks of floating ice",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Fail's counterpart",
+          "clueEnd": 18,
+          "formatted": "Fail&#39;s counterpart"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "\"Much ___ About Nothing\"",
+          "clueEnd": 14,
+          "formatted": "&#34;Much ___ About Nothing&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Broke ground in a garden",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "1990s girl group with the hit \"No Scrubs\"",
+          "clueEnd": 20,
+          "formatted": "1990s girl group with the hit &#34;No Scrubs&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "B",
+      "P",
+      "A",
+      null,
+      "H",
+      "E",
+      "A",
+      "D",
+      "T",
+      "O",
+      "R",
+      "S",
+      "O",
+      "L",
+      "E",
+      "G",
+      "S",
+      null,
+      "C",
+      "D",
+      "S",
+      null,
+      null
+    ]
+  }
+}

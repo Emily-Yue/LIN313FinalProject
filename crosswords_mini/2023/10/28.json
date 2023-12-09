@@ -1,0 +1,227 @@
+{
+  "puzzle_id": 21501,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-28",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-28",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Something to check at the airport",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "___ grigio (wine)",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Big disappointment",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "The building in Hulu's \"Only Murders in the Building\" ",
+          "clueEnd": 27,
+          "formatted": "The building in Hulu&#39;s &#34;Only Murders in the Building&#34; "
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 28,
+          "value": "What film composers and soccer strikers have in common",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 36,
+          "value": "Adds to a company",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 44,
+          "value": "Rap's Lil ___ X",
+          "clueEnd": 46,
+          "formatted": "Rap&#39;s Lil ___ X"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Digital currency with this symbol: \u20bf",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Tiny European country between France and Spain",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "1985 adventure film starring a young Sean Astin and Josh Brolin, with \"The\"",
+          "clueEnd": 46,
+          "formatted": "1985 adventure film starring a young Sean Astin and Josh Brolin, with \"The\""
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Sit high above",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "Minnesota baseball team",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "___ Vegas",
+          "clueEnd": 28
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Constantly remind in an annoying way",
+          "clueEnd": 34
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "B",
+      "A",
+      "G",
+      null,
+      null,
+      null,
+      "P",
+      "I",
+      "N",
+      "O",
+      "T",
+      null,
+      "L",
+      "E",
+      "T",
+      "D",
+      "O",
+      "W",
+      "N",
+      "A",
+      "R",
+      "C",
+      "O",
+      "N",
+      "I",
+      "A",
+      "S",
+      "C",
+      "O",
+      "R",
+      "I",
+      "N",
+      "G",
+      null,
+      "H",
+      "I",
+      "R",
+      "E",
+      "S",
+      null,
+      null,
+      null,
+      "N",
+      "A",
+      "S",
+      null,
+      null
+    ]
+  }
+}

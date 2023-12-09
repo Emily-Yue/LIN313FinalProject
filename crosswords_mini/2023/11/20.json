@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 21580,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-20",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-20",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "What your brain might feel like after a long day",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Fervent enthusiasm",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Arctic or Atlantic",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "\"Who woulda ___ it?\"",
+          "clueEnd": 19,
+          "formatted": "&#34;Who woulda ___ it?&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Bunny's movements",
+          "clueEnd": 23,
+          "formatted": "Bunny&#39;s movements"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "\"Te quiero ___\" (\"I love you very much\")",
+          "clueEnd": 21,
+          "formatted": "&#34;Te quiero ___&#34; (&#34;I love you very much&#34;)"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Completely deplete ",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Superfans, in social media lingo",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Traffic jam sound",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Subculture with dyed black hair",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "M",
+      "U",
+      "S",
+      "H",
+      "G",
+      "U",
+      "S",
+      "T",
+      "O",
+      "O",
+      "C",
+      "E",
+      "A",
+      "N",
+      "T",
+      "H",
+      "U",
+      "N",
+      "K",
+      "H",
+      "O",
+      "P",
+      "S",
+      null
+    ]
+  }
+}

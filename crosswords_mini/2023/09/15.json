@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21419,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-15",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"I'm thinking, I'm thinking ...\"",
+          "clueEnd": 2,
+          "formatted": "\"I'm thinking, I'm thinking ...\""
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "They often find their parents uncool",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Chambers of the heart",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Like bad derivative comedy",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 22,
+          "value": "\"For ___ a jolly good fellow ...\"",
+          "clueEnd": 24,
+          "formatted": "&#34;For ___ a jolly good fellow ...&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Where Mitt Romney is senator",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Prefix with physics",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Concert swag",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Company with a swoosh logo",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "Speaks aloud",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "U",
+      "M",
+      "M",
+      null,
+      null,
+      "T",
+      "E",
+      "E",
+      "N",
+      "S",
+      "A",
+      "T",
+      "R",
+      "I",
+      "A",
+      "H",
+      "A",
+      "C",
+      "K",
+      "Y",
+      null,
+      null,
+      "H",
+      "E",
+      "S"
+    ]
+  }
+}

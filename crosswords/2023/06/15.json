@@ -1,0 +1,1065 @@
+{
+  "puzzle_id": 21108,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-06-15",
+    "printDotw": 4,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "David Harris",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/06/14/crosswords/daily-puzzle-2023-06-15.html"
+    }
+  },
+  "print_date": "2023-06-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "David Harris"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Markers, of a sort",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Ones touched to be of service?",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Babe in the pasture ",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Years ago",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "*Inappropriately jocular",
+          "clueEnd": 24,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "Others, in Latin",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "River whose celestial mirror is the Milky Way, in ancient myths",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Fragrant compound",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "*Misleadingly plausible",
+          "clueEnd": 44,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "Pieces of poetry",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 53,
+          "value": "Forcibly remove",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 63,
+          "value": "Besmirch",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 67,
+          "value": "\"They should just go ahead and do that\"",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 75,
+          "value": "Campaign to influence emotions and morale, informally",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 81,
+          "value": "Multiple-episode pilot? ",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 85,
+          "value": "Mary-Louise Parker show about a suburban mom dealing pot",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 90,
+          "value": "It helps you find your balance",
+          "clueEnd": 92
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 95,
+          "value": "[As written]",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 99,
+          "value": "Skinny?",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Where you may go after reaching an impasse \u2026 or a hint for solving this puzzle's 12 starred clues",
+          "clueEnd": 119,
+          "related": {
+            "down": [
+              6,
+              13,
+              27,
+              51,
+              54,
+              57
+            ],
+            "across": [
+              15,
+              19,
+              43,
+              54,
+              59,
+              62
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Grasslands of South America",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 127,
+          "value": "Port type ",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 132,
+          "value": "*Dullsville",
+          "clueEnd": 134,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Co-worker of Kent and Lane",
+          "clueEnd": 139
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 141,
+          "value": "Actress Ruby who emceed 1963's March on Washington",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 145,
+          "value": "\"A foolish expedient for making idle people believe they are doing something very clever, when they are only wasting their time,\" per Shaw",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 153,
+          "value": "Wriggler wrangler",
+          "clueEnd": 157
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 159,
+          "value": "\"___ Te Ching\"",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 165,
+          "value": "Apple varieties",
+          "clueEnd": 171
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 173,
+          "value": "*Likely to cause an argument",
+          "clueEnd": 179,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 180,
+          "value": "\"La ___,\" informal title for the Mexican version of \"Survivor\"",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 185,
+          "value": "*Experienced through another",
+          "clueEnd": 189,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 191,
+          "value": "Soothing succulent",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 195,
+          "value": "*Earnestly hitting the books",
+          "clueEnd": 198,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 200,
+          "value": "Blow",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 206,
+          "value": "\"That's my cue!\"",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 210,
+          "value": "Breaks down",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 215,
+          "value": "Figures on a balance sheet",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 221,
+          "value": "Holds up",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Particles proposed by Michael Faraday in the 1830s",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"I'll handle that!\"",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Sch. whose colors are blue and gold",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Taken care of",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "\"What's worrying is \u2026\"",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "*Fiery feelings",
+          "clueEnd": 51,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Exam that many take in H.S.",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Get more complex, as a mystery",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Take a stride with pride",
+          "clueEnd": 69
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Pashmina fabric",
+          "clueEnd": 116
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "T-Bonz brand",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Stead",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "*Political groups",
+          "clueEnd": 59,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 49,
+          "value": "Comic book sound effect",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 55,
+          "value": "Frequent setting for the Ninja Turtles",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 67,
+          "value": "Shiny coat",
+          "clueEnd": 157
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 75,
+          "value": "Picasso, for one",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 76,
+          "value": "*Male zebras",
+          "clueEnd": 136,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 77,
+          "value": "Gym-and-swim facilities",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 81,
+          "value": "Part of H.R.H.",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 87,
+          "value": "OverDO it as an ACtor",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 88,
+          "value": "Rosencrantz and Guildenstern, for two",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 89,
+          "value": "Save them for a snowy day",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 95,
+          "value": "Palindromic plea",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 99,
+          "value": "Skosh",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 108,
+          "value": "Roller derby protection",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 109,
+          "value": "Cartridge filler",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 113,
+          "value": "\"What's the ___?\"",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 141,
+          "value": "Yearning",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 145,
+          "value": "Has the wherewithal",
+          "clueEnd": 175
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 146,
+          "value": "Blowhard's exhalation",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 155,
+          "value": "Held dear",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 159,
+          "value": "First-year law course",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 165,
+          "value": "*Video game quests",
+          "clueEnd": 210,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 166,
+          "value": "Concerning",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 167,
+          "value": "Disco or cabaret",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 173,
+          "value": "*Descriptive lines under photos",
+          "clueEnd": 218,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 177,
+          "value": "Muppet host of \"The Not-Too-Late Show\"",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 178,
+          "value": "T0tal r00kie",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 179,
+          "value": "*Causes of stress",
+          "clueEnd": 224,
+          "related": {
+            "down": [],
+            "across": [
+              37
+            ]
+          }
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 187,
+          "value": "Babe in the woods",
+          "clueEnd": 217
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "I",
+      "O",
+      "U",
+      "S",
+      null,
+      "I",
+      "P",
+      "A",
+      "D",
+      "S",
+      null,
+      "C",
+      "A",
+      "L",
+      "F",
+      "O",
+      "N",
+      "C",
+      "E",
+      null,
+      "F",
+      "A",
+      "C",
+      "E",
+      "T",
+      null,
+      "A",
+      "L",
+      "I",
+      "A",
+      "N",
+      "I",
+      "L",
+      "E",
+      null,
+      "E",
+      "S",
+      "T",
+      "E",
+      "R",
+      null,
+      "S",
+      "P",
+      "E",
+      "C",
+      "S",
+      "T",
+      "A",
+      "N",
+      "Z",
+      "A",
+      "S",
+      null,
+      "P",
+      "U",
+      "S",
+      "H",
+      "O",
+      "U",
+      "T",
+      null,
+      null,
+      null,
+      "T",
+      "A",
+      "R",
+      null,
+      "L",
+      "E",
+      "T",
+      "E",
+      "M",
+      null,
+      null,
+      null,
+      "P",
+      "S",
+      "Y",
+      "O",
+      "P",
+      null,
+      "H",
+      "A",
+      "N",
+      null,
+      "W",
+      "E",
+      "E",
+      "D",
+      "S",
+      "A",
+      "T",
+      "M",
+      null,
+      null,
+      "S",
+      "I",
+      "C",
+      null,
+      "D",
+      "E",
+      "R",
+      "M",
+      "A",
+      "L",
+      "B",
+      "A",
+      "C",
+      "K",
+      "T",
+      "O",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "O",
+      "N",
+      "E",
+      "L",
+      "L",
+      "A",
+      "N",
+      "O",
+      "S",
+      null,
+      "U",
+      "S",
+      "B",
+      null,
+      null,
+      "T",
+      "E",
+      "D",
+      "O",
+      "L",
+      "S",
+      "E",
+      "N",
+      null,
+      "D",
+      "E",
+      "E",
+      null,
+      "C",
+      "H",
+      "E",
+      "S",
+      "S",
+      null,
+      null,
+      null,
+      "E",
+      "E",
+      "L",
+      "E",
+      "R",
+      null,
+      "T",
+      "A",
+      "O",
+      null,
+      null,
+      null,
+      "M",
+      "A",
+      "C",
+      "P",
+      "R",
+      "O",
+      "S",
+      null,
+      "C",
+      "O",
+      "N",
+      "T",
+      "E",
+      "N",
+      "T",
+      "I",
+      "S",
+      "L",
+      "A",
+      null,
+      "V",
+      "I",
+      "C",
+      "A",
+      "R",
+      null,
+      "A",
+      "L",
+      "O",
+      "E",
+      "S",
+      "T",
+      "U",
+      "D",
+      null,
+      "E",
+      "R",
+      "U",
+      "P",
+      "T",
+      null,
+      "I",
+      "M",
+      "O",
+      "N",
+      "S",
+      "O",
+      "B",
+      "S",
+      null,
+      "D",
+      "E",
+      "B",
+      "T",
+      "S",
+      null,
+      "R",
+      "O",
+      "B",
+      "S"
+    ]
+  }
+}

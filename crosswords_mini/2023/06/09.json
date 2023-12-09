@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 21199,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-06-09",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-06-09",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "McConaughey's \"Alright, alright, alright\" line was one",
+          "clueEnd": 4,
+          "formatted": "McConaughey&#39;s &#34;Alright, alright, alright&#34; line was one"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "First state to use ranked-choice voting in a presidential election",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Leg/foot connector",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "___ shooting (sport with clay targets)",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "Airplane choices",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Stockpile",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "German \"thanks\"",
+          "clueEnd": 21,
+          "formatted": "German &#34;thanks&#34;"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Words before \"Virgin\" and \"Rolling Stone,\" in song titles",
+          "clueEnd": 22,
+          "formatted": "Words before &#34;Virgin&#34; and &#34;Rolling Stone,&#34; in song titles"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Coastline opening",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Reddish-purple vegetables",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "D",
+      "L",
+      "I",
+      "B",
+      "M",
+      "A",
+      "I",
+      "N",
+      "E",
+      "A",
+      "N",
+      "K",
+      "L",
+      "E",
+      "S",
+      "K",
+      "E",
+      "E",
+      "T",
+      "S",
+      "E",
+      "A",
+      "T",
+      "S"
+    ]
+  }
+}

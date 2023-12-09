@@ -1,0 +1,157 @@
+{
+  "puzzle_id": 21256,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-06-30",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-06-30",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"Say what?\"",
+          "clueEnd": 2,
+          "formatted": "&#34;Say what?&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "The \"U\" of E.U.",
+          "clueEnd": 9,
+          "formatted": "The &#34;U&#34; of E.U."
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Presidential candidate Haley",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Entree with its own particular knife",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 22,
+          "value": "What makes wasabi green at most sushi restaurants",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"Mulan\" foes",
+          "clueEnd": 15,
+          "formatted": "&#34;Mulan&#34; foes"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "The \"U\" of I.C.U.",
+          "clueEnd": 16,
+          "formatted": "The &#34;U&#34; of I.C.U."
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Took a walk on the wild side?",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "\"If you say so ...\"",
+          "clueEnd": 23,
+          "formatted": "&#34;If you say so ...&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "Adidas rival",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "H",
+      "U",
+      "H",
+      null,
+      null,
+      "U",
+      "N",
+      "I",
+      "O",
+      "N",
+      "N",
+      "I",
+      "K",
+      "K",
+      "I",
+      "S",
+      "T",
+      "E",
+      "A",
+      "K",
+      null,
+      null,
+      "D",
+      "Y",
+      "E"
+    ]
+  }
+}

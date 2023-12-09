@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 20887,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-25",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2022, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-25",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Inept principal on \"Abbott Elementary\"",
+          "clueEnd": 3,
+          "formatted": "Inept principal on \"Abbott Elementary\""
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Part of FYI or FWIW",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Fuzzy fruits",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Alphabet that gave us the word \"alphabet\"",
+          "clueEnd": 19,
+          "formatted": "Alphabet that gave us the word &#34;alphabet&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Where many dogs like to be rubbed",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "In flames, poetically",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "I, for one",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Disney princess with red hair",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Soviet spy agcy.",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "It's way over your head",
+          "clueEnd": 24,
+          "formatted": "It&#39;s way over your head"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      "A",
+      "V",
+      "A",
+      null,
+      null,
+      "F",
+      "O",
+      "R",
+      null,
+      "K",
+      "I",
+      "W",
+      "I",
+      "S",
+      "G",
+      "R",
+      "E",
+      "E",
+      "K",
+      "B",
+      "E",
+      "L",
+      "L",
+      "Y"
+    ]
+  }
+}

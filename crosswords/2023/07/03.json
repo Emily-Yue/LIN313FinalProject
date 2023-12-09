@@ -1,0 +1,1009 @@
+{
+  "puzzle_id": 21158,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-07-03",
+    "printDotw": 1,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Sam Buchbinder",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/07/02/crosswords/daily-puzzle-2023-07-03.html"
+    }
+  },
+  "print_date": "2023-07-03",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Sam Buchbinder"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Disney deer",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Singer Guthrie",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "\"\u2013 \u2013 \u2013\" units in Morse code",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Epic poem in Homeric Greek",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 21,
+          "value": "Russian revolutionary Trotsky",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 26,
+          "value": "___ Bator, capital of Mongolia",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Miles Davis classic that's the all-time best-selling jazz album ",
+          "clueEnd": 39,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 41,
+          "value": "The \"M\" of MSG",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 45,
+          "value": "The night before Christmas, e.g.",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 50,
+          "value": "French yeses",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "Despise",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Video camera button",
+          "clueEnd": 62
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 64,
+          "value": "\"Oh, I'm not messing around!\"",
+          "clueEnd": 74,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 77,
+          "value": "One of Cuba's Castro brothers",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 84,
+          "value": "Links org.",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 90,
+          "value": "Worker at a bank or museum",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 96,
+          "value": "Competent",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 101,
+          "value": "Decorates, as a cake",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 105,
+          "value": "Having initial success \u2026 as suggested by the beginnings of 17-, 24-, 47- and 60-Across?",
+          "clueEnd": 119,
+          "related": {
+            "down": [],
+            "across": [
+              60,
+              17,
+              24,
+              47,
+              60
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Pour love (on)",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 125,
+          "value": "Underground part of a plant",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 130,
+          "value": "Itty-bitty",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 138,
+          "value": "Used a shovel, say",
+          "clueEnd": 140
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 144,
+          "value": "Out of whack",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 150,
+          "value": "Big member of the string section",
+          "clueEnd": 160,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 162,
+          "value": "Morsel a horse'll enjoy",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 165,
+          "value": "What the Grim Reaper brings",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 171,
+          "value": "Rubber ducky's place",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 177,
+          "value": "Member of a Western tribe",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 180,
+          "value": "Art ___ (architectural style)",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 185,
+          "value": "Neon, argon and krypton",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              38
+            ]
+          }
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "\"Have you ___ wondered \u2026?\"",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 200,
+          "value": "\"Puppy Love\" singer Paul",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 205,
+          "value": "Fold in a dress",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 210,
+          "value": "Cincinnati ball club",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 215,
+          "value": "Things \"split\" in green soup",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 220,
+          "value": "Looks to be",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Motorcycle gang member",
+          "clueEnd": 60
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Sexiest Man ___ (annual award)",
+          "clueEnd": 61,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Video game franchise whose players gather natural resources",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Rotten",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Wedding words",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Hogwarts headmaster Dumbledore",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Got going again, as a fire",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Pretty terrible",
+          "clueEnd": 68
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "This clue's number minus eight",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Elevator for transporting food",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Luau greeting",
+          "clueEnd": 72
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Vietnam's capital",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Embarrassing sound to suddenly make while laughing",
+          "clueEnd": 74,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 35,
+          "value": "Terrible-smelling",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "Last full month of summer: Abbr.",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 64,
+          "value": "Olympic sport from Japan",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 69,
+          "value": "Piece that seeks to persuade",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 78,
+          "value": "Professionals who work with graphic designers",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 90,
+          "value": "Hades, Hermes or Hephaestus",
+          "clueEnd": 120
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 91,
+          "value": "Alien's ride, for short",
+          "clueEnd": 121
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 96,
+          "value": "\"A long time ___ \u2026\"",
+          "clueEnd": 126
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 97,
+          "value": "Shout that might give you goose bumps",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 98,
+          "value": "Place to park",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 102,
+          "value": "\"Is the view OK?\"",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 103,
+          "value": "Locales staffed by M.D.s",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 104,
+          "value": "Very dirty room, you might say",
+          "clueEnd": 134,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 110,
+          "value": "Cry of frustration",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 115,
+          "value": "Uses needle and thread",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 139,
+          "value": "\"I hate it!\"",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 144,
+          "value": "Tennis legend Arthur",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 150,
+          "value": "Milk source",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 151,
+          "value": "Really annoy",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 152,
+          "value": "Sped",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 156,
+          "value": "Steakhouse option",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 157,
+          "value": "Coffeecake with cross-sectional swirls",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 158,
+          "value": "What can show you the world?",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 163,
+          "value": "First-stringers",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 164,
+          "value": "Things that might end with \"Pencils down!\"",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 185,
+          "value": "Get some afternoon rest, say",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 190,
+          "value": "Letters that bookend the phrase \"Google Maps,\" aptly",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 191,
+          "value": "The \"A\" of I.P.A.",
+          "clueEnd": 221
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "B",
+      "A",
+      "M",
+      "B",
+      "I",
+      null,
+      "A",
+      "R",
+      "L",
+      "O",
+      null,
+      "D",
+      "A",
+      "H",
+      "S",
+      "I",
+      "L",
+      "I",
+      "A",
+      "D",
+      null,
+      "L",
+      "E",
+      "O",
+      "N",
+      null,
+      "U",
+      "L",
+      "A",
+      "N",
+      "K",
+      "I",
+      "N",
+      "D",
+      "O",
+      "F",
+      "B",
+      "L",
+      "U",
+      "E",
+      null,
+      "M",
+      "O",
+      "N",
+      "O",
+      "E",
+      "V",
+      "E",
+      null,
+      null,
+      "O",
+      "U",
+      "I",
+      "S",
+      null,
+      "A",
+      "B",
+      "H",
+      "O",
+      "R",
+      "R",
+      "E",
+      "C",
+      null,
+      "J",
+      "U",
+      "S",
+      "T",
+      "Y",
+      "O",
+      "U",
+      "W",
+      "A",
+      "I",
+      "T",
+      null,
+      null,
+      "R",
+      "A",
+      "U",
+      "L",
+      null,
+      null,
+      null,
+      "P",
+      "G",
+      "A",
+      null,
+      null,
+      null,
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      null,
+      "A",
+      "B",
+      "L",
+      "E",
+      null,
+      "I",
+      "C",
+      "E",
+      "S",
+      "O",
+      "F",
+      "F",
+      "T",
+      "O",
+      "A",
+      "G",
+      "O",
+      "O",
+      "D",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "D",
+      "O",
+      "T",
+      "E",
+      null,
+      "R",
+      "O",
+      "O",
+      "T",
+      null,
+      "E",
+      "E",
+      "N",
+      "S",
+      "Y",
+      null,
+      null,
+      null,
+      "D",
+      "U",
+      "G",
+      null,
+      null,
+      null,
+      "A",
+      "W",
+      "R",
+      "Y",
+      null,
+      null,
+      "U",
+      "P",
+      "R",
+      "I",
+      "G",
+      "H",
+      "T",
+      "B",
+      "A",
+      "S",
+      "S",
+      null,
+      "O",
+      "A",
+      "T",
+      "D",
+      "E",
+      "A",
+      "T",
+      "H",
+      null,
+      "B",
+      "A",
+      "T",
+      "H",
+      null,
+      null,
+      "U",
+      "T",
+      "E",
+      "D",
+      "E",
+      "C",
+      "O",
+      null,
+      "N",
+      "O",
+      "B",
+      "L",
+      "E",
+      "G",
+      "A",
+      "S",
+      "E",
+      "S",
+      "E",
+      "V",
+      "E",
+      "R",
+      null,
+      "A",
+      "N",
+      "K",
+      "A",
+      null,
+      "P",
+      "L",
+      "E",
+      "A",
+      "T",
+      "R",
+      "E",
+      "D",
+      "S",
+      null,
+      "P",
+      "E",
+      "A",
+      "S",
+      null,
+      "S",
+      "E",
+      "E",
+      "M",
+      "S"
+    ]
+  }
+}

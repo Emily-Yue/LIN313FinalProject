@@ -1,0 +1,171 @@
+{
+  "puzzle_id": 20881,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-23",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 6,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Droopy cheek",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Like some hopes -- and this clue",
+          "clueEnd": 11
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 12,
+          "value": "Distinct thing",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 18,
+          "value": "\"You get where I'm coming from?\"",
+          "clueEnd": 23,
+          "formatted": "&#34;You get where I&#39;m coming from?&#34;"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 25,
+          "value": "Shade ___ (something seen twice in this puzzle)",
+          "clueEnd": 28
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Singer Jackson with five Grammys",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Emily who wrote \"Expecting Better\" and \"Cribsheet\"",
+          "clueEnd": 26,
+          "formatted": "Emily who wrote &#34;Expecting Better&#34; and &#34;Cribsheet&#34;"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "During",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "\"Please, I can handle it\"",
+          "clueEnd": 28,
+          "formatted": "&#34;Please, I can handle it&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "ABC sequel?",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 11,
+          "value": "You might need it to make green eggs and ham",
+          "clueEnd": 23
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      9,
+      9,
+      9,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      9,
+      9,
+      9,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "J",
+      "O",
+      "W",
+      "L",
+      null,
+      "D",
+      "A",
+      "S",
+      "H",
+      "E",
+      "D",
+      "E",
+      "N",
+      "T",
+      "I",
+      "T",
+      "Y",
+      "F",
+      "E",
+      "E",
+      "L",
+      "M",
+      "E",
+      null,
+      "T",
+      "R",
+      "E",
+      "E",
+      null
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "puzzle_id": 20949,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-15",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Product from Nike or New Balance",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Cylinder for holding thread",
+          "clueEnd": 9,
+          "related": {
+            "down": [],
+            "across": [
+              6
+            ]
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Circles back around (and 5-Across \"rewound\")",
+          "clueEnd": 14,
+          "related": {
+            "down": [],
+            "across": [
+              4,
+              5
+            ]
+          },
+          "formatted": "Circles back around (and 5-Across \"rewound\")"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "The \"A\" of an M.F.A. degree",
+          "clueEnd": 18,
+          "formatted": "The &#34;A&#34; of an M.F.A. degree"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Impossible answer to the question \"Are you lying?\"",
+          "clueEnd": 22,
+          "formatted": "Impossible answer to the question &#34;Are you lying?&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Mushroom's reproductive cell",
+          "clueEnd": 21,
+          "formatted": "Mushroom&#39;s reproductive cell"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Owl noises",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "\"My bad\"",
+          "clueEnd": 18,
+          "formatted": "\"My bad\""
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Hollow center?",
+          "clueEnd": 14,
+          "formatted": "Hollow center?"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Kill, as a dragon",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "H",
+      "O",
+      "E",
+      "S",
+      "P",
+      "O",
+      "O",
+      "L",
+      "L",
+      "O",
+      "O",
+      "P",
+      "S",
+      "A",
+      "R",
+      "T",
+      "S",
+      null,
+      "Y",
+      "E",
+      "S",
+      null,
+      null
+    ]
+  }
+}

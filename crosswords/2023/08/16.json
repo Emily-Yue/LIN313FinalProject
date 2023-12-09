@@ -1,0 +1,1067 @@
+{
+  "puzzle_id": 21224,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-08-16",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "2023, The New York Times",
+    "height": 15,
+    "width": 16,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Mangesh Ghogre and Brendan Emmett Quigley",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/08/15/crosswords/daily-puzzle-2023-08-16.html"
+    }
+  },
+  "print_date": "2023-08-16",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Mangesh Ghogre and Brendan Emmett Quigley"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Fries, to Brits",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Usurp",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Entourage",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 16,
+          "value": "Bring back to life",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 22,
+          "value": "What a QR code at a restaurant may lead to",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 27,
+          "value": "Less green, as a banana",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 32,
+          "value": "Crowd favorite at karaoke, often",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 38,
+          "value": "Part of a Latin 101 conjugation",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 43,
+          "value": "Mediterranean fruit",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 48,
+          "value": "Console with a motion-sensing remote",
+          "clueEnd": 50
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 52,
+          "value": "Prez with a famous ranch",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 57,
+          "value": "Stephanie of \"Everything Everywhere All at Once\"",
+          "clueEnd": 59,
+          "formatted": "Stephanie of \"Everything Everywhere All at Once\""
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 61,
+          "value": "___ room",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 64,
+          "value": "Certain racetrack bet",
+          "clueEnd": 69
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 74,
+          "value": "Kind of calendar",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 83,
+          "value": "Knockout punch",
+          "clueEnd": 92
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 96,
+          "value": "French film award",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 102,
+          "value": "Regarding",
+          "clueEnd": 105
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 107,
+          "value": "Sight on a Norwegian cruise",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 112,
+          "value": "Where Diamond Head is",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 117,
+          "value": "Accepts a FedEx delivery, perhaps",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 124,
+          "value": "Mononymous Grammy winner",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 128,
+          "value": "Like many old fiddle tunes: Abbr.",
+          "clueEnd": 131
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 133,
+          "value": "Extra point for a shooting foul, in basketball",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 140,
+          "value": "Without a sole winner",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 144,
+          "value": "Educ. publishing division",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 149,
+          "value": "Yeun who was the first Asian American nominated for Best Actor (2020's \"Minari\")",
+          "clueEnd": 154,
+          "formatted": "Yeun who was the first Asian American nominated for Best Actor (2020's \"Minari\")"
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 156,
+          "value": "Attempt in cornhole",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 162,
+          "value": "Baby wallaby",
+          "clueEnd": 165
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 170,
+          "value": "Go over",
+          "clueEnd": 173
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 176,
+          "value": "Key locale: Abbr.",
+          "clueEnd": 178
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 180,
+          "value": "Attempts to hit, as a shuttlecock",
+          "clueEnd": 187
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 189,
+          "value": "Org. that reports to the attorney general",
+          "clueEnd": 191
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 192,
+          "value": "\"Awesome!\"",
+          "clueEnd": 194,
+          "formatted": "\"Awesome!\""
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 196,
+          "value": "Architectural features depicted by this puzzle's vertical circled letters",
+          "clueEnd": 203,
+          "related": {
+            "down": [
+              58
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 205,
+          "value": "\"Wow!\"",
+          "clueEnd": 207,
+          "formatted": "\"Wow!\""
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 208,
+          "value": "2026 World Cup co-host",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 72,
+          "clueStart": 212,
+          "value": "Caught up",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 73,
+          "clueStart": 221,
+          "value": "Peace, in Russian",
+          "clueEnd": 223,
+          "formatted": "Peace, in Russian"
+        },
+        {
+          "clueNum": 74,
+          "clueStart": 224,
+          "value": "___ Faire (outdoor event)",
+          "clueEnd": 226
+        },
+        {
+          "clueNum": 75,
+          "clueStart": 230,
+          "value": "Type of structure that this puzzle's theme is a grand example of",
+          "clueEnd": 233
+        },
+        {
+          "clueNum": 76,
+          "clueStart": 237,
+          "value": "The Mughal dynasty's reign, e.g.",
+          "clueEnd": 239
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"Gladiator\" star Russell",
+          "clueEnd": 64
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Fusilli shape",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Home to the monument depicted in this puzzle",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Pritzker Prize-winning architect",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Suffer from intense heat",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Key with one sharp: Abbr.",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Dream state",
+          "clueEnd": 39,
+          "related": {
+            "down": [
+              12
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Santa ___",
+          "clueEnd": 40,
+          "related": {
+            "down": [
+              12
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Shrub",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Highly pleased with",
+          "clueEnd": 107
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "\"Data is the new ___\" (popular wisdom in economics)",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Architectural feature depicted between 7- and 8-Down",
+          "clueEnd": 77,
+          "related": {
+            "down": [
+              7,
+              8,
+              7,
+              8
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Number of players on a netball team",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Upright",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 53,
+          "value": "Cricket club",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 58,
+          "value": "Spanish seasoning",
+          "clueEnd": 90
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 67,
+          "value": "\"Much Ado About Nothing\" role",
+          "clueEnd": 163,
+          "formatted": "&#34;Much Ado About Nothing&#34; role"
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 76,
+          "value": "Golf alternative, in brief",
+          "clueEnd": 172
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 86,
+          "value": "Lacks",
+          "clueEnd": 150
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 87,
+          "value": "\"All kidding ___ \u2026\"",
+          "clueEnd": 151
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 88,
+          "value": "No. 2 in the statehouse",
+          "clueEnd": 152
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 89,
+          "value": "\"___ nuit\"",
+          "clueEnd": 153
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 96,
+          "value": "Pigeon coop",
+          "clueEnd": 144
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 97,
+          "value": "Countess's counterpart",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 98,
+          "value": "Builder of the monument depicted in this puzzle",
+          "clueEnd": 226,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 109,
+          "value": "Architectural feature depicted by this puzzle's arching circled letters",
+          "clueEnd": 237,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 110,
+          "value": "Some loaves",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 111,
+          "value": "Family men",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 117,
+          "value": "Romp",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 122,
+          "value": "Able to feel",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 164,
+          "value": "Name that's an anagram of SEEM",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 171,
+          "value": "Focus of some cognitive therapy, for short",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 176,
+          "value": "Number of 69-Across surrounding the monument depicted in this puzzle",
+          "clueEnd": 224,
+          "related": {
+            "down": [],
+            "across": [
+              69
+            ]
+          }
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 177,
+          "value": "Come up short",
+          "clueEnd": 225
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 182,
+          "value": "Part of M.I.T.: Abbr.",
+          "clueEnd": 230
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 183,
+          "value": "Prefix meaning one-billionth",
+          "clueEnd": 231
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 184,
+          "value": "Weight of a paper clip, roughly",
+          "clueEnd": 232
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 185,
+          "value": "Tesla, by birth",
+          "clueEnd": 233
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 190,
+          "value": "Qatari leader",
+          "clueEnd": 238
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 191,
+          "value": "Home to the monument depicted in this puzzle",
+          "clueEnd": 239
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      3,
+      3,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      3,
+      0,
+      0,
+      3,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      3,
+      9,
+      9,
+      9,
+      9,
+      3,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      3,
+      1,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      0,
+      1,
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      1,
+      3,
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      1,
+      3,
+      1,
+      1,
+      0,
+      0,
+      3,
+      1,
+      9,
+      9,
+      0,
+      0,
+      0,
+      0,
+      9,
+      9,
+      1,
+      3,
+      0,
+      0,
+      1,
+      1,
+      3,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      3,
+      1,
+      1,
+      1,
+      1,
+      3,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      3,
+      1,
+      1,
+      1,
+      1,
+      3,
+      0,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      0,
+      3,
+      1,
+      1,
+      1,
+      1,
+      3,
+      0,
+      0,
+      0,
+      9,
+      9,
+      9,
+      9,
+      0,
+      0,
+      0,
+      3,
+      1,
+      1
+    ],
+    "answers": [
+      "C",
+      "H",
+      "I",
+      "P",
+      "S",
+      null,
+      "G",
+      "R",
+      "A",
+      "B",
+      null,
+      "P",
+      "O",
+      "S",
+      "S",
+      "E",
+      "R",
+      "E",
+      "N",
+      "E",
+      "W",
+      null,
+      "M",
+      "E",
+      "N",
+      "U",
+      null,
+      "R",
+      "I",
+      "P",
+      "E",
+      "R",
+      "O",
+      "L",
+      "D",
+      "I",
+      "E",
+      null,
+      "A",
+      "M",
+      "A",
+      "S",
+      null,
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "W",
+      "I",
+      "I",
+      null,
+      "L",
+      "B",
+      "J",
+      null,
+      null,
+      "H",
+      "S",
+      "U",
+      null,
+      "R",
+      "E",
+      "C",
+      "E",
+      "X",
+      "A",
+      "C",
+      "T",
+      "A",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "D",
+      "V",
+      "E",
+      "N",
+      "T",
+      null,
+      null,
+      null,
+      "L",
+      "E",
+      "T",
+      "H",
+      "A",
+      "L",
+      "B",
+      "L",
+      "O",
+      "W",
+      null,
+      null,
+      null,
+      "C",
+      "E",
+      "S",
+      "A",
+      "R",
+      null,
+      "A",
+      "S",
+      "T",
+      "O",
+      null,
+      "F",
+      "J",
+      "O",
+      "R",
+      "D",
+      "O",
+      "A",
+      "H",
+      "U",
+      null,
+      "E",
+      "S",
+      "I",
+      "G",
+      "N",
+      "S",
+      null,
+      "E",
+      "N",
+      "Y",
+      "A",
+      "T",
+      "R",
+      "A",
+      "D",
+      null,
+      "A",
+      "N",
+      "D",
+      "O",
+      "N",
+      "E",
+      null,
+      "T",
+      "I",
+      "E",
+      "D",
+      "E",
+      "L",
+      "H",
+      "I",
+      null,
+      "S",
+      "T",
+      "E",
+      "V",
+      "E",
+      "N",
+      null,
+      "T",
+      "O",
+      "S",
+      "S",
+      null,
+      null,
+      "J",
+      "O",
+      "E",
+      "Y",
+      null,
+      null,
+      null,
+      null,
+      "S",
+      "P",
+      "A",
+      "N",
+      null,
+      null,
+      "F",
+      "L",
+      "A",
+      null,
+      "S",
+      "W",
+      "I",
+      "N",
+      "G",
+      "S",
+      "A",
+      "T",
+      null,
+      "D",
+      "E",
+      "A",
+      "O",
+      "O",
+      "H",
+      null,
+      "M",
+      "I",
+      "N",
+      "A",
+      "R",
+      "E",
+      "T",
+      "S",
+      null,
+      "O",
+      "M",
+      "G",
+      "U",
+      "S",
+      "A",
+      null,
+      "E",
+      "N",
+      "S",
+      "N",
+      "A",
+      "R",
+      "E",
+      "D",
+      null,
+      "M",
+      "I",
+      "R",
+      "R",
+      "E",
+      "N",
+      null,
+      null,
+      null,
+      "T",
+      "O",
+      "M",
+      "B",
+      null,
+      null,
+      null,
+      "E",
+      "R",
+      "A"
+    ],
+    "overlayImage": {
+      "onStart": "https://www.nytimes.com/games-assets/overlays/Aug1623.start.png"
+    }
+  }
+}

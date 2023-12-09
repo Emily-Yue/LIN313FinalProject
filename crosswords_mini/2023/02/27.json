@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 20980,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-27",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-27",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Close tightly",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Rock's Red Hot ___ Peppers",
+          "clueEnd": 9,
+          "formatted": "Rock&#39;s Red Hot ___ Peppers"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Villains, in wrestling lingo",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "T.S. ___, Nobel-winning poet",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Move like water",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "What a nautilus uses to control its buoyancy ",
+          "clueEnd": 21,
+          "formatted": "What a nautilus uses to control its buoyancy"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "\"Old MacDonald\" refrain",
+          "clueEnd": 22,
+          "formatted": "&#34;Old MacDonald&#34; refrain"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Give the green-light",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "It gets ticked off at the supermarket",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Wearer of a poofy white hat",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "E",
+      "A",
+      "L",
+      "C",
+      "H",
+      "I",
+      "L",
+      "I",
+      "H",
+      "E",
+      "E",
+      "L",
+      "S",
+      "E",
+      "L",
+      "I",
+      "O",
+      "T",
+      "F",
+      "L",
+      "O",
+      "W",
+      null
+    ]
+  }
+}

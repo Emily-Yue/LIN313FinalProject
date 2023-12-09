@@ -1,0 +1,165 @@
+{
+  "puzzle_id": 21442,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-21",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-21",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "WIth 4-Across, painter of \"Sunflowers\" and \"Irises\"",
+          "clueEnd": 4,
+          "related": {
+            "down": [],
+            "across": [
+              4
+            ]
+          },
+          "formatted": "WIth 4-Across, painter of &#34;Sunflowers&#34; and &#34;Irises&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "See 1-Across",
+          "clueEnd": 9,
+          "related": {
+            "down": [],
+            "across": [
+              1
+            ]
+          }
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Post-pool need",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Dollar bills",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Animal whose name starts with a doubled letter",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Lack of rhythm?",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Anywhere from 26 to 42, for the millennial generation now",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Sports org. that awards the Stanley Cup",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Missing",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Something to stub",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "V",
+      "A",
+      "N",
+      null,
+      "G",
+      "O",
+      "G",
+      "H",
+      "T",
+      "O",
+      "W",
+      "E",
+      "L",
+      "O",
+      "N",
+      "E",
+      "S",
+      null,
+      "E",
+      "E",
+      "L",
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "puzzle_id": 20901,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-28",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-28",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Silicon Valley industry",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Overused saying",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Common topic for small talk",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Letter after jay and kay",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 25,
+          "value": "Spherical shape",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 28,
+          "value": "Casual alternatives to suit jackets",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 35,
+          "value": "Affliction",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 42,
+          "value": "Queens might dress in it",
+          "clueEnd": 45
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "___ for tat",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 4,
+          "value": "Bounced back, as sound",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 5,
+          "value": "Sundae topping",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Parsley, sage, rosemary and thyme",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 8,
+          "value": "Wine storage area",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 9,
+          "value": "\"I can't he-e-ear you!\"",
+          "clueEnd": 44,
+          "formatted": "&#34;I can&#39;t he-e-ear you!&#34;"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 14,
+          "value": "Online health info site",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 31,
+          "value": "Turn sharply",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      null,
+      "T",
+      "E",
+      "C",
+      "H",
+      null,
+      "C",
+      "L",
+      "I",
+      "C",
+      "H",
+      "E",
+      "W",
+      "E",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R",
+      "E",
+      "L",
+      "L",
+      null,
+      "O",
+      "R",
+      "B",
+      "B",
+      "L",
+      "A",
+      "Z",
+      "E",
+      "R",
+      "S",
+      "M",
+      "A",
+      "L",
+      "A",
+      "D",
+      "Y",
+      null,
+      "D",
+      "R",
+      "A",
+      "G",
+      null,
+      null,
+      null
+    ]
+  }
+}

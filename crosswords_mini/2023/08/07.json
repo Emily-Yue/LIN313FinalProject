@@ -1,0 +1,149 @@
+{
+  "puzzle_id": 21336,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-08-07",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-08-07",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Opportunity could once be found here",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Streaking ball of ice and dust",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Male spouse, informally",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "___ of Man",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Removable part of a banana",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "\"If You Give a ___ a Cookie\" (classic children's book)",
+          "clueEnd": 21,
+          "formatted": "&#34;If You Give a ___ a Cookie&#34; (classic children&#39;s book)"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Saunter",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Fight against authority",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Pig pen",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Word associated with computers, golf and snack foods",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "M",
+      "A",
+      "R",
+      "S",
+      "C",
+      "O",
+      "M",
+      "E",
+      "T",
+      "H",
+      "U",
+      "B",
+      "B",
+      "Y",
+      "I",
+      "S",
+      "L",
+      "E",
+      null,
+      "P",
+      "E",
+      "E",
+      "L",
+      null
+    ]
+  }
+}

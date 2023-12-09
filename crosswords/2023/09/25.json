@@ -1,0 +1,996 @@
+{
+  "puzzle_id": 21366,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-09-25",
+    "printDotw": 1,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Lynn Lempel",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/09/24/crosswords/daily-puzzle-2023-09-25.html"
+    }
+  },
+  "print_date": "2023-09-25",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Lynn Lempel"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Tablet that comes with the FaceTime app",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Musical work that may be numbered",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Firm and brittle, as a cracker",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Shower love (on)",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Tirade",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "Ship alongside the Ni\u00f1a and the Santa Maria",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Alif, ba, ta or hamza",
+          "clueEnd": 44,
+          "related": {
+            "down": [],
+            "across": [
+              62
+            ]
+          }
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 46,
+          "value": "Give the cold shoulder",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 52,
+          "value": "Wall St. launch",
+          "clueEnd": 54
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 56,
+          "value": "Bunch of bovines",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Math diagram with an array of dots",
+          "clueEnd": 70,
+          "related": {
+            "down": [],
+            "across": [
+              62
+            ]
+          }
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 72,
+          "value": "Rock's ___ Speedwagon",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "Stanley Cup org.",
+          "clueEnd": 77
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 79,
+          "value": "Some reproductive cells",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 83,
+          "value": "What a poker face hides",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 90,
+          "value": "\"___ Make a Deal\"",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 95,
+          "value": "Org. that regulates hazardous waste",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 100,
+          "value": "Basketball hoops",
+          "clueEnd": 103
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 108,
+          "value": "Color such as khaki or ocher",
+          "clueEnd": 116,
+          "related": {
+            "down": [],
+            "across": [
+              62
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 121,
+          "value": "Gun sound",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 127,
+          "value": "Droop",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 131,
+          "value": "Feature of the Capitol or the Taj Mahal",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 135,
+          "value": "Used a chair",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 143,
+          "value": "Undergarment with an underwire",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 147,
+          "value": "Oil-drilling structure",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 150,
+          "value": "Honest ___ (Lincoln)",
+          "clueEnd": 152
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 154,
+          "value": "Preplanning activity",
+          "clueEnd": 164,
+          "related": {
+            "down": [],
+            "across": [
+              62
+            ]
+          }
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 165,
+          "value": "Medieval castle defense",
+          "clueEnd": 168
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 170,
+          "value": "U.S. org. with cryptologists",
+          "clueEnd": 172
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 175,
+          "value": "\"___ Lisa\"",
+          "clueEnd": 178
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 180,
+          "value": "\"Care to fill me in?\" \u2026 or a hint to 17-, 23-, 37- and 55-Across's final words",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              23,
+              37,
+              55
+            ]
+          }
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 195,
+          "value": "Currently broadcasting",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 201,
+          "value": "Elite British boys' school",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 206,
+          "value": "Passed with flying colors",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 210,
+          "value": "Boy band with the hits \"Bye Bye Bye\" and \"It's Gonna Be Me\"",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 216,
+          "value": "Rip apart",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 72,
+          "clueStart": 221,
+          "value": "Real estate units",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "N.A.A.C.P. co-founder ___ B. Wells",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "German automaker",
+          "clueEnd": 91
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "No longer moving",
+          "clueEnd": 92
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "First public appearance",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "\"The Lord of the Rings\" monster",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "\"Super\" campaign fund-raiser",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Not cool",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Paper clip alternative",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "One auditing the books, in brief",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Calorie-laden",
+          "clueEnd": 56
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Temporary, as a position of leadership",
+          "clueEnd": 102
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Sound systems",
+          "clueEnd": 103
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Presidential forgiveness",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 34,
+          "value": "\"I don't wanna get ___ it\"",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 39,
+          "value": "Hotel booking",
+          "clueEnd": 84
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Weekend TV comedy show, in brief",
+          "clueEnd": 90
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 65,
+          "value": "At any time",
+          "clueEnd": 110
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 66,
+          "value": "Spellbound",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 70,
+          "value": "Ripped apart",
+          "clueEnd": 115
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 86,
+          "value": "Like a game's score before overtime",
+          "clueEnd": 131
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 93,
+          "value": "Button to press after composing an email",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 97,
+          "value": "Sounds of understanding",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 109,
+          "value": "Brimming with excitement",
+          "clueEnd": 154
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "File folder features",
+          "clueEnd": 158
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 114,
+          "value": "Fearsome folklore figure",
+          "clueEnd": 159
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 121,
+          "value": "Monkeys with long snouts",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 122,
+          "value": "Eroded",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 132,
+          "value": "Colombia/Venezuela border river",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 133,
+          "value": "Slender tower of a mosque",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 134,
+          "value": "Henhouse product",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 135,
+          "value": "Biblical judge whose hair gave him strength",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 140,
+          "value": "\"___ Get Fooled Again\" (the Who classic)",
+          "clueEnd": 185
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 141,
+          "value": "Egypt's Lake ___, near Aswan Dam",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 145,
+          "value": "Bill dispensers, in brief",
+          "clueEnd": 190
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 157,
+          "value": "Espresso drink",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 161,
+          "value": "Amount at the bottom of a receipt",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 168,
+          "value": "Slender",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 184,
+          "value": "Curved path",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 188,
+          "value": "Sweetie",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 189,
+          "value": "Word after living or dead",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 194,
+          "value": "Fabric-buying quantities: Abbr.",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "I",
+      "P",
+      "A",
+      "D",
+      null,
+      "O",
+      "P",
+      "U",
+      "S",
+      null,
+      "C",
+      "R",
+      "I",
+      "S",
+      "P",
+      "D",
+      "O",
+      "T",
+      "E",
+      null,
+      "R",
+      "A",
+      "N",
+      "T",
+      null,
+      "P",
+      "I",
+      "N",
+      "T",
+      "A",
+      "A",
+      "R",
+      "A",
+      "B",
+      "I",
+      "C",
+      "C",
+      "H",
+      "A",
+      "R",
+      "A",
+      "C",
+      "T",
+      "E",
+      "R",
+      null,
+      "S",
+      "H",
+      "U",
+      "N",
+      null,
+      null,
+      "I",
+      "P",
+      "O",
+      null,
+      "H",
+      "E",
+      "R",
+      "D",
+      "S",
+      "C",
+      "A",
+      "T",
+      "T",
+      "E",
+      "R",
+      "P",
+      "L",
+      "O",
+      "T",
+      null,
+      "R",
+      "E",
+      "O",
+      "N",
+      "H",
+      "L",
+      null,
+      "O",
+      "V",
+      "A",
+      null,
+      "E",
+      "M",
+      "O",
+      "T",
+      "I",
+      "O",
+      "N",
+      "L",
+      "E",
+      "T",
+      "S",
+      null,
+      "E",
+      "P",
+      "A",
+      null,
+      null,
+      "R",
+      "I",
+      "M",
+      "S",
+      null,
+      null,
+      null,
+      null,
+      "E",
+      "A",
+      "R",
+      "T",
+      "H",
+      "T",
+      "O",
+      "N",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "B",
+      "A",
+      "N",
+      "G",
+      null,
+      null,
+      "S",
+      "A",
+      "G",
+      null,
+      "D",
+      "O",
+      "M",
+      "E",
+      "S",
+      "A",
+      "T",
+      "D",
+      "O",
+      "W",
+      "N",
+      null,
+      "B",
+      "R",
+      "A",
+      null,
+      "R",
+      "I",
+      "G",
+      "A",
+      "B",
+      "E",
+      null,
+      "G",
+      "O",
+      "A",
+      "L",
+      "S",
+      "E",
+      "T",
+      "T",
+      "I",
+      "N",
+      "G",
+      "M",
+      "O",
+      "A",
+      "T",
+      null,
+      "N",
+      "S",
+      "A",
+      null,
+      null,
+      "M",
+      "O",
+      "N",
+      "A",
+      null,
+      "S",
+      "O",
+      "W",
+      "H",
+      "A",
+      "T",
+      "S",
+      "T",
+      "H",
+      "E",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "O",
+      "N",
+      "A",
+      "I",
+      "R",
+      null,
+      "E",
+      "T",
+      "O",
+      "N",
+      null,
+      "A",
+      "C",
+      "E",
+      "D",
+      "N",
+      "S",
+      "Y",
+      "N",
+      "C",
+      null,
+      "R",
+      "E",
+      "N",
+      "D",
+      null,
+      "L",
+      "O",
+      "T",
+      "S"
+    ]
+  }
+}

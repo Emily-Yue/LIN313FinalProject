@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 21284,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-13",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-13",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Smile wide",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Result of inviting an ex to a wedding, maybe",
+          "clueEnd": 9,
+          "formatted": "Result of inviting an ex to a wedding, maybe"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Leader of the Argonauts, in myth",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "All possible",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Pharmacist's amount",
+          "clueEnd": 23,
+          "formatted": "Pharmacist&#39;s amount"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "\"Vanderpump Rules\" channel",
+          "clueEnd": 21,
+          "formatted": "&#34;Vanderpump Rules&#34; channel"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Makes less difficult",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Love, in Rome",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Lots and lots of",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Played music for a party",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "B",
+      "E",
+      "A",
+      "M",
+      "D",
+      "R",
+      "A",
+      "M",
+      "A",
+      "J",
+      "A",
+      "S",
+      "O",
+      "N",
+      "E",
+      "V",
+      "E",
+      "R",
+      "Y",
+      "D",
+      "O",
+      "S",
+      "E",
+      null
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 21459,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-01",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-01",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Sports org. whose playoffs begin this coming week",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Reason for campers to hang their food high off the ground",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "\"No worries\"",
+          "clueEnd": 14,
+          "formatted": "&#34;No worries&#34;"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Somewhat dark, as during twilight",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "\"The Raven\" poet",
+          "clueEnd": 23,
+          "formatted": "&#34;The Raven&#34; poet"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Got together",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Rodeo rope",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Opposite of loaded",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "eBay offering",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Plane's place",
+          "clueEnd": 19,
+          "formatted": "Plane&#39;s place"
+        }
+      ]
+    },
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "M",
+      "L",
+      "B",
+      null,
+      "B",
+      "E",
+      "A",
+      "R",
+      "S",
+      "I",
+      "T",
+      "S",
+      "O",
+      "K",
+      "D",
+      "U",
+      "S",
+      "K",
+      "Y",
+      null,
+      "P",
+      "O",
+      "E",
+      null
+    ]
+  }
+}

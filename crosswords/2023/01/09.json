@@ -1,0 +1,1027 @@
+{
+  "puzzle_id": 20786,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-01-09",
+    "printDotw": 1,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Andrea Carla Michaels and Kevin Christian",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/01/08/crosswords/daily-puzzle-2023-01-09.html"
+    }
+  },
+  "print_date": "2023-01-09",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Andrea Carla Michaels",
+    "Kevin Christian"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Crooked, as a painting on the wall",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Nine-digit ID",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 11,
+          "value": "How revenge (or pizza for breakfast) is best served",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 15,
+          "value": "Steeple",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 21,
+          "value": "Noshed",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 25,
+          "value": "Corporate rule or regulation",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 30,
+          "value": "Concept that can't be criticized or questioned, metaphorically",
+          "clueEnd": 38,
+          "related": {
+            "down": [
+              55
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 40,
+          "value": "Tennis's Agassi",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 45,
+          "value": "Torah holders",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 50,
+          "value": "Bigeye or yellowfin tuna, at a sushi bar",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 54,
+          "value": "Feel great sorrow",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 60,
+          "value": "Shout made with a fist pump",
+          "clueEnd": 62,
+          "related": {
+            "down": [],
+            "across": [
+              54
+            ]
+          }
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 64,
+          "value": "Seafood often served with picks",
+          "clueEnd": 74,
+          "related": {
+            "down": [
+              55
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 77,
+          "value": "Dab, as with a paper towel",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 83,
+          "value": "Chicago trains",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 90,
+          "value": "Not showy",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 96,
+          "value": "Language spoken in Bangkok",
+          "clueEnd": 99,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 101,
+          "value": "Ballet dancer's knee bend",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 105,
+          "value": "Pre-employment investigation",
+          "clueEnd": 119,
+          "related": {
+            "down": [
+              55
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 120,
+          "value": "\"A guy walks into a bar \u2026\" may start one",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 125,
+          "value": "Caesar's words to Brutus",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 130,
+          "value": "Music Mann?",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 139,
+          "value": "Shoofly ___ ",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 144,
+          "value": "Norway's biggest city",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 150,
+          "value": "Cocktail named for two iconic beverage brands",
+          "clueEnd": 160,
+          "related": {
+            "down": [
+              55
+            ],
+            "across": []
+          },
+          "formatted": "Cocktail named for two iconic beverage brands"
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 162,
+          "value": "Catch forty winks",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 165,
+          "value": "Changes, as a hemline",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 172,
+          "value": "22-Across, in French",
+          "clueEnd": 174,
+          "related": {
+            "down": [],
+            "across": [
+              22,
+              22
+            ]
+          }
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 176,
+          "value": "Regarding",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 180,
+          "value": "Latin for \"in itself\"",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 186,
+          "value": "Behaved in a laid-back way",
+          "clueEnd": 194,
+          "related": {
+            "down": [
+              55
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 195,
+          "value": "Connections for car wheels",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 201,
+          "value": "Author Edgar Allan ___",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 205,
+          "value": "In an unusual way",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 210,
+          "value": "Army's football rival",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 216,
+          "value": "Mr. Potato Head piece",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 220,
+          "value": "Sell illegally, as tickets",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Test for purity",
+          "clueEnd": 60
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "What a diagonal line represents on a bowling scoresheet",
+          "clueEnd": 61
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Relaxes",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Commits a fumble",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Small, to a Scot",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Borat creator ___ Baron Cohen",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Showing no emotion",
+          "clueEnd": 67
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Either \"N\" in NY, NY",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 11,
+          "value": "Jaded doubter",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 12,
+          "value": "More ancient",
+          "clueEnd": 72
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 13,
+          "value": "Stage in a butterfly's development",
+          "clueEnd": 73
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 14,
+          "value": "Socially inept sort",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 25,
+          "value": "Poets of yore",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 35,
+          "value": "It's tossed toward a bull's-eye",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 54,
+          "value": "Frozen",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 64,
+          "value": "Viet ___ (armed force of the 1960s-'70s)",
+          "clueEnd": 109
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 68,
+          "value": "Reeves of the \"Matrix\" films",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 78,
+          "value": "Thumbs-up on Facebook",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 90,
+          "value": "Gooey lunchbox sandwich, informally",
+          "clueEnd": 120
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 91,
+          "value": "Language spoken in Vientiane",
+          "clueEnd": 121,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 96,
+          "value": "Schlepped",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 97,
+          "value": "Primitive dwelling",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 101,
+          "value": "TV's Dr. ___",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 102,
+          "value": "San Pellegrino offering",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 103,
+          "value": "\"Rocks\" that clink in a drink",
+          "clueEnd": 133
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 104,
+          "value": "___ out a living",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 110,
+          "value": "Rider's handful",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 115,
+          "value": "Assignment for a lawyer",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 139,
+          "value": "Removes skin from",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 144,
+          "value": "\"The Grapes of Wrath\" figure",
+          "clueEnd": 189
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 150,
+          "value": "Mount Fuji's locale",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 151,
+          "value": "Amazon \"assistant\"",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 152,
+          "value": "PC command to paste",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 153,
+          "value": "Ken who wrote \"One Flew Over the Cuckoo's Nest\"",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 157,
+          "value": "Hot drink with marshmallows",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 158,
+          "value": "Word before space or limits",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 163,
+          "value": "Coral islet chain",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 164,
+          "value": "Coral reef producer",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 176,
+          "value": "\"Highway to Hell\" rock group \u2026 or a hint to electrical switches found in 16-, 23-, 36-, 44- and 57-Across",
+          "clueEnd": 221,
+          "related": {
+            "down": [],
+            "across": [
+              57,
+              16,
+              23,
+              36,
+              44,
+              57
+            ]
+          }
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 186,
+          "value": "Gorilla, e.g.",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 190,
+          "value": "Uno + uno",
+          "clueEnd": 220
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "A",
+      "S",
+      "K",
+      "E",
+      "W",
+      null,
+      "S",
+      "S",
+      "N",
+      null,
+      null,
+      "C",
+      "O",
+      "L",
+      "D",
+      "S",
+      "P",
+      "I",
+      "R",
+      "E",
+      null,
+      "A",
+      "T",
+      "E",
+      null,
+      "B",
+      "Y",
+      "L",
+      "A",
+      "W",
+      "S",
+      "A",
+      "C",
+      "R",
+      "E",
+      "D",
+      "C",
+      "O",
+      "W",
+      null,
+      "A",
+      "N",
+      "D",
+      "R",
+      "E",
+      "A",
+      "R",
+      "K",
+      "S",
+      null,
+      "A",
+      "H",
+      "I",
+      null,
+      "G",
+      "R",
+      "I",
+      "E",
+      "V",
+      "E",
+      "Y",
+      "E",
+      "S",
+      null,
+      "C",
+      "R",
+      "A",
+      "C",
+      "K",
+      "E",
+      "D",
+      "C",
+      "R",
+      "A",
+      "B",
+      null,
+      null,
+      "B",
+      "L",
+      "O",
+      "T",
+      null,
+      null,
+      "E",
+      "L",
+      "S",
+      null,
+      null,
+      null,
+      null,
+      "P",
+      "L",
+      "A",
+      "I",
+      "N",
+      null,
+      "T",
+      "H",
+      "A",
+      "I",
+      null,
+      "P",
+      "L",
+      "I",
+      "E",
+      "B",
+      "A",
+      "C",
+      "K",
+      "G",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D",
+      "C",
+      "H",
+      "E",
+      "C",
+      "K",
+      "J",
+      "O",
+      "K",
+      "E",
+      null,
+      "E",
+      "T",
+      "T",
+      "U",
+      null,
+      "A",
+      "I",
+      "M",
+      "E",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "P",
+      "I",
+      "E",
+      null,
+      null,
+      "O",
+      "S",
+      "L",
+      "O",
+      null,
+      null,
+      "J",
+      "A",
+      "C",
+      "K",
+      "A",
+      "N",
+      "D",
+      "C",
+      "O",
+      "K",
+      "E",
+      null,
+      "N",
+      "A",
+      "P",
+      "A",
+      "L",
+      "T",
+      "E",
+      "R",
+      "S",
+      null,
+      "O",
+      "U",
+      "I",
+      null,
+      "A",
+      "S",
+      "T",
+      "O",
+      "P",
+      "E",
+      "R",
+      "S",
+      "E",
+      null,
+      "A",
+      "C",
+      "T",
+      "E",
+      "D",
+      "C",
+      "O",
+      "O",
+      "L",
+      "A",
+      "X",
+      "L",
+      "E",
+      "S",
+      null,
+      "P",
+      "O",
+      "E",
+      null,
+      "O",
+      "D",
+      "D",
+      "L",
+      "Y",
+      "N",
+      "A",
+      "V",
+      "Y",
+      null,
+      null,
+      "E",
+      "A",
+      "R",
+      null,
+      "S",
+      "C",
+      "A",
+      "L",
+      "P"
+    ]
+  }
+}

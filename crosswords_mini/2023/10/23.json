@@ -1,0 +1,151 @@
+{
+  "puzzle_id": 21503,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-23",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-23",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Bit of snorkeling gear",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "This one was made with \"I\" as the only vowel",
+          "clueEnd": 9,
+          "formatted": "This one was made with &#34;I&#34; as the only vowel"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "A musician's might be perfect",
+          "clueEnd": 14,
+          "formatted": "A musician&#39;s might be perfect"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Scratch that!",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "To the ___ degree",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Abercrombie & ___",
+          "clueEnd": 22,
+          "formatted": "Abercrombie &amp; ___"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Part of a foot",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "U.S. medical research agcy.",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Baseball glove",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Four digits to memorize",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "F",
+      "I",
+      "N",
+      null,
+      "M",
+      "I",
+      "N",
+      "I",
+      "P",
+      "I",
+      "T",
+      "C",
+      "H",
+      "I",
+      "T",
+      "C",
+      "H",
+      null,
+      "N",
+      "T",
+      "H",
+      null,
+      null
+    ]
+  }
+}

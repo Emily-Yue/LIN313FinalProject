@@ -1,0 +1,150 @@
+{
+  "puzzle_id": 20986,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-03",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-03",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Sixteen pieces on a chessboard",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Look forward to",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Cautious and evasive",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "\"Don't feed the ___\" (online advice)",
+          "clueEnd": 19,
+          "formatted": "&#34;Don&#39;t feed the ___&#34; (online advice)"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "Touch or taste",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Signed agreements",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"I'm well ___ ...\"",
+          "clueEnd": 21,
+          "formatted": "&#34;I&#39;m well ___ ...&#34;"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Vehicle on the Oregon Trail",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Nobel-winning scientist Bohr",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Section of The New York Times that covers fashion",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "P",
+      "A",
+      "W",
+      "N",
+      "S",
+      "A",
+      "W",
+      "A",
+      "I",
+      "T",
+      "C",
+      "A",
+      "G",
+      "E",
+      "Y",
+      "T",
+      "R",
+      "O",
+      "L",
+      "L",
+      "S",
+      "E",
+      "N",
+      "S",
+      "E"
+    ]
+  }
+}

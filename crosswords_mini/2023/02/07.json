@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 20931,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-07",
+    "printDotw": 2,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-07",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Things that are both tired and exhausting?",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "\"You can say that again!\"",
+          "clueEnd": 9,
+          "formatted": "&#34;You can say that again!&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Slow traffic pace",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Move like mud",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Appealed earnestly",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "\"Hark! The Herald Angels Sing,\" for one",
+          "clueEnd": 21,
+          "formatted": "\"Hark! The Herald Angels Sing,\" for one"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Wow",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Married again",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Lorne Michaels's show",
+          "clueEnd": 14,
+          "formatted": "Lorne Michaels&#39;s show"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Own up (to)",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "C",
+      "A",
+      "R",
+      "S",
+      null,
+      "A",
+      "M",
+      "E",
+      "N",
+      "C",
+      "R",
+      "A",
+      "W",
+      "L",
+      "O",
+      "O",
+      "Z",
+      "E",
+      null,
+      "P",
+      "L",
+      "E",
+      "D",
+      null
+    ]
+  }
+}

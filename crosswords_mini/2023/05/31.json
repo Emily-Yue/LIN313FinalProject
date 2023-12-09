@@ -1,0 +1,166 @@
+{
+  "puzzle_id": 21178,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-31",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-31",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Sticky stuff on a tree",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Destination for cabs in California?",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Long time to wait in line",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Fancy broad tie",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Most common carnivore in Africa",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "See 3-Down",
+          "clueEnd": 22,
+          "related": {
+            "down": [
+              3
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Kitchen splatter protector",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "With 1-Down, marinara, Alfredo or pesto",
+          "clueEnd": 24,
+          "related": {
+            "down": [
+              1
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "All up in one's business",
+          "clueEnd": 21,
+          "formatted": "All up in one&#39;s business"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "\"Very funny!\"",
+          "clueEnd": 20,
+          "formatted": "&#34;Very funny!&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      null,
+      "S",
+      "A",
+      "P",
+      null,
+      "N",
+      "A",
+      "P",
+      "A",
+      "H",
+      "O",
+      "U",
+      "R",
+      "S",
+      "A",
+      "S",
+      "C",
+      "O",
+      "T",
+      "H",
+      "Y",
+      "E",
+      "N",
+      "A"
+    ]
+  }
+}

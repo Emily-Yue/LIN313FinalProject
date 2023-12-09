@@ -1,0 +1,156 @@
+{
+  "puzzle_id": 21166,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-28",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-28",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Super Mario ___ (video game franchise)",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "The \"y\" axis on a supply-and-demand curve",
+          "clueEnd": 9,
+          "formatted": "The &#34;y&#34; axis on a supply-and-demand curve"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Note at the upper end of a soprano's range",
+          "clueEnd": 14,
+          "formatted": "Note at the upper end of a soprano&#39;s range"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Dummy",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Conducted",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Person choosing a maid of honor, perhaps",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "By the book",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Spanish for \"eight\"",
+          "clueEnd": 18,
+          "formatted": "Spanish for &#34;eight&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Religious offshoot",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "\"Modern Family\" dad",
+          "clueEnd": 20,
+          "formatted": "&#34;Modern Family&#34; dad"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      "B",
+      "R",
+      "O",
+      "S",
+      "P",
+      "R",
+      "I",
+      "C",
+      "E",
+      "H",
+      "I",
+      "G",
+      "H",
+      "C",
+      "I",
+      "D",
+      "I",
+      "O",
+      "T",
+      "L",
+      "E",
+      "D",
+      null,
+      null
+    ]
+  }
+}

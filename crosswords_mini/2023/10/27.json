@@ -1,0 +1,166 @@
+{
+  "puzzle_id": 21513,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-27",
+    "printDotw": 5,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-27",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "\"The ___ was angry that day, my friends \u2013 like an old man trying to send back soup in a deli\" (\"Seinfeld\" line)",
+          "clueEnd": 3,
+          "formatted": "\"The ___ was angry that day, my friends \u2013 like an old man trying to send back soup in a deli\" (\"Seinfeld\" line)"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "With 7-Across, longtime cereal brand with a fruit in its name",
+          "clueEnd": 9,
+          "related": {
+            "down": [],
+            "across": [
+              7
+            ]
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Sci-fi robot",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "See 4-Across",
+          "clueEnd": 19,
+          "related": {
+            "down": [],
+            "across": [
+              4
+            ]
+          }
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Most common word in English, according to Oxford",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "He could \"eat no fat,\" in a nursery rhyme",
+          "clueEnd": 21,
+          "formatted": "He could \"eat no fat,\" in a nursery rhyme"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Geological time period",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Similar",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Modifying word: Abbr.",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Singer Sheeran and actor Helms",
+          "clueEnd": 19
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "E",
+      "A",
+      null,
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "D",
+      "R",
+      "O",
+      "I",
+      "D",
+      "J",
+      "A",
+      "C",
+      "K",
+      "S",
+      null,
+      "T",
+      "H",
+      "E",
+      null
+    ]
+  }
+}

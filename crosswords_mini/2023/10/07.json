@@ -1,0 +1,252 @@
+{
+  "puzzle_id": 21472,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-10-07",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 6,
+    "width": 8,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-10-07",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "X man since 2022?",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "\"On your mark, get ___, go!\"",
+          "clueEnd": 7,
+          "formatted": "&#34;On your mark, get ___, go!&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Military force",
+          "clueEnd": 11
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 13,
+          "value": "Japanese for \"yes\"",
+          "clueEnd": 15,
+          "formatted": "Japanese for &#34;yes&#34;"
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 16,
+          "value": "\"T\" party for sports fans",
+          "clueEnd": 23,
+          "formatted": "\"T\" party for sports fans"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 24,
+          "value": "Two words added to the Pledge of Allegiance in 1954",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 32,
+          "value": "Floor covering",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 36,
+          "value": "Words that fill each blank of \"I know ___ who knows ___\"",
+          "clueEnd": 39,
+          "formatted": "Words that fill each blank of &#34;I know ___ who knows ___&#34;"
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 40,
+          "value": "Suffix with Vietnam or Siam",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 44,
+          "value": "Computer memory unit",
+          "clueEnd": 47
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Acting grown-up",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Seventh planet from the sun",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Slightest bit",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Actor Chandler who played Coach Taylor on \"Friday Night Lights\"",
+          "clueEnd": 27,
+          "formatted": "Actor Chandler who played Coach Taylor on \"Friday Night Lights\""
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 5,
+          "value": "Scooby-Doo's owner",
+          "clueEnd": 45,
+          "formatted": "Scooby-Doo&#39;s owner"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Visit a restaurant",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "T-shirt pattern associated with summer camp",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 20,
+          "value": "Snatch",
+          "clueEnd": 44
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "M",
+      "U",
+      "S",
+      "K",
+      null,
+      "S",
+      "E",
+      "T",
+      "A",
+      "R",
+      "M",
+      "Y",
+      null,
+      "H",
+      "A",
+      "I",
+      "T",
+      "A",
+      "I",
+      "L",
+      "G",
+      "A",
+      "T",
+      "E",
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "G",
+      "O",
+      "D",
+      "R",
+      "U",
+      "G",
+      null,
+      "A",
+      "G",
+      "U",
+      "Y",
+      "E",
+      "S",
+      "E",
+      null,
+      "B",
+      "Y",
+      "T",
+      "E"
+    ]
+  }
+}

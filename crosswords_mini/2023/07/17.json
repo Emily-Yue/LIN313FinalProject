@@ -1,0 +1,162 @@
+{
+  "puzzle_id": 21288,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-07-17",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-07-17",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Karate blow",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Wolf's call to the moon",
+          "clueEnd": 9,
+          "formatted": "Wolf&#39;s call to the moon"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Really hot room, metaphorically",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Gone up",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Chemically unreactive",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Part of a necklace",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "With 4-Down, something watered indoors",
+          "clueEnd": 22,
+          "related": {
+            "down": [
+              4
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Pet's favorite person, usually",
+          "clueEnd": 23,
+          "formatted": "Pet&#39;s favorite person, usually"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "See 2-Down",
+          "clueEnd": 24,
+          "related": {
+            "down": [
+              2
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "___ Lanka",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      "C",
+      "H",
+      "O",
+      "P",
+      null,
+      "H",
+      "O",
+      "W",
+      "L",
+      "S",
+      "A",
+      "U",
+      "N",
+      "A",
+      "R",
+      "I",
+      "S",
+      "E",
+      "N",
+      "I",
+      "N",
+      "E",
+      "R",
+      "T"
+    ]
+  }
+}

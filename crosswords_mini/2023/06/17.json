@@ -1,0 +1,251 @@
+{
+  "puzzle_id": 21218,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-06-17",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-06-17",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Point out minor faults",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 7,
+          "value": "Lack of government",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 14,
+          "value": "Break between high school and college",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 25,
+          "value": "\"The Marvelous ___ Maisel\"",
+          "clueEnd": 27,
+          "formatted": "&#34;The Marvelous ___ Maisel&#34;"
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "Linus and Lucy's last name in \"Peanuts\"",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 35,
+          "value": "Simple bike trick",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 42,
+          "value": "Abbreviate or abridge",
+          "clueEnd": 48
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Bother repeatedly",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Once ___ lifetime",
+          "clueEnd": 15
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Restaurant water choice",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Use a crowbar",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Freezing water in a spring stream",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Checkpoint ___, Berlin landmark",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "Senator Sinema",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "Some German cars, for short",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "\"Now I get it\"",
+          "clueEnd": 43,
+          "formatted": "\"<i>Now</i> I get it\""
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 30,
+          "value": "Prefix with conservative",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 31,
+          "value": "The \"p\" of m.p.h.",
+          "clueEnd": 45,
+          "formatted": "The &#34;p&#34; of m.p.h."
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "N",
+      "I",
+      "T",
+      "P",
+      "I",
+      "C",
+      "K",
+      "A",
+      "N",
+      "A",
+      "R",
+      "C",
+      "H",
+      "Y",
+      "G",
+      "A",
+      "P",
+      "Y",
+      "E",
+      "A",
+      "R",
+      null,
+      null,
+      null,
+      null,
+      "M",
+      "R",
+      "S",
+      "V",
+      "A",
+      "N",
+      "P",
+      "E",
+      "L",
+      "T",
+      "W",
+      "H",
+      "E",
+      "E",
+      "L",
+      "I",
+      "E",
+      "S",
+      "H",
+      "O",
+      "R",
+      "T",
+      "E",
+      "N"
+    ]
+  }
+}

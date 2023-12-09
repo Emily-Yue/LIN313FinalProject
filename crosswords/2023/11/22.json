@@ -1,0 +1,1010 @@
+{
+  "puzzle_id": 21506,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-11-22",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Will Pfadenhauer",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/11/21/crosswords/daily-puzzle-2023-11-22.html"
+    }
+  },
+  "print_date": "2023-11-22",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Will Pfadenhauer"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Caterpillar, e.g.",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 7,
+          "value": "Owns",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 11,
+          "value": "Rifle filler",
+          "clueEnd": 14,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 15,
+          "value": "Seal the win, so to speak",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 21,
+          "value": "Tuck away",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 26,
+          "value": "Bank offering",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 30,
+          "value": "Xenomorph",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 36,
+          "value": "Actress Fisher of \"Wedding Crashers\"",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 41,
+          "value": "Sorry situations",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 45,
+          "value": "Behave uncontrollably",
+          "clueEnd": 51,
+          "related": {
+            "down": [],
+            "across": [
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 53,
+          "value": "\"Give ___ rest!\"",
+          "clueEnd": 55
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 57,
+          "value": "Not yet determined: Abbr.",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 64,
+          "value": "Exclamation of mild surprise",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 68,
+          "value": "Kind of bikes for stunt riders",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 72,
+          "value": "\"You're as cuddly as a cactus, you're as charming as an ___, Mr. Grinch\"",
+          "clueEnd": 74
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 75,
+          "value": "Stagger with unexpected news, maybe",
+          "clueEnd": 89,
+          "related": {
+            "down": [],
+            "across": [
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 90,
+          "value": "Take ___ at (besmirch)",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 97,
+          "value": "Share again, as a story",
+          "clueEnd": 102
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 105,
+          "value": "Gender-neutral pronoun",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 110,
+          "value": "Semiconductor device",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 116,
+          "value": "Croft of the \"Tomb Raider\" franchise",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 122,
+          "value": "Toy shooters",
+          "clueEnd": 127,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 130,
+          "value": "Word after life or time",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Cause to malfunction",
+          "clueEnd": 149,
+          "related": {
+            "down": [],
+            "across": [
+              53
+            ]
+          }
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 150,
+          "value": "Gardener's tool",
+          "clueEnd": 152,
+          "related": {
+            "down": [],
+            "across": [
+              51
+            ]
+          }
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 154,
+          "value": "Manning of ESPN's \"ManningCast\"",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 158,
+          "value": "Busyness representative?",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 165,
+          "value": "Creation (and rhyme) of 48-Across",
+          "clueEnd": 167,
+          "related": {
+            "down": [],
+            "across": [
+              48
+            ]
+          }
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 169,
+          "value": "___ to pick",
+          "clueEnd": 171
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 173,
+          "value": "Eccentric sort \u2026 or a \"sport\" where one might make the plays at 19-, 27- and 44-Across?",
+          "clueEnd": 179,
+          "related": {
+            "down": [],
+            "across": [
+              19,
+              27,
+              44
+            ]
+          }
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 180,
+          "value": "13th or 15th days, on the Roman calendar",
+          "clueEnd": 183
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 185,
+          "value": "John Jacob Jingleheimer Schmidt, for one",
+          "clueEnd": 188
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 190,
+          "value": "Sits and waits",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "Drive",
+          "clueEnd": 198
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 200,
+          "value": "Mardi ___",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 205,
+          "value": "Dance with a series of spins",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 210,
+          "value": "The \"T\" of 57-Down",
+          "clueEnd": 213,
+          "related": {
+            "down": [
+              57
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 215,
+          "value": "New York Giant known as \"Master Melvin\"",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 220,
+          "value": "Big hotel chain",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "One spewing hogwash",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"Because freedom can't protect itself\" org.",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Pull (in)",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "YouTube unit",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "When Santa and the tooth fairy are most active",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 7,
+          "value": "What's-___-face",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 8,
+          "value": "Went off-script",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 9,
+          "value": "One sharing an armrest",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 11,
+          "value": "Wepner's 1975 opponent in the ring",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 12,
+          "value": "Progressive rock? ",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 13,
+          "value": "Full-bodied red wine",
+          "clueEnd": 88
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 14,
+          "value": "Like Christmas lights after December 25, often",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 21,
+          "value": "Digitally crisp, informally",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 50,
+          "value": "Constellation whose mane and shoulders are known as \"the Sickle\"",
+          "clueEnd": 80,
+          "formatted": "Constellation whose mane and shoulders are known as \"the Sickle\""
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 55,
+          "value": "Rod in a hot rod",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 75,
+          "value": "Edgar Allan Poe owned a black one, appropriately",
+          "clueEnd": 105
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 76,
+          "value": "Wood once used for hockey sticks",
+          "clueEnd": 106
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 77,
+          "value": "Team with a sausage race at every home game",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 78,
+          "value": "Burger, fries and a drink at a special price, e.g.",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 82,
+          "value": "Poet who taught at Amherst College",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 86,
+          "value": "God, in Islam",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 110,
+          "value": "Learning app with an owl mascot",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 111,
+          "value": "Walrus ivory is one traditional medium for it",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 118,
+          "value": "\"Parks and ___\" (NBC sitcom, to fans)",
+          "clueEnd": 148
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 119,
+          "value": "Sanctuary against extinction",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 124,
+          "value": "Singer Stefani",
+          "clueEnd": 169
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 130,
+          "value": "Like krona coins",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Prudence with money",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 136,
+          "value": "Article of cool-weather wear",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 143,
+          "value": "Orchestral group pitched to C",
+          "clueEnd": 203
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 144,
+          "value": "Stoked",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 176,
+          "value": "Candle-lighting occasion, in brief",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 177,
+          "value": "Penne ___ vodka",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 178,
+          "value": "In case",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 179,
+          "value": "Exam for a future A.G.",
+          "clueEnd": 224,
+          "related": {
+            "down": [],
+            "across": [
+              66
+            ]
+          }
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 183,
+          "value": "Solidify",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 187,
+          "value": "It might say \"Welcome\"",
+          "clueEnd": 217
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "L",
+      "A",
+      "R",
+      "V",
+      "A",
+      null,
+      null,
+      "H",
+      "A",
+      "S",
+      null,
+      "A",
+      "M",
+      "M",
+      "O",
+      "I",
+      "C",
+      "E",
+      "I",
+      "T",
+      null,
+      "H",
+      "I",
+      "D",
+      "E",
+      null,
+      "L",
+      "O",
+      "A",
+      "N",
+      "A",
+      "L",
+      "I",
+      "E",
+      "N",
+      null,
+      "I",
+      "S",
+      "L",
+      "A",
+      null,
+      "I",
+      "L",
+      "L",
+      "S",
+      "R",
+      "U",
+      "N",
+      "W",
+      "I",
+      "L",
+      "D",
+      null,
+      "I",
+      "T",
+      "A",
+      null,
+      "T",
+      "B",
+      "A",
+      null,
+      null,
+      null,
+      null,
+      "G",
+      "E",
+      "E",
+      null,
+      "B",
+      "M",
+      "X",
+      null,
+      "E",
+      "E",
+      "L",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "O",
+      "F",
+      "F",
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E",
+      "A",
+      "S",
+      "H",
+      "O",
+      "T",
+      null,
+      null,
+      "R",
+      "E",
+      "T",
+      "E",
+      "L",
+      "L",
+      null,
+      null,
+      "T",
+      "H",
+      "E",
+      "M",
+      null,
+      "D",
+      "I",
+      "O",
+      "D",
+      "E",
+      null,
+      "L",
+      "A",
+      "R",
+      "A",
+      null,
+      null,
+      "B",
+      "B",
+      "G",
+      "U",
+      "N",
+      "S",
+      null,
+      null,
+      "S",
+      "A",
+      "V",
+      "E",
+      "R",
+      "T",
+      "H",
+      "R",
+      "O",
+      "W",
+      "O",
+      "U",
+      "T",
+      "O",
+      "F",
+      "W",
+      "H",
+      "A",
+      "C",
+      "K",
+      "H",
+      "O",
+      "E",
+      null,
+      "E",
+      "L",
+      "I",
+      null,
+      "B",
+      "E",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "R",
+      "O",
+      "W",
+      null,
+      "N",
+      "I",
+      "T",
+      null,
+      "O",
+      "D",
+      "D",
+      "B",
+      "A",
+      "L",
+      "L",
+      "I",
+      "D",
+      "E",
+      "S",
+      null,
+      "N",
+      "A",
+      "M",
+      "E",
+      null,
+      "I",
+      "D",
+      "L",
+      "E",
+      "S",
+      "F",
+      "I",
+      "R",
+      "E",
+      null,
+      "G",
+      "R",
+      "A",
+      "S",
+      null,
+      "S",
+      "A",
+      "L",
+      "S",
+      "A",
+      "T",
+      "E",
+      "S",
+      "T",
+      null,
+      "O",
+      "T",
+      "T",
+      null,
+      null,
+      "H",
+      "Y",
+      "A",
+      "T",
+      "T"
+    ]
+  }
+}

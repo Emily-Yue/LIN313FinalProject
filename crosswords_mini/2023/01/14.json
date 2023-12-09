@@ -1,0 +1,240 @@
+{
+  "puzzle_id": 20837,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-14",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2022, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-14",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Unreturned tennis serve",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Slight problems",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "A.I. bot that was labeled one of 2022's \"Breakthroughs of the Year\"",
+          "clueEnd": 20,
+          "formatted": "A.I. bot that was labeled one of 2022&#39;s &#34;Breakthroughs of the Year&#34;"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Bit of luggage",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 25,
+          "value": "Palindromic cry of celebration",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 28,
+          "value": "Drug that contains psilocybin, informally",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 36,
+          "value": "Goes by boat",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 44,
+          "value": "Honoree on Jan. 16, 2023",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "\"I'm not as active,\" for \"vacation times\"",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Purring pet",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "The \"sunny\" part of sunny-side up",
+          "clueEnd": 46,
+          "formatted": "The &#34;sunny&#34; part of sunny-side up"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Palindromic foreign rulers",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "Sends incessant messages",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Stephen Colbert's employer",
+          "clueEnd": 28,
+          "formatted": "Stephen Colbert&#39;s employer"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Baseball's Cobb and others",
+          "clueEnd": 34,
+          "formatted": "Baseball's Cobb and others"
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 31,
+          "value": "Major export of Saudi Arabia",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      null,
+      null,
+      "S",
+      "N",
+      "A",
+      "G",
+      "S",
+      null,
+      "C",
+      "H",
+      "A",
+      "T",
+      "G",
+      "P",
+      "T",
+      "B",
+      "A",
+      "G",
+      null,
+      "Y",
+      "A",
+      "Y",
+      "S",
+      "H",
+      "R",
+      "O",
+      "O",
+      "M",
+      "S",
+      null,
+      "S",
+      "A",
+      "I",
+      "L",
+      "S",
+      null,
+      null,
+      null,
+      "M",
+      "L",
+      "K",
+      null,
+      null
+    ]
+  }
+}

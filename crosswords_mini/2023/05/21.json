@@ -1,0 +1,155 @@
+{
+  "puzzle_id": 21144,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-21",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-21",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "What bar patrons and basketball players take",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Sum amount",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "\"Straight ___ Compton\" (debut N.W.A. album)",
+          "clueEnd": 14,
+          "formatted": "\"Straight ___ Compton\" (debut N.W.A. album)"
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Completely deplete",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "Presidential stints",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Dark beer",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"The ___ always wins\" (casino mantra)",
+          "clueEnd": 21,
+          "formatted": "&#34;The ___ always wins&#34; (casino mantra)"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Furry aquatic mammal",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Actor Channing of \"Magic Mike\"",
+          "clueEnd": 23,
+          "formatted": "Actor Channing of &#34;Magic Mike&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Is really good, in Gen Z slang",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "S",
+      "H",
+      "O",
+      "T",
+      "S",
+      "T",
+      "O",
+      "T",
+      "A",
+      "L",
+      "O",
+      "U",
+      "T",
+      "T",
+      "A",
+      "U",
+      "S",
+      "E",
+      "U",
+      "P",
+      "T",
+      "E",
+      "R",
+      "M",
+      "S"
+    ]
+  }
+}

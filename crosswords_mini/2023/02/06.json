@@ -1,0 +1,150 @@
+{
+  "puzzle_id": 20925,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-06",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-06",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Hit the bunny slope",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Work ___ (employee's drive)",
+          "clueEnd": 9,
+          "formatted": "Work ___ (employee&#39;s drive)"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Pickle juice",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Hair over the eyes",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Hercules Mulligan's role in the Revolutionary War",
+          "clueEnd": 22,
+          "formatted": "Hercules Mulligan&#39;s role in the Revolutionary War"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Glossy",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "A playing card, a bed size or an N.B.A. player",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Puts a cold pack on",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Recedes, as the tide",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Mouth, informally",
+          "clueEnd": 21
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "S",
+      "K",
+      "I",
+      "E",
+      "T",
+      "H",
+      "I",
+      "C",
+      "B",
+      "R",
+      "I",
+      "N",
+      "E",
+      "B",
+      "A",
+      "N",
+      "G",
+      "S",
+      "S",
+      "P",
+      "Y",
+      null,
+      null
+    ]
+  }
+}

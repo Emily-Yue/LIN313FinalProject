@@ -1,0 +1,150 @@
+{
+  "puzzle_id": 21125,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-05-10",
+    "printDotw": 3,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-05-10",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Pirate's eye cover",
+          "clueEnd": 4,
+          "formatted": "Pirate&#39;s eye cover"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Sound during pollen season",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 10,
+          "value": "Good, in Spanish",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 15,
+          "value": "Small slice of Apple, e.g.",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "Skilled with computers, say",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "___ Blue Ribbon",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Like a less-than-right angle",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Early 2000s Fox show with the theme song \"California\"",
+          "clueEnd": 22,
+          "formatted": "Early 2000s Fox show with the theme song &#34;California&#34;"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Spiral seashell",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Unjustified absence from school",
+          "clueEnd": 24
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "P",
+      "A",
+      "T",
+      "C",
+      "H",
+      "A",
+      "C",
+      "H",
+      "O",
+      "O",
+      "B",
+      "U",
+      "E",
+      "N",
+      "O",
+      "S",
+      "T",
+      "O",
+      "C",
+      "K",
+      "T",
+      "E",
+      "C",
+      "H",
+      "Y"
+    ]
+  }
+}

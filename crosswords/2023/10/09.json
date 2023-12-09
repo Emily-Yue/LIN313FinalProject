@@ -1,0 +1,996 @@
+{
+  "puzzle_id": 21382,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-10-09",
+    "printDotw": 1,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Zachary David Levy",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/10/08/crosswords/daily-puzzle-2023-10-09.html"
+    }
+  },
+  "print_date": "2023-10-09",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Zachary David Levy"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Daddy's daddy",
+          "clueEnd": 5
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Surrounded by",
+          "clueEnd": 10
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "[It's f-f-freezing!]",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Add criticism to criticism",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 22,
+          "value": "K, in the NATO alphabet",
+          "clueEnd": 25
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 27,
+          "value": "Lucy of 2000's \"Charlie's Angels\"",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Vast South American watershed ",
+          "clueEnd": 40,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 42,
+          "value": "Tiebreaker periods, for short",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 48,
+          "value": "Hint",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 53,
+          "value": "Get together to relax and socialize",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Swedish furniture giant",
+          "clueEnd": 63
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 65,
+          "value": "Hand bone",
+          "clueEnd": 74,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 75,
+          "value": "Large country house in ancient Rome",
+          "clueEnd": 79
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 81,
+          "value": "Touch, as on the shoulder",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 86,
+          "value": "___ of Man",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 90,
+          "value": "NBC skit show since 1975, in brief",
+          "clueEnd": 92
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 94,
+          "value": "Coconut tree",
+          "clueEnd": 97
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 99,
+          "value": "\"Delicious!\"",
+          "clueEnd": 101
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 107,
+          "value": "Kitchen gadget",
+          "clueEnd": 117,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 123,
+          "value": "Clairvoyant's gift, for short",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 127,
+          "value": "Pizazz",
+          "clueEnd": 130
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 132,
+          "value": "Sense of wonder",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 135,
+          "value": "Zilch",
+          "clueEnd": 138
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 141,
+          "value": "\"Facts ___ facts\"",
+          "clueEnd": 143
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 145,
+          "value": "Slightly crooked",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 150,
+          "value": "Nietzsche's superior man of the future",
+          "clueEnd": 159,
+          "related": {
+            "down": [],
+            "across": [
+              61
+            ]
+          }
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 161,
+          "value": "Give up",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 165,
+          "value": "Document displayed in a professional's office",
+          "clueEnd": 171
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 173,
+          "value": "Food truck treat in a hard or soft shell",
+          "clueEnd": 176
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 180,
+          "value": "Wedding affirmation",
+          "clueEnd": 182
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 184,
+          "value": "Many a new venture in Silicon Valley \u2026 or a hint to 17-, 26-, 37- and 52-Across",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              26,
+              37,
+              52
+            ]
+          }
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 195,
+          "value": "Moviemaking locale",
+          "clueEnd": 197
+        },
+        {
+          "clueNum": 67,
+          "clueStart": 199,
+          "value": "Pennsylvania port",
+          "clueEnd": 202
+        },
+        {
+          "clueNum": 68,
+          "clueStart": 204,
+          "value": "Nevertheless",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 69,
+          "clueStart": 210,
+          "value": "They work with R.N.s in I.C.U.s",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 70,
+          "clueStart": 214,
+          "value": "Bobcat, by another name ",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 71,
+          "clueStart": 219,
+          "value": "Took a load off",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Transcript fig.",
+          "clueEnd": 30
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Outer edge",
+          "clueEnd": 31
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "In the style of",
+          "clueEnd": 32
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Agave-based liquor",
+          "clueEnd": 78
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Place for a cool dip",
+          "clueEnd": 49
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Per ___ (yearly)",
+          "clueEnd": 65
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Letters before an alias",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Minor snafu",
+          "clueEnd": 83
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Related to a pelvic bone",
+          "clueEnd": 69
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 10,
+          "value": "Disco queen Summer",
+          "clueEnd": 70
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "Baseball hits that barely clear the infield",
+          "clueEnd": 87
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "Doing a crossword every morning, for many",
+          "clueEnd": 88
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Make noise like leaves in the wind",
+          "clueEnd": 89
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 36,
+          "value": "Firefly or ladybug",
+          "clueEnd": 111
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 56,
+          "value": "Dirty buildup",
+          "clueEnd": 116
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 60,
+          "value": "Hosp. hookups",
+          "clueEnd": 90
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 61,
+          "value": "Cousins and such",
+          "clueEnd": 91
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 62,
+          "value": "Jazz singer Fitzgerald",
+          "clueEnd": 107
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 67,
+          "value": "Interferes (with)",
+          "clueEnd": 157
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 79,
+          "value": "iOS downloads",
+          "clueEnd": 124
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 95,
+          "value": "Swiss or Italian peak",
+          "clueEnd": 125
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 99,
+          "value": "Vote of approval",
+          "clueEnd": 129
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 100,
+          "value": "Arm bone beside the radius",
+          "clueEnd": 145
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 108,
+          "value": "Oyster's gem",
+          "clueEnd": 168
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 113,
+          "value": "Puts in office",
+          "clueEnd": 188
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 117,
+          "value": "Tool for fall cleanup",
+          "clueEnd": 162
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 133,
+          "value": "Exchange vows at the altar",
+          "clueEnd": 163
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 134,
+          "value": "Mama sheep",
+          "clueEnd": 164
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 135,
+          "value": "Lifestyle that eschews clothing ",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 136,
+          "value": "Followed, with \"by\"",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 137,
+          "value": "Bus stations",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 141,
+          "value": "Aleve alternative",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 146,
+          "value": "Sports results",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 154,
+          "value": "Overnight option during a car trip",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 155,
+          "value": "___ board (need for a manicurist)",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 159,
+          "value": "Contemptuous sort, in modern parlance",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 175,
+          "value": "Give in under pressure",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 187,
+          "value": "Wizard's curse",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 192,
+          "value": "Explosive inits.",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 193,
+          "value": "Put to work",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 194,
+          "value": "Pea container",
+          "clueEnd": 224
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "G",
+      "R",
+      "A",
+      "M",
+      "P",
+      "A",
+      null,
+      "A",
+      "M",
+      "I",
+      "D",
+      null,
+      "B",
+      "R",
+      "R",
+      "P",
+      "I",
+      "L",
+      "E",
+      "O",
+      "N",
+      null,
+      "K",
+      "I",
+      "L",
+      "O",
+      null,
+      "L",
+      "I",
+      "U",
+      "A",
+      "M",
+      "A",
+      "Z",
+      "O",
+      "N",
+      "B",
+      "A",
+      "S",
+      "I",
+      "N",
+      null,
+      "O",
+      "T",
+      "S",
+      null,
+      null,
+      null,
+      "C",
+      "L",
+      "U",
+      "E",
+      null,
+      "H",
+      "A",
+      "N",
+      "G",
+      "O",
+      "U",
+      "T",
+      "I",
+      "K",
+      "E",
+      "A",
+      null,
+      "M",
+      "E",
+      "T",
+      "A",
+      "C",
+      "A",
+      "R",
+      "P",
+      "A",
+      "L",
+      "V",
+      "I",
+      "L",
+      "L",
+      "A",
+      null,
+      "T",
+      "A",
+      "P",
+      null,
+      null,
+      "I",
+      "S",
+      "L",
+      "E",
+      "S",
+      "N",
+      "L",
+      null,
+      "P",
+      "A",
+      "L",
+      "M",
+      null,
+      "Y",
+      "U",
+      "M",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "P",
+      "E",
+      "E",
+      "L",
+      "E",
+      "R",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "E",
+      "S",
+      "P",
+      null,
+      "E",
+      "L",
+      "A",
+      "N",
+      null,
+      "A",
+      "W",
+      "E",
+      "N",
+      "A",
+      "D",
+      "A",
+      null,
+      null,
+      "A",
+      "R",
+      "E",
+      null,
+      "A",
+      "S",
+      "K",
+      "E",
+      "W",
+      "U",
+      "B",
+      "E",
+      "R",
+      "M",
+      "E",
+      "N",
+      "S",
+      "C",
+      "H",
+      null,
+      "C",
+      "E",
+      "D",
+      "E",
+      "D",
+      "I",
+      "P",
+      "L",
+      "O",
+      "M",
+      "A",
+      null,
+      "T",
+      "A",
+      "C",
+      "O",
+      null,
+      null,
+      null,
+      "I",
+      "D",
+      "O",
+      null,
+      "T",
+      "E",
+      "C",
+      "H",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "U",
+      "P",
+      "S",
+      "E",
+      "T",
+      null,
+      "E",
+      "R",
+      "I",
+      "E",
+      null,
+      "E",
+      "V",
+      "E",
+      "N",
+      "S",
+      "O",
+      "M",
+      "D",
+      "S",
+      null,
+      "L",
+      "Y",
+      "N",
+      "X",
+      null,
+      "R",
+      "E",
+      "S",
+      "T",
+      "E",
+      "D"
+    ]
+  }
+}

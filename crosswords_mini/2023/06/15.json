@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 21217,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-06-15",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-06-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "White ___ (hard seltzer brand)",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Queen of the Olympian gods",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Number of minutes in an hour",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Heavy burden",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "Overly inquisitive",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Pants fabric",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Luxury vehicle that shares the same first two consonants with \"luxury\"",
+          "clueEnd": 22,
+          "formatted": "Luxury vehicle that shares the same first two consonants with \"luxury\""
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Made for a sophisticated audience",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 4,
+          "value": "Route",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "\"Like father, like ___\"",
+          "clueEnd": 20,
+          "formatted": "&#34;Like father, like ___&#34;"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "C",
+      "L",
+      "A",
+      "W",
+      null,
+      "H",
+      "E",
+      "R",
+      "A",
+      "S",
+      "I",
+      "X",
+      "T",
+      "Y",
+      "O",
+      "N",
+      "U",
+      "S",
+      null,
+      "N",
+      "O",
+      "S",
+      "Y",
+      null
+    ]
+  }
+}

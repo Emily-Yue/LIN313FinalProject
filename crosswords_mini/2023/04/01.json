@@ -1,0 +1,234 @@
+{
+  "puzzle_id": 21056,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-04-01",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-04-01",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Saying nothing",
+          "clueEnd": 2
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 7,
+          "value": "Actress ___ de Armas",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 11,
+          "value": "Degree from a creative writing program: Abbr.",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 14,
+          "value": "Tallest U.S. president, at 6'4\"",
+          "clueEnd": 20,
+          "formatted": "Tallest U.S. president, at 6&#39;4&#34;"
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 21,
+          "value": "Closely aware",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "More strange",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 35,
+          "value": "Wallet items, for short",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 39,
+          "value": "Part of a good deal?",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 46,
+          "value": "Evergreen tree with red berries",
+          "clueEnd": 48
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Landlocked country of southeastern Africa",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Airline with hubs in Denver and Newark",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Praying ___ (insect)",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 11,
+          "value": "Often-dreaded part of the week",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 12,
+          "value": "Lamb's coat",
+          "clueEnd": 47,
+          "formatted": "Lamb&#39;s coat"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 13,
+          "value": "President Jackson or Johnson",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 17,
+          "value": "Mean dog",
+          "clueEnd": 31
+        }
+      ]
+    },
+    "layout": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "M",
+      "U",
+      "M",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "N",
+      "A",
+      null,
+      "M",
+      "F",
+      "A",
+      "L",
+      "I",
+      "N",
+      "C",
+      "O",
+      "L",
+      "N",
+      "A",
+      "T",
+      "T",
+      "U",
+      "N",
+      "E",
+      "D",
+      "W",
+      "E",
+      "I",
+      "R",
+      "D",
+      "E",
+      "R",
+      "I",
+      "D",
+      "S",
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      null,
+      null,
+      null,
+      "Y",
+      "E",
+      "W"
+    ]
+  }
+}

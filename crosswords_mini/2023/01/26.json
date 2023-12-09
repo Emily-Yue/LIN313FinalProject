@@ -1,0 +1,125 @@
+{
+  "puzzle_id": 20892,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-26",
+    "printDotw": 4,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 4,
+    "width": 4,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-26",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Capital of Norway",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Cheer (on)",
+          "clueEnd": 7
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 8,
+          "value": "Chimney grime",
+          "clueEnd": 11
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 12,
+          "value": "\"Hold ___ your hat!\"",
+          "clueEnd": 15,
+          "formatted": "&#34;Hold ___ your hat!&#34;"
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Approximately",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "In a moment",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Pirate's plunder",
+          "clueEnd": 14,
+          "formatted": "Pirate&#39;s plunder"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "\"A Man Called ___\" (Tom Hanks movie)",
+          "clueEnd": 15,
+          "formatted": "\"A Man Called ___\" (Tom Hanks movie)"
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "O",
+      "S",
+      "L",
+      "O",
+      "R",
+      "O",
+      "O",
+      "T",
+      "S",
+      "O",
+      "O",
+      "T",
+      "O",
+      "N",
+      "T",
+      "O"
+    ]
+  }
+}

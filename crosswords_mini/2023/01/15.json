@@ -1,0 +1,154 @@
+{
+  "puzzle_id": 20516,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-01-15",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2022, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-01-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Cul-de-___",
+          "clueEnd": 3
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Score in the upper 90s",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "Kind of cold brew coffee",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "The apostrophes in :''''(",
+          "clueEnd": 19,
+          "formatted": "The apostrophes in :''''("
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Not sweet, as wine",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 1,
+          "value": "Worked for the C.I.A., maybe",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 2,
+          "value": "Wedding site",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 3,
+          "value": "Basketball superstar Steph",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Bug in \"A Bug's Life\"",
+          "clueEnd": 15,
+          "formatted": "Bug in &#34;A Bug&#39;s Life&#34;"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Signal from a marooned boat",
+          "clueEnd": 19
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      "S",
+      "A",
+      "C",
+      null,
+      "A",
+      "P",
+      "L",
+      "U",
+      "S",
+      "N",
+      "I",
+      "T",
+      "R",
+      "O",
+      "T",
+      "E",
+      "A",
+      "R",
+      "S",
+      null,
+      "D",
+      "R",
+      "Y",
+      null
+    ]
+  }
+}

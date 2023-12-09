@@ -1,0 +1,153 @@
+{
+  "puzzle_id": 20994,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-06",
+    "printDotw": 1,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-06",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "\"You've got to be kidding me,\" in texts",
+          "clueEnd": 4,
+          "formatted": "&#34;You&#39;ve got to be kidding me,&#34; in texts"
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "Ski resort area on the California/Nevada border",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 10,
+          "value": "In the slightest",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 15,
+          "value": "Worked in Python or Java, say",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 20,
+          "value": "First digit of pi after the decimal point",
+          "clueEnd": 22
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Criticism, slangily",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Inside informant",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Grasped",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 5,
+          "value": "___ Bell (fast-food chain)",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 6,
+          "value": "Boatload ... or literally, 2,000 pounds",
+          "clueEnd": 21
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "S",
+      "M",
+      "H",
+      "T",
+      "A",
+      "H",
+      "O",
+      "E",
+      "A",
+      "T",
+      "A",
+      "L",
+      "L",
+      "C",
+      "O",
+      "D",
+      "E",
+      "D",
+      "O",
+      "N",
+      "E",
+      null,
+      null
+    ]
+  }
+}

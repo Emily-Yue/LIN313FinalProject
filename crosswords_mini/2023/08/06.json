@@ -1,0 +1,161 @@
+{
+  "puzzle_id": 21327,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-08-06",
+    "printDotw": 0,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-08-06",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "First responder to an accident: Abbr.",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Opposite of rapid",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "With 6-Across, rapids",
+          "clueEnd": 14,
+          "related": {
+            "down": [],
+            "across": [
+              6
+            ]
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "See 5-Across",
+          "clueEnd": 19,
+          "related": {
+            "down": [],
+            "across": [
+              5
+            ]
+          }
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Term for a young otter or wolf",
+          "clueEnd": 24
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "In the upper echelon",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Roadside inn",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Little whippersnapper",
+          "clueEnd": 24
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Former ruler of Iran",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "It follows \"//\" in a URL",
+          "clueEnd": 20,
+          "formatted": "It follows &#34;//&#34; in a URL"
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      null,
+      null,
+      "E",
+      "M",
+      "T",
+      null,
+      "S",
+      "L",
+      "O",
+      "W",
+      "W",
+      "H",
+      "I",
+      "T",
+      "E",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "W",
+      "H",
+      "E",
+      "L",
+      "P"
+    ]
+  }
+}

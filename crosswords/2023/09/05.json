@@ -1,0 +1,999 @@
+{
+  "puzzle_id": 21243,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-09-05",
+    "printDotw": 2,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Alan Siegel",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/09/04/crosswords/daily-puzzle-2023-09-05.html"
+    }
+  },
+  "print_date": "2023-09-05",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Alan Siegel"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Island group that straddles the International Date Line",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Performing pair",
+          "clueEnd": 8
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Disney's futuristic theme park",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 15,
+          "value": "Orange-and-white-striped swimmers that lure prey to 5-Downs",
+          "clueEnd": 23,
+          "related": {
+            "down": [
+              5
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 25,
+          "value": "Spice in pumpkin spice",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Drilling deals",
+          "clueEnd": 38
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 40,
+          "value": "Hell",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 45,
+          "value": "Exchanged rings, say",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 49,
+          "value": "Audio device that's tap-tap-tapped",
+          "clueEnd": 51
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 53,
+          "value": "Coal carrier",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 63,
+          "value": "Figures advised by consiglieres",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 69,
+          "value": "King beater",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 75,
+          "value": "It's done in the short run",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 82,
+          "value": "\"Hitchhiker\" whose warning cries help a 31-Down avoid poachers",
+          "clueEnd": 89,
+          "related": {
+            "down": [
+              31
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 90,
+          "value": "Knighted actor Michael",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 96,
+          "value": "Big beer buy",
+          "clueEnd": 99
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 101,
+          "value": "Dos x cuatro",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 105,
+          "value": "Path of a meteor in the sky",
+          "clueEnd": 107
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 110,
+          "value": "Had the ability",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 117,
+          "value": "\"___ for apple\"",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 120,
+          "value": "Moray's habitat",
+          "clueEnd": 123
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 125,
+          "value": "Arm wrestler's bone of contention?",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 130,
+          "value": "Informal \"Shall we \u2026?\"",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Nocturnal flier that disperses seeds of a 40-Down",
+          "clueEnd": 142,
+          "related": {
+            "down": [
+              40
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 144,
+          "value": "Laser pointer or yarn ball, maybe",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 153,
+          "value": "College sr.'s next hurdle, perhaps",
+          "clueEnd": 155
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 158,
+          "value": "Brazilian named \"Athlete of the Century\" by the International Olympic Committee",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 165,
+          "value": "Milk sugar",
+          "clueEnd": 171
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 173,
+          "value": "On ___ fours",
+          "clueEnd": 175
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 177,
+          "value": "Host of an annual N.Y.C. gala, with \"the\"",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 180,
+          "value": "Problem for a motorist or stylist",
+          "clueEnd": 184
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 186,
+          "value": "Optical device with segmented mirrors",
+          "clueEnd": 194
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 195,
+          "value": "Photographer Adams",
+          "clueEnd": 199
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 201,
+          "value": "Mutually beneficial \u2026 or a hint to three pairs of crossing answers in this puzzle",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 210,
+          "value": "\"Absolutely!,\" in slang",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 216,
+          "value": "\"Absolutely!\" ",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 220,
+          "value": "One of many in a dictionary's thumb index",
+          "clueEnd": 224
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Trash-hauling boat",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"That's ___!\" (\"Not so!\")",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Foundry receptacle ",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Barn hooter",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Stinging sea creature that offers protection to 14-Across",
+          "clueEnd": 94,
+          "related": {
+            "down": [],
+            "across": [
+              14
+            ]
+          }
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 6,
+          "value": "Some of these are compact",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 7,
+          "value": "Put into practice",
+          "clueEnd": 37
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 8,
+          "value": "Very, very",
+          "clueEnd": 53
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 10,
+          "value": "Payment sans ink and paper",
+          "clueEnd": 85
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 11,
+          "value": "Inactive pill, maybe",
+          "clueEnd": 101
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 12,
+          "value": "End piece?",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 13,
+          "value": "___ easy",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 14,
+          "value": "Midterm, e.g.",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 20,
+          "value": "Barely there",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 54,
+          "value": "Was in a rush",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 63,
+          "value": "Noisy clattering",
+          "clueEnd": 93
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 75,
+          "value": "Inhale, as dinner",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 76,
+          "value": "Apple tool ",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 77,
+          "value": "Houston sch.",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 82,
+          "value": "Poke fun at",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 83,
+          "value": "Tenerife, por ejemplo",
+          "clueEnd": 128
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 87,
+          "value": "\"Sorry, too busy\" ",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 88,
+          "value": "Horned grazer that provides mite meals to a 28-Across",
+          "clueEnd": 148,
+          "related": {
+            "down": [],
+            "across": [
+              28
+            ]
+          }
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 89,
+          "value": "\"Ooh, tell us everything!\"",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 96,
+          "value": "Certain soda pop",
+          "clueEnd": 141
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 110,
+          "value": "Rubik's toys",
+          "clueEnd": 170
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 123,
+          "value": "Ficus that produces sweets favored by a 44-Across",
+          "clueEnd": 213,
+          "related": {
+            "down": [],
+            "across": [
+              44
+            ]
+          }
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 130,
+          "value": "Encloses with bricks, e.g.",
+          "clueEnd": 220
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 131,
+          "value": "Feasted",
+          "clueEnd": 161
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 139,
+          "value": "Toll collectors of folklore",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 144,
+          "value": "A-lister",
+          "clueEnd": 204
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 158,
+          "value": "Lifeline locales",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 165,
+          "value": "Future atty.'s hurdle",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 166,
+          "value": "The \"A\" in A.D.",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 167,
+          "value": "Toss out a line and lure",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 171,
+          "value": "\"Keep commerce human\" website",
+          "clueEnd": 216
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 177,
+          "value": "Big name in applesauce",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 178,
+          "value": "Grand in scale",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 179,
+          "value": "PC crash fixer",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 187,
+          "value": "Cat's-___",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 191,
+          "value": "Dove's call",
+          "clueEnd": 221
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "S",
+      "A",
+      "M",
+      "O",
+      "A",
+      null,
+      "D",
+      "U",
+      "O",
+      null,
+      "E",
+      "P",
+      "C",
+      "O",
+      "T",
+      "C",
+      "L",
+      "O",
+      "W",
+      "N",
+      "F",
+      "I",
+      "S",
+      "H",
+      null,
+      "C",
+      "L",
+      "O",
+      "V",
+      "E",
+      "O",
+      "I",
+      "L",
+      "L",
+      "E",
+      "A",
+      "S",
+      "E",
+      "S",
+      null,
+      "H",
+      "A",
+      "D",
+      "E",
+      "S",
+      "W",
+      "E",
+      "D",
+      null,
+      "M",
+      "I",
+      "C",
+      null,
+      "O",
+      "R",
+      "E",
+      "C",
+      "A",
+      "R",
+      "T",
+      null,
+      null,
+      null,
+      "D",
+      "O",
+      "N",
+      "S",
+      null,
+      null,
+      "A",
+      "C",
+      "E",
+      null,
+      null,
+      null,
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "T",
+      null,
+      "T",
+      "I",
+      "C",
+      "K",
+      "B",
+      "I",
+      "R",
+      "D",
+      "C",
+      "A",
+      "I",
+      "N",
+      "E",
+      null,
+      "C",
+      "A",
+      "S",
+      "E",
+      null,
+      "O",
+      "C",
+      "H",
+      "O",
+      "A",
+      "R",
+      "C",
+      null,
+      null,
+      "C",
+      "O",
+      "U",
+      "L",
+      "D",
+      null,
+      null,
+      "A",
+      "I",
+      "S",
+      "R",
+      "E",
+      "E",
+      "F",
+      null,
+      "U",
+      "L",
+      "N",
+      "A",
+      null,
+      "W",
+      "A",
+      "N",
+      "N",
+      "A",
+      "F",
+      "R",
+      "U",
+      "I",
+      "T",
+      "B",
+      "A",
+      "T",
+      null,
+      "C",
+      "A",
+      "T",
+      "T",
+      "O",
+      "Y",
+      null,
+      null,
+      null,
+      "G",
+      "R",
+      "E",
+      null,
+      null,
+      "P",
+      "E",
+      "L",
+      "E",
+      null,
+      null,
+      null,
+      "L",
+      "A",
+      "C",
+      "T",
+      "O",
+      "S",
+      "E",
+      null,
+      "A",
+      "L",
+      "L",
+      null,
+      "M",
+      "E",
+      "T",
+      "S",
+      "N",
+      "A",
+      "R",
+      "L",
+      null,
+      "T",
+      "E",
+      "L",
+      "E",
+      "S",
+      "C",
+      "O",
+      "P",
+      "E",
+      "A",
+      "N",
+      "S",
+      "E",
+      "L",
+      null,
+      "S",
+      "Y",
+      "M",
+      "B",
+      "I",
+      "O",
+      "T",
+      "I",
+      "C",
+      "T",
+      "O",
+      "T",
+      "E",
+      "S",
+      null,
+      "Y",
+      "E",
+      "S",
+      null,
+      "N",
+      "O",
+      "T",
+      "C",
+      "H"
+    ]
+  }
+}

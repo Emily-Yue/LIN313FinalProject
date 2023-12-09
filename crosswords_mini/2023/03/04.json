@@ -1,0 +1,251 @@
+{
+  "puzzle_id": 20988,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-03-04",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 8,
+    "width": 6,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-03-04",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "\"___ away\" (RuPaul catchphrase)",
+          "clueEnd": 5,
+          "formatted": "&#34;___ away&#34; (RuPaul catchphrase)"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "Small recess in a room",
+          "clueEnd": 11
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 12,
+          "value": "Fruit-flavored ice dessert",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 18,
+          "value": "Wild guess",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 26,
+          "value": "Villain in the \"Back to the Future\" movies",
+          "clueEnd": 29,
+          "formatted": "Villain in the &#34;Back to the Future&#34; movies"
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 30,
+          "value": "Not obvious",
+          "clueEnd": 35
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 36,
+          "value": "Remove dishes from the dishwasher",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 42,
+          "value": "Candle options",
+          "clueEnd": 47
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Answer with attitude",
+          "clueEnd": 18
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Tons and tons",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Game in which Q and Z are worth 10",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "New Zealand tourist attraction for \"Lord of the Rings\" fans",
+          "clueEnd": 45,
+          "formatted": "New Zealand tourist attraction for &#34;Lord of the Rings&#34; fans"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Street crosser, for short",
+          "clueEnd": 16
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Up 'til now",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "\u266d",
+          "clueEnd": 46,
+          "formatted": "\u266d"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "Government agents",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 30,
+          "value": "Shady and untrustworthy, in modern lingo",
+          "clueEnd": 42
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 31,
+          "value": "Tar Heels' sch.",
+          "clueEnd": 43,
+          "formatted": "Tar Heels&#39; sch."
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "S",
+      "A",
+      "S",
+      "H",
+      "A",
+      "Y",
+      "A",
+      "L",
+      "C",
+      "O",
+      "V",
+      "E",
+      "S",
+      "O",
+      "R",
+      "B",
+      "E",
+      "T",
+      "S",
+      "T",
+      "A",
+      "B",
+      null,
+      null,
+      null,
+      null,
+      "B",
+      "I",
+      "F",
+      "F",
+      "S",
+      "U",
+      "B",
+      "T",
+      "L",
+      "E",
+      "U",
+      "N",
+      "L",
+      "O",
+      "A",
+      "D",
+      "S",
+      "C",
+      "E",
+      "N",
+      "T",
+      "S"
+    ]
+  }
+}

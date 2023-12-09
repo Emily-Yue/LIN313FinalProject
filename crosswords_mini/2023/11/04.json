@@ -1,0 +1,225 @@
+{
+  "puzzle_id": 21522,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-04",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-04",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Heaviest flying bird in North America",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Cause soreness by rubbing",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Pac-Man's pursuers",
+          "clueEnd": 20,
+          "formatted": "Pac-Man&#39;s pursuers"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 21,
+          "value": "Play directors?",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 28,
+          "value": "High schooler's place to store textbooks",
+          "clueEnd": 33,
+          "formatted": "High schooler&#39;s place to store textbooks"
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 35,
+          "value": "Tapped, as a cigarette",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 42,
+          "value": "Bottom-heavy fruit",
+          "clueEnd": 45
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "\"Who could have seen that coming?,\" sarcastically",
+          "clueEnd": 45,
+          "formatted": "&#34;Who could have seen that coming?,&#34; sarcastically"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 4,
+          "value": "Past one's prime, in slang",
+          "clueEnd": 39,
+          "formatted": "Past one&#39;s prime, in slang"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 5,
+          "value": "Not before or during",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Loch ___ monster",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Cuban dance with a repetitive name",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "\"Duck, duck\" follower",
+          "clueEnd": 43,
+          "formatted": "&#34;Duck, duck&#34; follower"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 21,
+          "value": "Put your hands together",
+          "clueEnd": 42
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      null,
+      "S",
+      "W",
+      "A",
+      "N",
+      null,
+      null,
+      "C",
+      "H",
+      "A",
+      "F",
+      "E",
+      null,
+      "G",
+      "H",
+      "O",
+      "S",
+      "T",
+      "S",
+      "C",
+      "O",
+      "A",
+      "C",
+      "H",
+      "E",
+      "S",
+      "L",
+      "O",
+      "C",
+      "K",
+      "E",
+      "R",
+      null,
+      "A",
+      "S",
+      "H",
+      "E",
+      "D",
+      null,
+      null,
+      "P",
+      "E",
+      "A",
+      "R",
+      null,
+      null,
+      null
+    ]
+  }
+}

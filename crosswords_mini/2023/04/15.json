@@ -1,0 +1,240 @@
+{
+  "puzzle_id": 21070,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-04-15",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-04-15",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Professor Dumbledore of the Harry Potter books",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 7,
+          "value": "Opposite of later",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 14,
+          "value": "Loaded ice cream desserts",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 23,
+          "value": "Cross swords",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "Barbershop service",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 35,
+          "value": "One who might look up and say \"Duck!\"",
+          "clueEnd": 40,
+          "formatted": "One who might look up and say &#34;Duck!&#34;"
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 42,
+          "value": "Black-and-white snacks",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Donkey, by another name",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "\"Skip to My ___\" (old folk song)",
+          "clueEnd": 15,
+          "formatted": "\"Skip to My ___\" (old folk song)"
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Big blaze",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Not cook for long enough",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Spirited meetings?",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 12,
+          "value": "Happen again",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 20,
+          "value": "\"Ready, ___, go!\"",
+          "clueEnd": 34,
+          "formatted": "&#34;Ready, ___, go!&#34;"
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 28,
+          "value": "\"Succession\" network",
+          "clueEnd": 42,
+          "formatted": "&#34;Succession&#34; network"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 29,
+          "value": "Put on TV",
+          "clueEnd": 43
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      "A",
+      "L",
+      "B",
+      "U",
+      "S",
+      null,
+      null,
+      "S",
+      "O",
+      "O",
+      "N",
+      "E",
+      "R",
+      null,
+      "S",
+      "U",
+      "N",
+      "D",
+      "A",
+      "E",
+      "S",
+      null,
+      null,
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "H",
+      "A",
+      "I",
+      "R",
+      "C",
+      "U",
+      "T",
+      "B",
+      "I",
+      "R",
+      "D",
+      "E",
+      "R",
+      null,
+      "O",
+      "R",
+      "E",
+      "O",
+      "S",
+      null,
+      null
+    ]
+  }
+}

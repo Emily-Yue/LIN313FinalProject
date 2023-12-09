@@ -1,0 +1,149 @@
+{
+  "puzzle_id": 21439,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-09-19",
+    "printDotw": 2,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 5,
+    "width": 5,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-09-19",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Original airer of Monty Python skits",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "F, on a gauge",
+          "clueEnd": 9
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Actor Jason of \"Aquaman\" and \"Dune\"",
+          "clueEnd": 14,
+          "formatted": "Actor Jason of &#34;Aquaman&#34; and &#34;Dune&#34;"
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "E, on a gauge",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "Throw in the garbage",
+          "clueEnd": 23
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Volleyball passes",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Images on Rorschach tests",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Sculpting medium",
+          "clueEnd": 19
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Feeling after skipping a social event, for short",
+          "clueEnd": 21
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 10,
+          "value": "Convened",
+          "clueEnd": 20
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "B",
+      "B",
+      "C",
+      null,
+      "F",
+      "U",
+      "L",
+      "L",
+      "M",
+      "O",
+      "M",
+      "O",
+      "A",
+      "E",
+      "M",
+      "P",
+      "T",
+      "Y",
+      "T",
+      "O",
+      "S",
+      "S",
+      null
+    ]
+  }
+}

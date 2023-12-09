@@ -1,0 +1,221 @@
+{
+  "puzzle_id": 20926,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-02-04",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-02-04",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Slightly wet",
+          "clueEnd": 6
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Off-limits for discussion",
+          "clueEnd": 13
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Cable news header",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 21,
+          "value": "Place to store alcohol at home",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 28,
+          "value": "Starting squads",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 35,
+          "value": "50 are found on the U.S. flag",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 42,
+          "value": "Jekyll and ___",
+          "clueEnd": 45
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 3,
+          "value": "Small business, of a sort?",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 4,
+          "value": "Stacey of Georgia politics",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 5,
+          "value": "Ties up, as a boat",
+          "clueEnd": 33
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 6,
+          "value": "Paris's ___ Neuf",
+          "clueEnd": 27,
+          "formatted": "Paris&#39;s ___ Neuf"
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 9,
+          "value": "Series of related tweets",
+          "clueEnd": 44
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 15,
+          "value": "Like spiteful, gossipy comments",
+          "clueEnd": 43
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 21,
+          "value": "Big party",
+          "clueEnd": 42
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      null,
+      "D",
+      "A",
+      "M",
+      "P",
+      null,
+      null,
+      "T",
+      "A",
+      "B",
+      "O",
+      "O",
+      null,
+      "C",
+      "H",
+      "Y",
+      "R",
+      "O",
+      "N",
+      "B",
+      "A",
+      "R",
+      "C",
+      "A",
+      "R",
+      "T",
+      "A",
+      "T",
+      "E",
+      "A",
+      "M",
+      "S",
+      null,
+      "S",
+      "T",
+      "A",
+      "R",
+      "S",
+      null,
+      null,
+      "H",
+      "Y",
+      "D",
+      "E",
+      null,
+      null,
+      null
+    ]
+  }
+}

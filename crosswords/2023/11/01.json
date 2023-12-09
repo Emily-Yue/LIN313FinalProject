@@ -1,0 +1,1022 @@
+{
+  "puzzle_id": 21428,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Daily",
+    "title": "",
+    "printDate": "2023-11-01",
+    "printDotw": 3,
+    "editor": "Will Shortz",
+    "copyright": "",
+    "height": 15,
+    "width": 15,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Steve Weyer",
+    "relatedContent": {
+      "text": "Read and comment on the Wordplay blog",
+      "url": "https://www.nytimes.com/2023/10/31/crosswords/daily-puzzle-2023-11-01.html"
+    }
+  },
+  "print_date": "2023-11-01",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Steve Weyer"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "What a cat's meow might mean",
+          "clueEnd": 7
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Starchless, as some foods",
+          "clueEnd": 14
+        },
+        {
+          "clueNum": 15,
+          "clueStart": 15,
+          "value": "Peak in the Hawaiian-Emperor seamount chain",
+          "clueEnd": 22
+        },
+        {
+          "clueNum": 16,
+          "clueStart": 24,
+          "value": "1957's \"Attack of the Crab Monsters,\" for one",
+          "clueEnd": 29
+        },
+        {
+          "clueNum": 17,
+          "clueStart": 30,
+          "value": "Actor Sean does some things that aren't nice",
+          "clueEnd": 44,
+          "related": {
+            "down": [],
+            "across": [
+              66
+            ]
+          },
+          "formatted": "<i>Actor Sean does some things that aren't nice</i>"
+        },
+        {
+          "clueNum": 19,
+          "clueStart": 45,
+          "value": "What Odysseus was bound to during the sirens' song",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 20,
+          "clueStart": 50,
+          "value": "Turner with many Grammys",
+          "clueEnd": 53,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 21,
+          "clueStart": 56,
+          "value": "Feature of some Indian music",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 64,
+          "value": "Role-play",
+          "clueEnd": 66
+        },
+        {
+          "clueNum": 23,
+          "clueStart": 68,
+          "value": "Sierra runners",
+          "clueEnd": 71
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 75,
+          "value": "Silent film star Bara didn't want to leave us",
+          "clueEnd": 89,
+          "related": {
+            "down": [],
+            "across": [
+              66
+            ]
+          },
+          "formatted": "<i>Silent film star Bara didn't want to leave us</i>"
+        },
+        {
+          "clueNum": 34,
+          "clueStart": 90,
+          "value": "Little shots?",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 35,
+          "clueStart": 97,
+          "value": "Vintage Camaro owner's boast?",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 36,
+          "clueStart": 102,
+          "value": "___ Day (May 1, in Hawaii)",
+          "clueEnd": 104
+        },
+        {
+          "clueNum": 37,
+          "clueStart": 105,
+          "value": "Break",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 110,
+          "value": "An artist might blow it",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 116,
+          "value": "Carpe ___",
+          "clueEnd": 119
+        },
+        {
+          "clueNum": 41,
+          "clueStart": 120,
+          "value": "Half dos",
+          "clueEnd": 122
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 124,
+          "value": "California's ___ Woods National Monument",
+          "clueEnd": 127
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 130,
+          "value": "Firm refusal",
+          "clueEnd": 134
+        },
+        {
+          "clueNum": 44,
+          "clueStart": 135,
+          "value": "Artist \u00c9douard mistakenly proposed 11:00",
+          "clueEnd": 149,
+          "related": {
+            "down": [],
+            "across": [
+              66
+            ]
+          },
+          "formatted": "<i>Artist \u00c9douard mistakenly proposed 11:00</i>"
+        },
+        {
+          "clueNum": 48,
+          "clueStart": 153,
+          "value": "TV detective Bosch's former org.",
+          "clueEnd": 156
+        },
+        {
+          "clueNum": 49,
+          "clueStart": 158,
+          "value": "Sites for some docs",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 165,
+          "value": "Touch",
+          "clueEnd": 168
+        },
+        {
+          "clueNum": 53,
+          "clueStart": 171,
+          "value": "Cut-off pants?",
+          "clueEnd": 174
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 176,
+          "value": "Hand over",
+          "clueEnd": 179
+        },
+        {
+          "clueNum": 59,
+          "clueStart": 180,
+          "value": "Fictional lawyer Perry cries \"I give!\"",
+          "clueEnd": 194,
+          "related": {
+            "down": [],
+            "across": [
+              66
+            ]
+          },
+          "formatted": "<i>Fictional lawyer Perry cries \"I give!\"</i>"
+        },
+        {
+          "clueNum": 63,
+          "clueStart": 195,
+          "value": "Peninsula south of the Pyrenees",
+          "clueEnd": 200,
+          "related": {
+            "down": [],
+            "across": [
+              65
+            ]
+          }
+        },
+        {
+          "clueNum": 64,
+          "clueStart": 202,
+          "value": "Differentiate",
+          "clueEnd": 209
+        },
+        {
+          "clueNum": 65,
+          "clueStart": 210,
+          "value": "Explorer from 63-Across",
+          "clueEnd": 215,
+          "related": {
+            "down": [],
+            "across": [
+              63,
+              63
+            ]
+          }
+        },
+        {
+          "clueNum": 66,
+          "clueStart": 217,
+          "value": "1545 treatise whose rearranged letters aptly suggest 17-, 26-, 44- and 59-Across",
+          "clueEnd": 224,
+          "related": {
+            "down": [],
+            "across": [
+              17,
+              26,
+              44,
+              59
+            ]
+          }
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 0,
+          "value": "Prayer leader",
+          "clueEnd": 45
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 1,
+          "value": "Tamale dough",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 2,
+          "value": "Rustic refuges",
+          "clueEnd": 47
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 3,
+          "value": "Storage ___",
+          "clueEnd": 48
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 4,
+          "value": "Photographer Goldin",
+          "clueEnd": 34
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 5,
+          "value": "Procedural flaw",
+          "clueEnd": 80
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 6,
+          "value": "Elmo's turquoise amiga",
+          "clueEnd": 81
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 7,
+          "value": "\"Life of Pi\" novelist Martel",
+          "clueEnd": 52
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 9,
+          "value": "Trail Blazers' org.",
+          "clueEnd": 39
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 10,
+          "value": "Meditation sounds",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 11,
+          "value": "Rough",
+          "clueEnd": 86
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 12,
+          "value": "Alternative to Reebok",
+          "clueEnd": 57
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 13,
+          "value": "Hobbit Frodo's cloaking device",
+          "clueEnd": 58
+        },
+        {
+          "clueNum": 14,
+          "clueStart": 14,
+          "value": "Test version",
+          "clueEnd": 59
+        },
+        {
+          "clueNum": 18,
+          "clueStart": 38,
+          "value": "Wild horses couldn't drag them away, presumably",
+          "clueEnd": 113
+        },
+        {
+          "clueNum": 22,
+          "clueStart": 64,
+          "value": "Some remote batteries",
+          "clueEnd": 94
+        },
+        {
+          "clueNum": 24,
+          "clueStart": 69,
+          "value": "Bothers",
+          "clueEnd": 114
+        },
+        {
+          "clueNum": 25,
+          "clueStart": 70,
+          "value": "Govt. health agency",
+          "clueEnd": 100
+        },
+        {
+          "clueNum": 26,
+          "clueStart": 75,
+          "value": "Hum monotonously",
+          "clueEnd": 135
+        },
+        {
+          "clueNum": 27,
+          "clueStart": 76,
+          "value": "Spotted scavenger",
+          "clueEnd": 136
+        },
+        {
+          "clueNum": 28,
+          "clueStart": 77,
+          "value": "Printer brand",
+          "clueEnd": 137
+        },
+        {
+          "clueNum": 29,
+          "clueStart": 78,
+          "value": "What's the point?",
+          "clueEnd": 108
+        },
+        {
+          "clueNum": 30,
+          "clueStart": 82,
+          "value": "Heady weapon wielded by Wonder Woman?",
+          "clueEnd": 142
+        },
+        {
+          "clueNum": 31,
+          "clueStart": 87,
+          "value": "Sync up",
+          "clueEnd": 147
+        },
+        {
+          "clueNum": 32,
+          "clueStart": 88,
+          "value": "\"The Brandon ___ Story\" (1998 documentary)",
+          "clueEnd": 148,
+          "related": {
+            "down": [],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 33,
+          "clueStart": 89,
+          "value": "Handmade sign at a stadium",
+          "clueEnd": 149
+        },
+        {
+          "clueNum": 38,
+          "clueStart": 110,
+          "value": "\"Forrest ___\"",
+          "clueEnd": 155,
+          "related": {
+            "down": [
+              62
+            ],
+            "across": []
+          }
+        },
+        {
+          "clueNum": 39,
+          "clueStart": 111,
+          "value": "Misled",
+          "clueEnd": 186
+        },
+        {
+          "clueNum": 40,
+          "clueStart": 116,
+          "value": "One of five in Yahtzee",
+          "clueEnd": 146
+        },
+        {
+          "clueNum": 42,
+          "clueStart": 124,
+          "value": "Underground org. of New York",
+          "clueEnd": 154
+        },
+        {
+          "clueNum": 43,
+          "clueStart": 130,
+          "value": "\"Dynamite\" K-pop group",
+          "clueEnd": 160
+        },
+        {
+          "clueNum": 45,
+          "clueStart": 138,
+          "value": "Six Flags ride named for a powerful animal",
+          "clueEnd": 213
+        },
+        {
+          "clueNum": 46,
+          "clueStart": 143,
+          "value": "Lunchtime tryst",
+          "clueEnd": 218
+        },
+        {
+          "clueNum": 47,
+          "clueStart": 144,
+          "value": "Entities holding property",
+          "clueEnd": 219
+        },
+        {
+          "clueNum": 50,
+          "clueStart": 165,
+          "value": "Within",
+          "clueEnd": 210
+        },
+        {
+          "clueNum": 51,
+          "clueStart": 166,
+          "value": "Bunyan's ox or Hoggett's pig",
+          "clueEnd": 211
+        },
+        {
+          "clueNum": 52,
+          "clueStart": 167,
+          "value": "Applications",
+          "clueEnd": 212
+        },
+        {
+          "clueNum": 54,
+          "clueStart": 172,
+          "value": "Tabula ___",
+          "clueEnd": 217
+        },
+        {
+          "clueNum": 55,
+          "clueStart": 176,
+          "value": "Manilow's \"hottest spot north of Havana,\" informally",
+          "clueEnd": 221
+        },
+        {
+          "clueNum": 56,
+          "clueStart": 177,
+          "value": "Online zine",
+          "clueEnd": 222
+        },
+        {
+          "clueNum": 57,
+          "clueStart": 178,
+          "value": "Swear to mend things?",
+          "clueEnd": 223
+        },
+        {
+          "clueNum": 58,
+          "clueStart": 179,
+          "value": "\"C\u00f3mo ___ usted?\"",
+          "clueEnd": 224
+        },
+        {
+          "clueNum": 60,
+          "clueStart": 184,
+          "value": "Minor fault",
+          "clueEnd": 214
+        },
+        {
+          "clueNum": 61,
+          "clueStart": 185,
+          "value": "Long March leader",
+          "clueEnd": 215
+        },
+        {
+          "clueNum": 62,
+          "clueStart": 190,
+          "value": "Where 38-Down served, for short",
+          "clueEnd": 220,
+          "related": {
+            "down": [
+              38,
+              38
+            ],
+            "across": []
+          }
+        }
+      ]
+    },
+    "clueListOrder": [
+      "Across",
+      "Down"
+    ],
+    "layout": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      "I",
+      "M",
+      "H",
+      "U",
+      "N",
+      "G",
+      "R",
+      "Y",
+      null,
+      "N",
+      "O",
+      "C",
+      "A",
+      "R",
+      "B",
+      "M",
+      "A",
+      "U",
+      "N",
+      "A",
+      "L",
+      "O",
+      "A",
+      null,
+      "B",
+      "M",
+      "O",
+      "V",
+      "I",
+      "E",
+      "A",
+      "S",
+      "T",
+      "I",
+      "N",
+      "I",
+      "S",
+      "N",
+      "T",
+      "A",
+      "S",
+      "A",
+      "I",
+      "N",
+      "T",
+      "M",
+      "A",
+      "S",
+      "T",
+      null,
+      "T",
+      "I",
+      "N",
+      "A",
+      null,
+      null,
+      "R",
+      "A",
+      "G",
+      "A",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "C",
+      "T",
+      null,
+      "M",
+      "A",
+      "C",
+      "S",
+      null,
+      null,
+      null,
+      "T",
+      "H",
+      "E",
+      "D",
+      "A",
+      "H",
+      "A",
+      "T",
+      "E",
+      "D",
+      "D",
+      "E",
+      "A",
+      "T",
+      "H",
+      "H",
+      "Y",
+      "P",
+      "O",
+      "S",
+      null,
+      null,
+      "I",
+      "R",
+      "O",
+      "C",
+      null,
+      "L",
+      "E",
+      "I",
+      "R",
+      "E",
+      "S",
+      "T",
+      null,
+      "G",
+      "L",
+      "A",
+      "S",
+      "S",
+      null,
+      "D",
+      "I",
+      "E",
+      "M",
+      "U",
+      "N",
+      "O",
+      null,
+      "M",
+      "U",
+      "I",
+      "R",
+      null,
+      null,
+      "B",
+      "I",
+      "G",
+      "N",
+      "O",
+      "M",
+      "A",
+      "N",
+      "E",
+      "T",
+      "M",
+      "E",
+      "A",
+      "N",
+      "T",
+      "T",
+      "E",
+      "N",
+      "A",
+      "M",
+      null,
+      null,
+      null,
+      "L",
+      "A",
+      "P",
+      "D",
+      null,
+      "O",
+      "R",
+      "S",
+      null,
+      null,
+      null,
+      null,
+      "A",
+      "B",
+      "U",
+      "T",
+      null,
+      null,
+      "T",
+      "R",
+      "O",
+      "U",
+      null,
+      "C",
+      "E",
+      "D",
+      "E",
+      "M",
+      "A",
+      "S",
+      "O",
+      "N",
+      "M",
+      "O",
+      "A",
+      "N",
+      "S",
+      "N",
+      "O",
+      "M",
+      "A",
+      "S",
+      "I",
+      "B",
+      "E",
+      "R",
+      "I",
+      "A",
+      null,
+      "S",
+      "E",
+      "T",
+      "A",
+      "P",
+      "A",
+      "R",
+      "T",
+      "D",
+      "E",
+      "S",
+      "O",
+      "T",
+      "O",
+      null,
+      "A",
+      "R",
+      "S",
+      "M",
+      "A",
+      "G",
+      "N",
+      "A"
+    ]
+  }
+}

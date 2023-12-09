@@ -1,0 +1,236 @@
+{
+  "puzzle_id": 21584,
+  "promo_id": null,
+  "version": 0,
+  "puzzle_meta": {
+    "formatType": "Normal",
+    "publishType": "Mini",
+    "title": "",
+    "printDate": "2023-11-25",
+    "printDotw": 6,
+    "editor": "",
+    "copyright": "2023, The New York Times",
+    "height": 7,
+    "width": 7,
+    "notes": [],
+    "links": [],
+    "layoutExtra": [],
+    "author": "Joel Fagliano",
+    "relatedContent": null
+  },
+  "print_date": "2023-11-25",
+  "enhanced_tier_date": null,
+  "authors": [
+    "Joel Fagliano"
+  ],
+  "puzzle_data": {
+    "clues": {
+      "A": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Not many",
+          "clueEnd": 4
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Distinguishing quality",
+          "clueEnd": 12
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "It keeps a bun together",
+          "clueEnd": 20
+        },
+        {
+          "clueNum": 8,
+          "clueStart": 21,
+          "value": "Pres. Lincoln",
+          "clueEnd": 23
+        },
+        {
+          "clueNum": 9,
+          "clueStart": 25,
+          "value": "League with an inaugural 2023 in-season tournament, for short",
+          "clueEnd": 27
+        },
+        {
+          "clueNum": 10,
+          "clueStart": 28,
+          "value": "\"I'm a Believer\" band, with \"The\"",
+          "clueEnd": 34,
+          "formatted": "&#34;I&#39;m a Believer&#34; band, with &#34;The&#34;"
+        },
+        {
+          "clueNum": 12,
+          "clueStart": 35,
+          "value": "What a humblebrag attempts to show, but doesn't",
+          "clueEnd": 41,
+          "formatted": "What a humblebrag attempts to show, but doesn&#39;t"
+        },
+        {
+          "clueNum": 13,
+          "clueStart": 44,
+          "value": "Method: Abbr.",
+          "clueEnd": 46
+        }
+      ],
+      "D": [
+        {
+          "clueNum": 1,
+          "clueStart": 2,
+          "value": "Nearly all of its episode titles start \"The One With ...\"",
+          "clueEnd": 44,
+          "formatted": "Nearly all of its episode titles start &#34;The One With ...&#34;"
+        },
+        {
+          "clueNum": 2,
+          "clueStart": 3,
+          "value": "Where an Airpod goes",
+          "clueEnd": 17
+        },
+        {
+          "clueNum": 3,
+          "clueStart": 4,
+          "value": "Courtroom testifier",
+          "clueEnd": 46
+        },
+        {
+          "clueNum": 4,
+          "clueStart": 8,
+          "value": "Forbidden",
+          "clueEnd": 36
+        },
+        {
+          "clueNum": 5,
+          "clueStart": 12,
+          "value": "It borders Nepal and Bhutan",
+          "clueEnd": 40
+        },
+        {
+          "clueNum": 6,
+          "clueStart": 14,
+          "value": "Jon who plays an Elon Musk-like billionaire on \"The Morning Show\"",
+          "clueEnd": 35,
+          "formatted": "Jon who plays an Elon Musk-like billionaire on &#34;The Morning Show&#34;"
+        },
+        {
+          "clueNum": 7,
+          "clueStart": 20,
+          "value": "No sweat",
+          "clueEnd": 41
+        },
+        {
+          "clueNum": 11,
+          "clueStart": 31,
+          "value": "Lock opener",
+          "clueEnd": 45
+        }
+      ]
+    },
+    "layout": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "answers": [
+      null,
+      null,
+      "F",
+      "E",
+      "W",
+      null,
+      null,
+      null,
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      null,
+      "H",
+      "A",
+      "I",
+      "R",
+      "T",
+      "I",
+      "E",
+      "A",
+      "B",
+      "E",
+      null,
+      "N",
+      "B",
+      "A",
+      "M",
+      "O",
+      "N",
+      "K",
+      "E",
+      "E",
+      "S",
+      "M",
+      "O",
+      "D",
+      "E",
+      "S",
+      "T",
+      "Y",
+      null,
+      null,
+      "S",
+      "Y",
+      "S",
+      null,
+      null
+    ]
+  }
+}
